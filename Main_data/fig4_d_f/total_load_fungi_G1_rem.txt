@@ -1,0 +1,121 @@
+project	biological	genotype	treatment	genotype_treatment	genotype_treatment_biological	technical	sample_code	compartment	qPCR_plate	Cq_ITS1	Cq_UBQ10	ITS1_UBQ_ref
+G1	bio1	WT	BFO	WT_BFO	WT_BFO_bio1	tech1	G1-1-1-BFO	root	plate3	23.5		
+G1	bio1	WT	BFO	WT_BFO	WT_BFO_bio1	tech2	G1-1-2-BFO	root	plate3	21.23	19.63	0.052694928
+G1	bio1	WT	BFO	WT_BFO	WT_BFO_bio1	tech3	G1-1-3-BFO	root	plate3	20	19.93	0.151580715
+G1	bio1	WT	BFO	WT_BFO	WT_BFO_bio1	tech4	G1-1-4-BFO	root	plate3	19.77	20.1	0.1996619
+G1	bio1	WT	BFO	WT_BFO	WT_BFO_bio1	tech5	G1-1-5-BFO	root	plate3	19.78	20.15	0.206345544
+G1	bio1	WT	F	WT_F	WT_F_bio1	tech1	G1-1-11-F	root	plate7	13.42		
+G1	bio1	WT	F	WT_F	WT_F_bio1	tech2	G1-1-12-F	root	plate7	30.39		
+G1	bio1	WT	F	WT_F	WT_F_bio1	tech3	G1-1-13-F	root	plate7	32.42		
+G1	bio1	WT	F	WT_F	WT_F_bio1	tech4	G1-1-14-F	root	plate7	15.41	20.02	3.47990284
+G1	bio1	WT	F	WT_F	WT_F_bio1	tech5	G1-1-15-F	root	plate7	15.4	19.68	2.793335961
+G1	bio1	WT	BF	WT_BF	WT_BF_bio1	tech1	G1-1-21-BF	root	plate2	23.7	20.57	0.021167213
+G1	bio1	WT	BF	WT_BF	WT_BF_bio1	tech2	G1-1-22-BF	root	plate2	20.75	19.51	0.078468114
+G1	bio1	WT	BF	WT_BF	WT_BF_bio1	tech3	G1-1-23-BF	root	plate2	20.82	19.99	0.104261145
+G1	bio1	WT	BF	WT_BF	WT_BF_bio1	tech4	G1-1-24-BF	root	plate2	20.11	18.63	0.066504874
+G1	bio1	WT	BF	WT_BF	WT_BF_bio1	tech5	G1-1-25-BF	root	plate2	22.05	19.38	0.029226363
+G1	bio1	WT	FO	WT_FO	WT_FO_bio1	tech1	G1-1-31-FO	root	plate9	15.37	21.85	13.70619361
+G1	bio1	WT	FO	WT_FO	WT_FO_bio1	tech2	G1-1-32-FO	root	plate9	13.95	19.36	6.506780892
+G1	bio1	WT	FO	WT_FO	WT_FO_bio1	tech3	G1-1-33-FO	root	plate9	14.64	19.86	5.715442865
+G1	bio1	WT	FO	WT_FO	WT_FO_bio1	tech4	G1-1-34-FO	root	plate9	13.65	29.38	
+G1	bio1	WT	FO	WT_FO	WT_FO_bio1	tech5	G1-1-35-FO	root	plate9	14.58	20.7	10.62065519
+G1	bio1	cyp79b2b3	BFO	cyp79b2b3_BFO	cyp79b2b3_BFO_bio1	tech1	G1-1-36-BFO	root	plate3	24.3	31.48	
+G1	bio1	cyp79b2b3	BFO	cyp79b2b3_BFO	cyp79b2b3_BFO_bio1	tech2	G1-1-37-BFO	root	plate3	19.51	19.29	0.137369468
+G1	bio1	cyp79b2b3	BFO	cyp79b2b3_BFO	cyp79b2b3_BFO_bio1	tech3	G1-1-38-BFO	root	plate3	21.79	20.2	0.053174743
+G1	bio1	cyp79b2b3	BFO	cyp79b2b3_BFO	cyp79b2b3_BFO_bio1	tech4	G1-1-39-BFO	root	plate3	19.67	31.33	
+G1	bio1	cyp79b2b3	BFO	cyp79b2b3_BFO	cyp79b2b3_BFO_bio1	tech5	G1-1-40-BFO	root	plate4	20.43	32.07	
+G1	bio1	cyp79b2b3	F	cyp79b2b3_F	cyp79b2b3_F_bio1	tech1	G1-1-46-F	root	plate7	16.22		
+G1	bio1	cyp79b2b3	F	cyp79b2b3_F	cyp79b2b3_F_bio1	tech2	G1-1-47-F	root	plate7	14.85	31.89	
+G1	bio1	cyp79b2b3	F	cyp79b2b3_F	cyp79b2b3_F_bio1	tech3	G1-1-48-F	root	plate7	32.44		
+G1	bio1	cyp79b2b3	F	cyp79b2b3_F	cyp79b2b3_F_bio1	tech4	G1-1-49-F	root	plate7	17.32		
+G1	bio1	cyp79b2b3	F	cyp79b2b3_F	cyp79b2b3_F_bio1	tech5	G1-1-50-F	root	plate7			
+G1	bio1	cyp79b2b3	BF	cyp79b2b3_BF	cyp79b2b3_BF_bio1	tech1	G1-1-56-BF	root	plate2	17.4	21.97	4.404226229
+G1	bio1	cyp79b2b3	BF	cyp79b2b3_BF	cyp79b2b3_BF_bio1	tech2	G1-1-57-BF	root	plate2	19.37	19.81	0.251481634
+G1	bio1	cyp79b2b3	BF	cyp79b2b3_BF	cyp79b2b3_BF_bio1	tech3	G1-1-58-BF	root	plate2	21.66	19.28	0.035641417
+G1	bio1	cyp79b2b3	BF	cyp79b2b3_BF	cyp79b2b3_BF_bio1	tech4	G1-1-59-BF	root	plate2	17.27	18.88	0.56602776
+G1	bio1	cyp79b2b3	BF	cyp79b2b3_BF	cyp79b2b3_BF_bio1	tech5	G1-1-60-BF	root	plate2	22.32	19.62	0.02866923
+G1	bio1	cyp79b2b3	FO	cyp79b2b3_FO	cyp79b2b3_FO_bio1	tech1	G1-1-66-FO	root	plate9	18.02		
+G1	bio1	cyp79b2b3	FO	cyp79b2b3_FO	cyp79b2b3_FO_bio1	tech2	G1-1-67-FO	root	plate9			
+G1	bio1	cyp79b2b3	FO	cyp79b2b3_FO	cyp79b2b3_FO_bio1	tech3	G1-1-68-FO	root	plate9	13.78		
+G1	bio1	cyp79b2b3	FO	cyp79b2b3_FO	cyp79b2b3_FO_bio1	tech4	G1-1-69-FO	root	plate9	9.9		
+G1	bio1	cyp79b2b3	FO	cyp79b2b3_FO	cyp79b2b3_FO_bio1	tech5	G1-1-70-FO	root	plate9	13.31		
+G1	bio2	WT	BFO	WT_BFO	WT_BFO_bio2	tech1	G1-2-1-BFO	root	plate4	19.17	19.64	0.239254843
+G1	bio2	WT	BFO	WT_BFO	WT_BFO_bio2	tech2	G1-2-2-BFO	root	plate4	18.31	19.23	0.32800264
+G1	bio2	WT	BFO	WT_BFO	WT_BFO_bio2	tech3	G1-2-3-BFO	root	plate4	15.84	18.02	0.785498458
+G1	bio2	WT	BFO	WT_BFO	WT_BFO_bio2	tech4	G1-2-4-BFO	root	plate4	14.85	17.64	1.197604653
+G1	bio2	WT	BFO	WT_BFO	WT_BFO_bio2	tech5	G1-2-5-BFO	root	plate4	14.31	17.83	1.980649214
+G1	bio2	WT	F	WT_F	WT_F_bio2	tech1	G1-2-11-F	root	plate7	14.18	19.63	6.232081265
+G1	bio2	WT	F	WT_F	WT_F_bio2	tech2	G1-2-12-F	root	plate7			
+G1	bio2	WT	F	WT_F	WT_F_bio2	tech3	G1-2-13-F	root	plate7	17.96	19.2	0.338497719
+G1	bio2	WT	F	WT_F	WT_F_bio2	tech4	G1-2-14-F	root	plate7	11.6	18.87	22.04361212
+G1	bio2	WT	F	WT_F	WT_F_bio2	tech5	G1-2-15-F	root	plate7	13.03	19.53	12.95209461
+G1	bio2	WT	BF	WT_BF	WT_BF_bio2	tech1	G1-2-21-BF	root	plate2	16.48	18.91	0.999292062
+G1	bio2	WT	BF	WT_BF	WT_BF_bio2	tech2	G1-2-22-BF	root	plate2	16.81	19.24	1.004375094
+G1	bio2	WT	BF	WT_BF	WT_BF_bio2	tech3	G1-2-23-BF	root	plate2	14.82	18.53	2.437212869
+G1	bio2	WT	BF	WT_BF	WT_BF_bio2	tech4	G1-2-24-BF	root	plate2	16.51	18.58	0.775977008
+G1	bio2	WT	BF	WT_BF	WT_BF_bio2	tech5	G1-2-25-BF	root	plate2	17.01	18.46	0.50681868
+G1	bio2	WT	FO	WT_FO	WT_FO_bio2	tech1	G1-2-31-FO	root	plate9	13.04	19.43	12.83132973
+G1	bio2	WT	FO	WT_FO	WT_FO_bio2	tech2	G1-2-32-FO	root	plate10	13.31	18.91	
+G1	bio2	WT	FO	WT_FO	WT_FO_bio2	tech3	G1-2-33-FO	root	plate10	13.02	19.1	14.03977106
+G1	bio2	WT	FO	WT_FO	WT_FO_bio2	tech4	G1-2-34-FO	root	plate10	12.22	18	11.43480308
+G1	bio2	WT	FO	WT_FO	WT_FO_bio2	tech5	G1-2-35-FO	root	plate10	12.46	18.36	12.41705951
+G1	bio2	cyp79b2b3	BFO	cyp79b2b3_BFO	cyp79b2b3_BFO_bio2	tech1	G1-2-36-BFO	root	plate4	14.47	20.93	15.26039951
+G1	bio2	cyp79b2b3	BFO	cyp79b2b3_BFO	cyp79b2b3_BFO_bio2	tech2	G1-2-37-BFO	root	plate4	16.86	20.72	2.532676375
+G1	bio2	cyp79b2b3	BFO	cyp79b2b3_BFO	cyp79b2b3_BFO_bio2	tech3	G1-2-38-BFO	root	plate4	17.93	32.11	
+G1	bio2	cyp79b2b3	BFO	cyp79b2b3_BFO	cyp79b2b3_BFO_bio2	tech4	G1-2-39-BFO	root	plate4	12.11	20.53	59.53479638
+G1	bio2	cyp79b2b3	BFO	cyp79b2b3_BFO	cyp79b2b3_BFO_bio2	tech5	G1-2-40-BFO	root	plate4	12.37	19.11	18.60288854
+G1	bio2	cyp79b2b3	F	cyp79b2b3_F	cyp79b2b3_F_bio2	tech1	G1-2-46-F	root	plate7	16.29		
+G1	bio2	cyp79b2b3	F	cyp79b2b3_F	cyp79b2b3_F_bio2	tech2	G1-2-47-F	root	plate7			
+G1	bio2	cyp79b2b3	F	cyp79b2b3_F	cyp79b2b3_F_bio2	tech3	G1-2-48-F	root	plate7	10.06		
+G1	bio2	cyp79b2b3	F	cyp79b2b3_F	cyp79b2b3_F_bio2	tech4	G1-2-49-F	root	plate7	39.42		
+G1	bio2	cyp79b2b3	F	cyp79b2b3_F	cyp79b2b3_F_bio2	tech5	G1-2-50-F	root	plate7			
+G1	bio2	cyp79b2b3	BF	cyp79b2b3_BF	cyp79b2b3_BF_bio2	tech1	G1-2-56-BF	root	plate2	9.76	23.25	
+G1	bio2	cyp79b2b3	BF	cyp79b2b3_BF	cyp79b2b3_BF_bio2	tech2	G1-2-57-BF	root	plate2	13.29	19.75	16.35915359
+G1	bio2	cyp79b2b3	BF	cyp79b2b3_BF	cyp79b2b3_BF_bio2	tech3	G1-2-58-BF	root	plate2	15.1	18.73	2.294177965
+G1	bio2	cyp79b2b3	BF	cyp79b2b3_BF	cyp79b2b3_BF_bio2	tech4	G1-2-59-BF	root	plate2	11.55	19.86	59.12844722
+G1	bio2	cyp79b2b3	BF	cyp79b2b3_BF	cyp79b2b3_BF_bio2	tech5	G1-2-60-BF	root	plate2	16.21	19.11	1.385145364
+G1	bio2	cyp79b2b3	FO	cyp79b2b3_FO	cyp79b2b3_FO_bio2	tech1	G1-2-66-FO	root	plate10	13.47	18.52	
+G1	bio2	cyp79b2b3	FO	cyp79b2b3_FO	cyp79b2b3_FO_bio2	tech2	G1-2-67-FO	root	plate10	13.48	18.77	
+G1	bio2	cyp79b2b3	FO	cyp79b2b3_FO	cyp79b2b3_FO_bio2	tech3	G1-2-68-FO	root	plate10	14.28	18.98	
+G1	bio2	cyp79b2b3	FO	cyp79b2b3_FO	cyp79b2b3_FO_bio2	tech4	G1-2-69-FO	root	plate10	13.31	20.05	
+G1	bio2	cyp79b2b3	FO	cyp79b2b3_FO	cyp79b2b3_FO_bio2	tech5	G1-2-70-FO	root	plate10	13.36	19.13	
+G1	bio3	WT	BFO	WT_BFO	WT_BFO_bio3	tech1	G1-3-1-BFO	root	plate5	16.83	19.33	1.029998296
+G1	bio3	WT	BFO	WT_BFO	WT_BFO_bio3	tech2	G1-3-2-BFO	root	plate5	15.07	19.17	3.148704092
+G1	bio3	WT	BFO	WT_BFO	WT_BFO_bio3	tech3	G1-3-3-BFO	root	plate5	15.1	18.36	1.749230809
+G1	bio3	WT	BFO	WT_BFO	WT_BFO_bio3	tech4	G1-3-4-BFO	root	plate5	17.92	19.14	0.424024311
+G1	bio3	WT	BFO	WT_BFO	WT_BFO_bio3	tech5	G1-3-5-BFO	root	plate5	14.81	17.84	1.490092949
+G1	bio3	WT	F	WT_F	WT_F_bio3	tech1	G1-3-11-F	root	plate7	10.5	18.87	47.2764446
+G1	bio3	WT	F	WT_F	WT_F_bio3	tech2	G1-3-12-F	root	plate7	11.51	19.01	26.02745033
+G1	bio3	WT	F	WT_F	WT_F_bio3	tech3	G1-3-13-F	root	plate7	10.68	18.78	39.14735333
+G1	bio3	WT	F	WT_F	WT_F_bio3	tech4	G1-3-14-F	root	plate7	12.5	19.82	22.90797263
+G1	bio3	WT	F	WT_F	WT_F_bio3	tech5	G1-3-15-F	root	plate7	12.25	20.05	31.79017953
+G1	bio3	WT	BF	WT_BF	WT_BF_bio3	tech1	G1-3-21-BF	root	plate3	16.69	18.05	0.410412208
+G1	bio3	WT	BF	WT_BF	WT_BF_bio3	tech2	G1-3-22-BF	root	plate3	16.5	18.65	0.708197604
+G1	bio3	WT	BF	WT_BF	WT_BF_bio3	tech3	G1-3-23-BF	root	plate3	17.02	19.17	0.70893618
+G1	bio3	WT	BF	WT_BF	WT_BF_bio3	tech4	G1-3-24-BF	root	plate3	17.32	19.12	0.555335487
+G1	bio3	WT	BF	WT_BF	WT_BF_bio3	tech5	G1-3-25-BF	root	plate3	14.38	18.39	2.586272648
+G1	bio3	WT	FO	WT_FO	WT_FO_bio3	tech1	G1-3-31-FO	root	plate10	17.36	19.86	1.172821776
+G1	bio3	WT	FO	WT_FO	WT_FO_bio3	tech2	G1-3-32-FO	root	plate10	14.83	29.38	
+G1	bio3	WT	FO	WT_FO	WT_FO_bio3	tech3	G1-3-33-FO	root	plate10	16.05	20.7	5.198124484
+G1	bio3	WT	FO	WT_FO	WT_FO_bio3	tech4	G1-3-34-FO	root	plate10	17.3		1.29E-06
+G1	bio3	WT	FO	WT_FO	WT_FO_bio3	tech5	G1-3-35-FO	root	plate10	15.5		4.49E-06
+G1	bio3	cyp79b2b3	BFO	cyp79b2b3_BFO	cyp79b2b3_BFO_bio3	tech1	G1-3-36-BFO	root	plate5	15.73	20.1	3.788706641
+G1	bio3	cyp79b2b3	BFO	cyp79b2b3_BFO	cyp79b2b3_BFO_bio3	tech2	G1-3-37-BFO	root	plate5	15.69	21.73	12.01083348
+G1	bio3	cyp79b2b3	BFO	cyp79b2b3_BFO	cyp79b2b3_BFO_bio3	tech3	G1-3-38-BFO	root	plate5	17.37	20.52	1.61942384
+G1	bio3	cyp79b2b3	BFO	cyp79b2b3_BFO	cyp79b2b3_BFO_bio3	tech4	G1-3-39-BFO	root	plate5	14.94	19.32	3.793776222
+G1	bio3	cyp79b2b3	BFO	cyp79b2b3_BFO	cyp79b2b3_BFO_bio3	tech5	G1-3-40-BFO	root	plate5	12.08	18.56	16.23857079
+G1	bio3	cyp79b2b3	F	cyp79b2b3_F	cyp79b2b3_F_bio3	tech1	G1-3-46-F	root	plate7	25.95		
+G1	bio3	cyp79b2b3	F	cyp79b2b3_F	cyp79b2b3_F_bio3	tech2	G1-3-47-F	root	plate7	21.61		
+G1	bio3	cyp79b2b3	F	cyp79b2b3_F	cyp79b2b3_F_bio3	tech3	G1-3-48-F	root	plate7			
+G1	bio3	cyp79b2b3	F	cyp79b2b3_F	cyp79b2b3_F_bio3	tech4	G1-3-49-F	root	plate7	14.94		
+G1	bio3	cyp79b2b3	F	cyp79b2b3_F	cyp79b2b3_F_bio3	tech5	G1-3-50-F	root	plate7	9.46		
+G1	bio3	cyp79b2b3	BF	cyp79b2b3_BF	cyp79b2b3_BF_bio3	tech1	G1-3-56-BF	root	plate3	16.73	20.07	1.61929697
+G1	bio3	cyp79b2b3	BF	cyp79b2b3_BF	cyp79b2b3_BF_bio3	tech2	G1-3-57-BF	root	plate3	15.21	18.65	1.738379273
+G1	bio3	cyp79b2b3	BF	cyp79b2b3_BF	cyp79b2b3_BF_bio3	tech3	G1-3-58-BF	root	plate3	14.33	19.35	5.168294515
+G1	bio3	cyp79b2b3	BF	cyp79b2b3_BF	cyp79b2b3_BF_bio3	tech4	G1-3-59-BF	root	plate3	15.52	19.18	2.013392589
+G1	bio3	cyp79b2b3	BF	cyp79b2b3_BF	cyp79b2b3_BF_bio3	tech5	G1-3-60-BF	root	plate3	14.83	19.31	3.549818747
+G1	bio3	cyp79b2b3	FO	cyp79b2b3_FO	cyp79b2b3_FO_bio3	tech1	G1-3-66-FO	root	plate10	14.08		
+G1	bio3	cyp79b2b3	FO	cyp79b2b3_FO	cyp79b2b3_FO_bio3	tech2	G1-3-67-FO	root	plate10	17.26		
+G1	bio3	cyp79b2b3	FO	cyp79b2b3_FO	cyp79b2b3_FO_bio3	tech3	G1-3-68-FO	root	plate10	15.26		
+G1	bio3	cyp79b2b3	FO	cyp79b2b3_FO	cyp79b2b3_FO_bio3	tech4	G1-3-69-FO	root	plate10			
+G1	bio3	cyp79b2b3	FO	cyp79b2b3_FO	cyp79b2b3_FO_bio3	tech5	G1-3-70-FO	root	plate10			

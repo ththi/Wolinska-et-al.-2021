@@ -1,0 +1,5 @@
+OTU_132	k__root	p__oo	c__Oomycetes	o__Pythiales	f__Pythiaceae	g__Pythium	s__Pythium	1.0
+OTU_229	k__root	p__oo	c__Oomycetes	o__Pythiales	f__Pythiaceae	g__Pythium	s__Pythium	1.0
+OTU_210	k__root	p__oo	c__Oomycetes	o__Pythiales	f__Pythiaceae	g__Pythium	s__Pythium	1.0
+OTU_4	k__root	p__oo	c__Oomycetes	o__Pythiales	f__Pythiaceae	g__Pythium	s__Pythium	1.0
+OTU_29	k__root	p__oo	c__Oomycetes	o__Pythiales	f__Pythiaceae	g__Pythium	s__Pythium	1.0
