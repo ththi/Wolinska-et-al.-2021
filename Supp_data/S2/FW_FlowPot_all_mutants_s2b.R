@@ -70,11 +70,22 @@ sum_test <- subset(sum_test, sum_test$genotype %in% c("1aWT", "35SBRI", "apex1",
                                                       "lyk5", "pad4",  "rar1", "wrky33", "wrky3340"))
 
 
-order<- c("1aWT_no","bak1bkk1_no","bbc_no_2","efrfls2cerk1_no","lyk5_no_2","apex1_no_2","apex2_no_2","apex3_no_2",
+#order<- c("1aWT_no","bak1bkk1_no","bbc_no_2","efrfls2cerk1_no","lyk5_no_2","apex1_no_2","apex2_no_2","apex3_no_2",
+#          "wrky3340_no","wrky33_no_2",
+#          "deps_no","pad4_no","cyp79b2b3_no","35SBRI_no_2","rar1_no")
+
+#sum_test$genotype_microbes <- factor(sum_test$genotype_microbes, levels=order)
+
+sum_test[,"genotype_microbes"]=gsub("apex1_no_2","hub1_no_2",sum_test[,"genotype_microbes"])
+sum_test[,"genotype_microbes"]=gsub("apex2_no_2","apex_no_2",sum_test[,"genotype_microbes"])
+sum_test[,"genotype_microbes"]=gsub("apex3_no_2","hub2_no_2",sum_test[,"genotype_microbes"])
+
+order<- c("1aWT_no","bak1bkk1_no","bbc_no_2","efrfls2cerk1_no","lyk5_no_2","hub1_no_2","apex_no_2","hub2_no_2",
           "wrky3340_no","wrky33_no_2",
           "deps_no","pad4_no","cyp79b2b3_no","35SBRI_no_2","rar1_no")
 
 sum_test$genotype_microbes <- factor(sum_test$genotype_microbes, levels=order)
+
 
 sum_test <- droplevels(sum_test)
 b<-ggplot(sum_test, aes(x=genotype_microbes, y=FW))+theme_bw()+theme(axis.text.x=element_text(angle=90,hjust=1))+
