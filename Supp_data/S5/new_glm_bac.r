@@ -1,11 +1,9 @@
 library("gplots")
 library("edgeR")
 
-bc_nam <- read.table("../fig2/bac_data/bac_design.txt", header=T)
+bc_nam <- read.table("../../Main_data/fig2/bac_data/bac_design.txt", header=T)
 
-
-
-otu_tab <- read.table("../fig2/bac_data/bac_count_tab_rem.txt", header=T)
+otu_tab <- read.table("../../Main_data/fig2/bac_data/bac_count_tab_rem.txt", header=T)
 
 otu_ra_orig=sweep(otu_tab,2,colSums(otu_tab),"/")
 
@@ -133,7 +131,11 @@ bb=sig_tab_glm[,]
 bb[bb==1]="*"
 bb[bb==0]=NA
 
-#### bb not the same order as ordered heatmap !!!! ????
+#### renaming apex samples
+colnames(fc_tab_glm)=gsub("apex1","hub1",colnames(fc_tab_glm))
+colnames(fc_tab_glm)=gsub("apex2","apex",colnames(fc_tab_glm))
+colnames(fc_tab_glm)=gsub("apex3","hub2",colnames(fc_tab_glm))
+
 
 dev.new(height=7.7,width=3.5)
 use_col=colorRampPalette(c("dark blue","blue","blue","white","red","red","brown"))(100)

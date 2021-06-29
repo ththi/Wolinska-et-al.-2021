@@ -5,7 +5,7 @@ library("edgeR")
 
 bc_nam <- read.table("fun_design_fw.txt", header=T)
 
-otu_tab <- read.table("../fig2/fun_data/fun_count_tab_rem.txt", header=T)
+otu_tab <- read.table("../../Main_datafig2/fun_data/fun_count_tab_rem.txt", header=T)
 
 
 otu_ra_orig=sweep(otu_tab,2,colSums(otu_tab),"/")
@@ -99,6 +99,11 @@ for(i in 1:15){
 bb=sig_tab_glm[,]
 bb[bb==1]="*"
 bb[bb==0]=NA
+
+#### renaming apex samples
+colnames(fc_tab_glm)=gsub("apex1","hub1",colnames(fc_tab_glm))
+colnames(fc_tab_glm)=gsub("apex2","apex",colnames(fc_tab_glm))
+colnames(fc_tab_glm)=gsub("apex3","hub2",colnames(fc_tab_glm))
 
 dev.new(height=6.497737,width=4.262443)
 use_col=colorRampPalette(c("dark blue","blue","blue","white","red","red","brown"))(100)
