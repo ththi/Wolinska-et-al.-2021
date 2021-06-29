@@ -43,9 +43,15 @@ qPCR_BFO <- subset(qPCR_BFO, qPCR_BFO$genotype %in% c("2aWT","35SBRI", "apex1", 
                                                       "lyk5", "pad4",  "rar1", "wrky33", "wrky3340"))
 
 
+### change names from old version
+
+qPCR_BFO[,"genotype2"]=gsub("apex1","hub1",qPCR_BFO[,"genotype2"])
+qPCR_BFO[,"genotype2"]=gsub("apex2","apex",qPCR_BFO[,"genotype2"])
+qPCR_BFO[,"genotype2"]=gsub("apex3","hub2",qPCR_BFO[,"genotype2"])
+													
 
 
-l <- c("2aWT","bak1bkk1","bak1bkk1cerk1","efrfls2cerk1","lyk5","apex1","apex2", "apex3", "wrky3340","wrky33",
+l <- c("2aWT","bak1bkk1","bak1bkk1cerk1","efrfls2cerk1","lyk5","hub1","apex", "hub2", "wrky3340","wrky33",
        "deps","pad4","cyp79b2b3","35SBRI","bri301","rar1")
 qPCR_BFO$genotype2 <- factor(qPCR_BFO$genotype2, levels=l)
 

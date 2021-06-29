@@ -1,8 +1,17 @@
+library("car")
+
 ###################################
 #Correlation growth-microbial load#
 ###################################
 data_FW_load=read.table("FW_microbial_load.txt", h=T)
 data_FW_load=data_FW_load[-which(data_FW_load$genotype=="bri301"),]
+
+### change genotype names from old version
+
+data_FW_load[,"genotype"]=gsub("apex1","hub1",data_FW_load[,"genotype"])
+data_FW_load[,"genotype"]=gsub("apex2","apex",data_FW_load[,"genotype"])
+data_FW_load[,"genotype"]=gsub("apex3","hub2",data_FW_load[,"genotype"])
+
 #####BACTERIA#####
 mod=lm(FW_ratio_mean  ~log(X16S_load_mean), data=data_FW_load)
 #qqnorm(residuals(mod))
