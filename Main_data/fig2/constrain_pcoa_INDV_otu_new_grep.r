@@ -15,9 +15,13 @@ bc_nam[,"genotype"]=gsub("WT_new","WT",bc_nam[,"genotype"])
 bc_nam[,"genotype"]=gsub("bulk_new","bulk",bc_nam[,"genotype"])
 
 
+# change genotype names from old version
+bc_nam[,"genotype"]=gsub("apex1","hub1",bc_nam[,"genotype"])
+bc_nam[,"genotype"]=gsub("apex2","apex",bc_nam[,"genotype"])
+bc_nam[,"genotype"]=gsub("apex3","hub2",bc_nam[,"genotype"])
 
 # use design, choose samples /colors
-gen_list=c("35SBRI","apex1","apex2","apex3","bak1bkk1","bak1bkk1cerk1","bri301", "cyp79b2b3", "deps", "efrfls2cerk1","lyk5", "pad4", "rar1","wrky33","wrky3340", "WT")
+gen_list=c("35SBRI","hub1","apex","hub2","bak1bkk1","bak1bkk1cerk1","bri301", "cyp79b2b3", "deps", "efrfls2cerk1","lyk5", "pad4", "rar1","wrky33","wrky3340", "WT")
 col_list=c("peachpuff1","thistle","thistle3","thistle4","red2","red4","peachpuff3","blue1","yellow2","deeppink1","darkgoldenrod1", "deepskyblue1","green2","purple","purple2","purple3", "black")
 
 
