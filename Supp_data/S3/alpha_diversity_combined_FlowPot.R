@@ -24,9 +24,9 @@ library(vegan, quietly=T, warn.conflicts=F)
 
 figures.dir<-""
 
-design <- read.table("../fig2/bac_data/bac_design.txt", header=T, sep="\t")
+design <- read.table("../../Main_data/fig2/bac_data/bac_design.txt", header=T, sep="\t")
 
-shannon <- read.table("../fig2/bac_data/bac_chao.txt", sep="\t", header=T, check.names=F)
+shannon <- read.table("../../Main_data/fig2/bac_data/bac_chao.txt", sep="\t", header=T, check.names=F)
 
 
  
@@ -65,10 +65,15 @@ colnames(index_shannon)[1] <- "value"
 index_shannon<-na.omit(index_shannon)
 
 
-l <- c("initial","soil","WT","bak1bkk1","bak1bkk1cerk1", "efrfls2cerk1", "lyk5","apex1","apex2", "apex3", "wrky3340",
+### renaming of genotypes from old version
+
+index_shannon[,"genotype"]=gsub("apex1","hub1",index_shannon[,"genotype"])
+index_shannon[,"genotype"]=gsub("apex2","apex",index_shannon[,"genotype"])
+index_shannon[,"genotype"]=gsub("apex3","hub2",index_shannon[,"genotype"])
+
+
+l <- c("initial","soil","WT","bak1bkk1","bak1bkk1cerk1", "efrfls2cerk1", "lyk5","hub1","apex", "hub2", "wrky3340",
        "wrky33", "deps","pad4","cyp79b2b3","35SBRI","bri301",  "rar1")
-
-
 
 index_shannon$genotype <- factor(index_shannon$genotype, levels=l)
 
@@ -103,7 +108,7 @@ model3 <- function(data){
 }
 
 OT <- dlply(index_shannon, .(library_type), model3)
-cat("\n", file="kw_fig_S3_x.txt", sep="\n", append=TRUE)
+cat("\n", file="kw_S3_x.txt", sep="\n", append=TRUE)
 write.table(ldply(OT), file="kw_S3_x.txt", col.names=TRUE, row.names=FALSE, append=TRUE)
 
 model4b <- function(Data){
