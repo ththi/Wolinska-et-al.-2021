@@ -1,0 +1,1297 @@
+experiment	biological	genotype	genotype_barplot	treatment	genotype_treatment	genotype_treatment_biological	flowpot_number	plant_no	FW_g
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp1	pl1	0.022
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp1	pl2	0.0152
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp1	pl3	0.0285
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp1	pl4	0.0258
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp2	pl1	0.0429
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp2	pl2	0.0029
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp2	pl3	0.0278
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp2	pl4	0.019
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp3	pl1	0.015
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp3	pl2	0.0098
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp3	pl3	0.0154
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp3	pl4	0.0091
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp4	pl1	0.0336
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp4	pl2	0.0239
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp4	pl3	0.0435
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp4	pl4	0.0276
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp5	pl1	0.0252
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp5	pl2	0.01
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp5	pl3	0.0355
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp5	pl4	0.021
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp6	pl1	0.0272
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp6	pl2	0.0172
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp6	pl3	0.0298
+FP_gluco	bio1	WT	aWT	sterile	WT_sterile	WT_sterile_bio1	fp6	pl4	0.0283
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp1	pl1	0.0299
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp1	pl2	0.0126
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp1	pl3	0.0222
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp1	pl4	0.0153
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp2	pl1	0.0015
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp2	pl2	0.0655
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp2	pl3	0.0066
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp2	pl4	0.0091
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp3	pl1	0.0322
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp3	pl2	0.0209
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp3	pl3	0.0343
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp3	pl4	
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp4	pl1	0.0363
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp4	pl2	0.0163
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp4	pl3	0.0109
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp4	pl4	0.0318
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp5	pl1	0.0402
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp5	pl2	0.0724
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp5	pl3	0.093
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp5	pl4	0.0216
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp6	pl1	0.0561
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp6	pl2	0.0384
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp6	pl3	0.0167
+FP_gluco	bio1	WT	aWT	BFO	WT_BFO	WT_BFO_bio1	fp6	pl4	0.0714
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp1	pl1	0.0517
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp1	pl2	0.0126
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp1	pl3	0.0111
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp1	pl4	0.0164
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp2	pl1	0.0265
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp2	pl2	0.025
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp2	pl3	0.0058
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp2	pl4	0.0144
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp3	pl1	0.0146
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp3	pl2	0.0142
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp3	pl3	0.0198
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp3	pl4	0.0048
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp4	pl1	0.027
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp4	pl2	0.0105
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp4	pl3	0.015
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp4	pl4	0.0228
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp5	pl1	0.028
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp5	pl2	0.0206
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp5	pl3	0.0211
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp5	pl4	0.01
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp6	pl1	0.0215
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp6	pl2	0.0247
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp6	pl3	0.0094
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio1	fp6	pl4	0.0118
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp1	pl1	0.0297
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp1	pl2	0.0417
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp1	pl3	0.0194
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp1	pl4	0.0085
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp2	pl1	0.014
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp2	pl2	0.0172
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp2	pl3	0.0444
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp2	pl4	0.0052
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp3	pl1	0.0628
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp3	pl2	0.0262
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp3	pl3	0.0108
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp3	pl4	0.0357
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp4	pl1	0.0272
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp4	pl2	0.0315
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp4	pl3	0.0278
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp4	pl4	0.0523
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp5	pl1	0.0283
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp5	pl2	0.0245
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp5	pl3	0.0194
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp5	pl4	0.0276
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp6	pl1	0.0402
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp6	pl2	0.0133
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp6	pl3	0.0214
+FP_gluco	bio1	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio1	fp6	pl4	0.0111
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp1	pl1	0.0269
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp1	pl2	0.0189
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp1	pl3	0.0123
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp1	pl4	0.0158
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp2	pl1	0.0423
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp2	pl2	0.0128
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp2	pl3	0.0172
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp2	pl4	0.0268
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp3	pl1	0.033
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp3	pl2	0.0337
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp3	pl3	0.0071
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp3	pl4	0.0167
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp4	pl1	0.049
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp4	pl2	0.0144
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp4	pl3	0.0101
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp4	pl4	0.0234
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp5	pl1	0.0205
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp5	pl2	0.0265
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp5	pl3	
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp5	pl4	
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp6	pl1	0.0162
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp6	pl2	0.0227
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp6	pl3	0.0496
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio1	fp6	pl4	0.0439
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp1	pl1	0.0181
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp1	pl2	0.0298
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp1	pl3	0.0249
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp1	pl4	0.0018
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp2	pl1	0.0387
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp2	pl2	0.037
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp2	pl3	0.0245
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp2	pl4	0.0223
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp3	pl1	0.0115
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp3	pl2	0.0264
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp3	pl3	0.0249
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp3	pl4	0.0147
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp4	pl1	0.0284
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp4	pl2	0.0233
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp4	pl3	0.0241
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp4	pl4	0.0137
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp5	pl1	0.0216
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp5	pl2	0.0069
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp5	pl3	0.0148
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp5	pl4	0.0076
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp6	pl1	0.0201
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp6	pl2	0.0357
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp6	pl3	0.0173
+FP_gluco	bio1	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio1	fp6	pl4	0.011
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp1	pl1	0.0287
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp1	pl2	0.0203
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp1	pl3	0.0271
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp1	pl4	0.0168
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp2	pl1	0.0139
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp2	pl2	0.0179
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp2	pl3	0.0088
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp2	pl4	0.0144
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp3	pl1	0.0213
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp3	pl2	0.0248
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp3	pl3	0.03
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp3	pl4	0.015
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp4	pl1	0.0221
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp4	pl2	0.0192
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp4	pl3	0.0179
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp4	pl4	0.02
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp5	pl1	0.0264
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp5	pl2	0.0206
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp5	pl3	0.0192
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp5	pl4	0.0223
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp6	pl1	0.0123
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp6	pl2	0.0186
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp6	pl3	0.0227
+FP_gluco	bio1	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio1	fp6	pl4	0.0198
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp1	pl1	0.0244
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp1	pl2	0.0151
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp1	pl3	0.0103
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp1	pl4	0.0112
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp2	pl1	0.0435
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp2	pl2	0.0355
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp2	pl3	0.0093
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp2	pl4	0.0071
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp3	pl1	0.0313
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp3	pl2	0.02
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp3	pl3	0.0364
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp3	pl4	0.0238
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp4	pl1	0.0118
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp4	pl2	0.016
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp4	pl3	0.006
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp4	pl4	0.0169
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp5	pl1	0.0495
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp5	pl2	0.0524
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp5	pl3	0.0585
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp5	pl4	0.0159
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp6	pl1	0.0523
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp6	pl2	0.014
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp6	pl3	0.023
+FP_gluco	bio1	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio1	fp6	pl4	0.0072
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp1	pl1	0.0253
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp1	pl2	0.0158
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp1	pl3	0.0032
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp1	pl4	0.0096
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp2	pl1	0.0304
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp2	pl2	0.0095
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp2	pl3	0.0122
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp2	pl4	0.0052
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp3	pl1	0.0178
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp3	pl2	0.0112
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp3	pl3	0.0349
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp3	pl4	
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp4	pl1	0.0369
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp4	pl2	0.0099
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp4	pl3	0.0047
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp4	pl4	
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp5	pl1	0.0202
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp5	pl2	0.0355
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp5	pl3	0.0094
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp5	pl4	0.0087
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp6	pl1	0.035
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp6	pl2	0.024
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp6	pl3	0.0206
+FP_gluco	bio1	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio1	fp6	pl4	0.0101
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp1	pl1	0.0786
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp1	pl2	0.0223
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp1	pl3	0.0192
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp1	pl4	0.0267
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp2	pl1	0.0313
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp2	pl2	0.0398
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp2	pl3	0.0068
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp2	pl4	0.0036
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp3	pl1	0.0287
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp3	pl2	0.015
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp3	pl3	0.0171
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp3	pl4	0.0123
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp4	pl1	0.0306
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp4	pl2	0.0167
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp4	pl3	0.0172
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp4	pl4	0.0292
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp5	pl1	0.0222
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp5	pl2	0.0208
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp5	pl3	0.0311
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp5	pl4	0.0284
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp6	pl1	0.0032
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp6	pl2	0.0156
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp6	pl3	0.0076
+FP_gluco	bio1	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio1	fp6	pl4	0.0068
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp1	pl1	0.0216
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp1	pl2	0.0371
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp1	pl3	0.0106
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp1	pl4	0.0374
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp2	pl1	0.0329
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp2	pl2	0.0443
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp2	pl3	0.0303
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp2	pl4	0.0466
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp3	pl1	0.0359
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp3	pl2	0.0209
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp3	pl3	0.0375
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp3	pl4	0.025
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp4	pl1	0.0153
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp4	pl2	0.0453
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp4	pl3	0.0605
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp4	pl4	0.0142
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp5	pl1	0.0346
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp5	pl2	0.0394
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp5	pl3	0.0191
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp5	pl4	0.0198
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp6	pl1	0.0398
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp6	pl2	0.029
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp6	pl3	0.0332
+FP_gluco	bio1	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio1	fp6	pl4	0.0152
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp1	pl1	0.045
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp1	pl2	0.0298
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp1	pl3	0.0121
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp1	pl4	0.0167
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp2	pl1	0.0161
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp2	pl2	0.0695
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp2	pl3	0.0137
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp2	pl4	0.031
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp3	pl1	0.065
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp3	pl2	0.0258
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp3	pl3	0.0182
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp3	pl4	
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp4	pl1	0.017
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp4	pl2	0.025
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp4	pl3	0.0145
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp4	pl4	0.0122
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp5	pl1	0.0263
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp5	pl2	0.0425
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp5	pl3	0.0159
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp5	pl4	
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp6	pl1	0.0145
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp6	pl2	0.0257
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp6	pl3	0.0192
+FP_gluco	bio1	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio1	fp6	pl4	
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp1	pl1	0.0181
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp1	pl2	0.0176
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp1	pl3	0.0307
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp1	pl4	0.0255
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp2	pl1	0.0323
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp2	pl2	0.0093
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp2	pl3	0.0118
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp2	pl4	0.0226
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp3	pl1	0.0333
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp3	pl2	0.0252
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp3	pl3	0.019
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp3	pl4	0.0103
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp4	pl1	0.0201
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp4	pl2	0.0054
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp4	pl3	0.0191
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp4	pl4	0.0253
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp5	pl1	0.0113
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp5	pl2	0.017
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp5	pl3	0.0118
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp5	pl4	0.0181
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp6	pl1	0.0226
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp6	pl2	0.0164
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp6	pl3	0.0074
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio1	fp6	pl4	0.0068
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp1	pl1	0.0195
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp1	pl2	0.0319
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp1	pl3	0.0382
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp1	pl4	0.0309
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp2	pl1	0.0234
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp2	pl2	0.0069
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp2	pl3	0.0824
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp2	pl4	0.0122
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp3	pl1	0.0201
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp3	pl2	0.0459
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp3	pl3	0.0117
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp3	pl4	0.008
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp4	pl1	0.0283
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp4	pl2	0.0474
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp4	pl3	0.0291
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp4	pl4	0.0333
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp5	pl1	0.0278
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp5	pl2	0.0134
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp5	pl3	0.0203
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp5	pl4	0.0163
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp6	pl1	0.043
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp6	pl2	0.0311
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp6	pl3	0.0186
+FP_gluco	bio1	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio1	fp6	pl4	0.0247
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp1	pl1	0.0415
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp1	pl2	0.0215
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp1	pl3	0.0223
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp1	pl4	0.0282
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp2	pl1	0.0293
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp2	pl2	0.0262
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp2	pl3	0.0254
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp2	pl4	0.0238
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp3	pl1	0.028
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp3	pl2	0.0403
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp3	pl3	0.0092
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp3	pl4	0.0182
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp4	pl1	0.0242
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp4	pl2	0.0253
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp4	pl3	0.0173
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp4	pl4	0.018
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp5	pl1	0.0271
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp5	pl2	0.0328
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp5	pl3	0.0345
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp5	pl4	0.0284
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp6	pl1	0.0191
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp6	pl2	0.0195
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp6	pl3	0.0214
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio1	fp6	pl4	0.0161
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp1	pl1	0.0216
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp1	pl2	0.0163
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp1	pl3	0.0117
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp1	pl4	0.0076
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp2	pl1	0.0307
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp2	pl2	0.0123
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp2	pl3	0.0142
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp2	pl4	0.0031
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp3	pl1	0.0342
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp3	pl2	0.0246
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp3	pl3	0.0654
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp3	pl4	
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp4	pl1	0.0291
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp4	pl2	0.018
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp4	pl3	0.0263
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp4	pl4	0.0139
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp5	pl1	0.0117
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp5	pl2	0.0299
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp5	pl3	0.0444
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp5	pl4	0.025
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp6	pl1	0.0217
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp6	pl2	0.0715
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp6	pl3	0.0183
+FP_gluco	bio1	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio1	fp6	pl4	0.019
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp1	pl1	0.0258
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp1	pl2	0.027
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp1	pl3	0.015
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp1	pl4	0.0312
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp2	pl1	0.0225
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp2	pl2	0.0345
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp2	pl3	0.0311
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp2	pl4	0.0154
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp3	pl1	0.0276
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp3	pl2	0.0207
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp3	pl3	0.0278
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp3	pl4	0.0216
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp4	pl1	0.0286
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp4	pl2	0.0266
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp4	pl3	0.0235
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp4	pl4	0.0176
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp5	pl1	0.0238
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp5	pl2	0.0198
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp5	pl3	0.0184
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp5	pl4	0.0149
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp6	pl1	0.0218
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp6	pl2	0.0309
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp6	pl3	0.0161
+FP_gluco	bio1	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio1	fp6	pl4	0.0211
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp1	pl1	0.033
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp1	pl2	0.0456
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp1	pl3	0.0101
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp1	pl4	0.0295
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp2	pl1	0.0361
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp2	pl2	0.0756
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp2	pl3	0.0365
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp2	pl4	0.0286
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp3	pl1	0.0064
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp3	pl2	0.021
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp3	pl3	0.0193
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp3	pl4	0.0483
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp4	pl1	0.0147
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp4	pl2	0.0272
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp4	pl3	0.0158
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp4	pl4	0.0507
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp5	pl1	0.0056
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp5	pl2	0.0154
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp5	pl3	0.019
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp5	pl4	
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp6	pl1	0.0502
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp6	pl2	0.0231
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp6	pl3	0.0211
+FP_gluco	bio1	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio1	fp6	pl4	0.0372
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp1	pl1	0.0011
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp1	pl2	0.0159
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp1	pl3	
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp1	pl4	
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp2	pl1	0.0521
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp2	pl2	0.0091
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp2	pl3	0.0056
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp2	pl4	0.0001
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp3	pl1	0.0169
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp3	pl2	0.0249
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp3	pl3	0.0609
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp3	pl4	0.0601
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp4	pl1	0.0104
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp4	pl2	0.0159
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp4	pl3	0.0424
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp4	pl4	0.0416
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp5	pl1	0.0034
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp5	pl2	0.0025
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp5	pl3	0.0079
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp5	pl4	
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp6	pl1	0.0476
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp6	pl2	0.0425
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp6	pl3	0.0072
+FP_gluco	bio2	WT	aWT	sterile	WT_sterile	WT_sterile_bio2	fp6	pl4	0.001
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp1	pl1	0.0258
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp1	pl2	0.0464
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp1	pl3	
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp1	pl4	
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp2	pl1	0.0202
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp2	pl2	0.0143
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp2	pl3	0.0169
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp2	pl4	
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp3	pl1	0.0156
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp3	pl2	0.064
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp3	pl3	0.0278
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp3	pl4	0.0359
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp4	pl1	0.0535
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp4	pl2	0.131
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp4	pl3	0.0266
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp4	pl4	0.0472
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp5	pl1	0.0299
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp5	pl2	0.0291
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp5	pl3	0.029
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp5	pl4	
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp6	pl1	0.0174
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp6	pl2	0.0143
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp6	pl3	0.0324
+FP_gluco	bio2	WT	aWT	BFO	WT_BFO	WT_BFO_bio2	fp6	pl4	0.0047
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp1	pl1	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp1	pl2	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp1	pl3	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp1	pl4	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp2	pl1	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp2	pl2	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp2	pl3	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp2	pl4	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp3	pl1	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp3	pl2	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp3	pl3	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp3	pl4	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp4	pl1	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp4	pl2	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp4	pl3	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp4	pl4	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp5	pl1	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp5	pl2	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp5	pl3	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp5	pl4	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp6	pl1	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp6	pl2	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp6	pl3	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio2	fp6	pl4	
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp1	pl1	0.1216
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp1	pl2	0.05
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp1	pl3	0.0402
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp1	pl4	0.0568
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp2	pl1	0.013
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp2	pl2	0.0436
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp2	pl3	0.0429
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp2	pl4	0.0236
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp3	pl1	0.0348
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp3	pl2	0.0158
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp3	pl3	0.0546
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp3	pl4	0.0715
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp4	pl1	0.0147
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp4	pl2	0.0257
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp4	pl3	0.0157
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp4	pl4	0.0081
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp5	pl1	0.0165
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp5	pl2	0.0222
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp5	pl3	0.0245
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp5	pl4	0.0133
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp6	pl1	0.0144
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp6	pl2	0.0695
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp6	pl3	0.0122
+FP_gluco	bio2	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio2	fp6	pl4	0.0027
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp1	pl1	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp1	pl2	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp1	pl3	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp1	pl4	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp2	pl1	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp2	pl2	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp2	pl3	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp2	pl4	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp3	pl1	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp3	pl2	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp3	pl3	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp3	pl4	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp4	pl1	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp4	pl2	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp4	pl3	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp4	pl4	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp5	pl1	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp5	pl2	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp5	pl3	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp5	pl4	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp6	pl1	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp6	pl2	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp6	pl3	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio2	fp6	pl4	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp1	pl1	0.0393
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp1	pl2	0.039
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp1	pl3	0.0269
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp1	pl4	0.0132
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp2	pl1	0.042
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp2	pl2	0.0103
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp2	pl3	0.0221
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp2	pl4	0.004
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp3	pl1	0.1167
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp3	pl2	0.1336
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp3	pl3	0.0183
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp3	pl4	
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp4	pl1	0.0138
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp4	pl2	0.0156
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp4	pl3	0.0336
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp4	pl4	0.0144
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp5	pl1	0.031
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp5	pl2	0.0227
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp5	pl3	0.0326
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp5	pl4	0.0363
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp6	pl1	0.0161
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp6	pl2	0.017
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp6	pl3	0.0087
+FP_gluco	bio2	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio2	fp6	pl4	0.0052
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp1	pl1	0.0463
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp1	pl2	0.0272
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp1	pl3	0.0285
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp1	pl4	0.0295
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp2	pl1	0.014
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp2	pl2	0.0357
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp2	pl3	0.0338
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp2	pl4	0.0177
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp3	pl1	0.026
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp3	pl2	0.0177
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp3	pl3	0.0147
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp3	pl4	0.0307
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp4	pl1	0.015
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp4	pl2	0.0334
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp4	pl3	0.0155
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp4	pl4	0.0187
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp5	pl1	0.0226
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp5	pl2	0.034
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp5	pl3	0.0135
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp5	pl4	
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp6	pl1	0.0426
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp6	pl2	0.0338
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp6	pl3	0.0161
+FP_gluco	bio2	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio2	fp6	pl4	0.026
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp1	pl1	0.0489
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp1	pl2	0.0563
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp1	pl3	0.0256
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp1	pl4	0.0476
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp2	pl1	0.0374
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp2	pl2	0.0365
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp2	pl3	0.0274
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp2	pl4	0.03
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp3	pl1	0.0664
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp3	pl2	0.0499
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp3	pl3	0.0477
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp3	pl4	0.0596
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp4	pl1	0.0439
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp4	pl2	0.0473
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp4	pl3	0.0395
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp4	pl4	0.0383
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp5	pl1	0.0244
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp5	pl2	0.0257
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp5	pl3	0.0181
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp5	pl4	0.0288
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp6	pl1	0.0316
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp6	pl2	0.0319
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp6	pl3	0.0323
+FP_gluco	bio2	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio2	fp6	pl4	0.025
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp1	pl1	0.0096
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp1	pl2	0.0034
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp1	pl3	0.0682
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp1	pl4	
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp2	pl1	0.0011
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp2	pl2	0.0111
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp2	pl3	0.0488
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp2	pl4	0.0372
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp3	pl1	0.0098
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp3	pl2	0.0123
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp3	pl3	0.0047
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp3	pl4	0.0005
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp4	pl1	0.0086
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp4	pl2	0.0131
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp4	pl3	0.0215
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp4	pl4	0.0124
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp5	pl1	0.0197
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp5	pl2	0.0063
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp5	pl3	0.0027
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp5	pl4	0.0066
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp6	pl1	0.0034
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp6	pl2	0.0063
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp6	pl3	
+FP_gluco	bio2	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio2	fp6	pl4	
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp1	pl1	0.0295
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp1	pl2	0.0071
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp1	pl3	0.0149
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp1	pl4	0.0324
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp2	pl1	0.0372
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp2	pl2	0.0195
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp2	pl3	0.0387
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp2	pl4	0.0163
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp3	pl1	0.0388
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp3	pl2	0.0331
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp3	pl3	0.0181
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp3	pl4	0.0275
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp4	pl1	0.028
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp4	pl2	0.0083
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp4	pl3	0.0216
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp4	pl4	0.0243
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp5	pl1	0.0207
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp5	pl2	0.0114
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp5	pl3	0.0168
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp5	pl4	0.0517
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp6	pl1	0.0075
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp6	pl2	0.0266
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp6	pl3	0.0183
+FP_gluco	bio2	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio2	fp6	pl4	0.0124
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp1	pl1	0.0245
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp1	pl2	0.0267
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp1	pl3	0.0066
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp1	pl4	0.0205
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp2	pl1	0.0262
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp2	pl2	0.0109
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp2	pl3	0.0176
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp2	pl4	0.0199
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp3	pl1	0.029
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp3	pl2	0.0428
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp3	pl3	0.0391
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp3	pl4	0.0065
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp4	pl1	0.0468
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp4	pl2	0.049
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp4	pl3	0.0212
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp4	pl4	0.0315
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp5	pl1	0.0195
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp5	pl2	0.0296
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp5	pl3	0.0117
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp5	pl4	0.0253
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp6	pl1	0.0137
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp6	pl2	0.0092
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp6	pl3	0.0037
+FP_gluco	bio2	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio2	fp6	pl4	0.0085
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp1	pl1	0.0894
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp1	pl2	0.0828
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp1	pl3	0.1047
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp1	pl4	
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp2	pl1	0.0433
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp2	pl2	0.0752
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp2	pl3	0.0541
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp2	pl4	0.0813
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp3	pl1	0.075
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp3	pl2	0.0667
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp3	pl3	0.0397
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp3	pl4	0.0071
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp4	pl1	0.0468
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp4	pl2	0.0292
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp4	pl3	0.0636
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp4	pl4	
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp5	pl1	0.0147
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp5	pl2	0.0049
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp5	pl3	0.0085
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp5	pl4	0.037
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp6	pl1	0.018
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp6	pl2	0.0313
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp6	pl3	0.0132
+FP_gluco	bio2	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio2	fp6	pl4	0.0051
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp1	pl1	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp1	pl2	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp1	pl3	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp1	pl4	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp2	pl1	0.0378
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp2	pl2	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp2	pl3	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp2	pl4	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp3	pl1	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp3	pl2	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp3	pl3	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp3	pl4	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp4	pl1	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp4	pl2	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp4	pl3	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp4	pl4	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp5	pl1	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp5	pl2	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp5	pl3	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp5	pl4	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp6	pl1	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp6	pl2	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp6	pl3	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio2	fp6	pl4	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp1	pl1	0.0714
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp1	pl2	0.0245
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp1	pl3	0.0189
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp1	pl4	0.0193
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp2	pl1	0.0424
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp2	pl2	0.0419
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp2	pl3	0.046
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp2	pl4	0.061
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp3	pl1	0.0556
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp3	pl2	0.0291
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp3	pl3	0.0501
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp3	pl4	
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp4	pl1	0.0884
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp4	pl2	0.0024
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp4	pl3	0.0206
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp4	pl4	0.0226
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp5	pl1	0.0713
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp5	pl2	0.0413
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp5	pl3	0.021
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp5	pl4	0.0434
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp6	pl1	0.0284
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp6	pl2	0.0568
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp6	pl3	0.0621
+FP_gluco	bio2	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio2	fp6	pl4	0.0565
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp1	pl1	0.0026
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp1	pl2	0.011
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp1	pl3	0.0074
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp1	pl4	
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp2	pl1	
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp2	pl2	
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp2	pl3	
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp2	pl4	
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp3	pl1	0.0369
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp3	pl2	
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp3	pl3	
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp3	pl4	
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp4	pl1	0.0504
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp4	pl2	0.0458
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp4	pl3	0.0263
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp4	pl4	0.0061
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp5	pl1	0.0385
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp5	pl2	0.0388
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp5	pl3	
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp5	pl4	
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp6	pl1	0.0409
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp6	pl2	0.0074
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp6	pl3	0.0078
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio2	fp6	pl4	
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp1	pl1	0.0512
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp1	pl2	0.0189
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp1	pl3	0.0189
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp1	pl4	
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp2	pl1	0.0349
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp2	pl2	0.0082
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp2	pl3	0.0173
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp2	pl4	0.0148
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp3	pl1	0.0635
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp3	pl2	0.0344
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp3	pl3	0.0072
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp3	pl4	
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp4	pl1	0.0353
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp4	pl2	0.0278
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp4	pl3	0.0109
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp4	pl4	
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp5	pl1	0.0918
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp5	pl2	0.0289
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp5	pl3	0.0562
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp5	pl4	0.0371
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp6	pl1	0.0293
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp6	pl2	0.013
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp6	pl3	0.0403
+FP_gluco	bio2	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio2	fp6	pl4	0.0069
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp1	pl1	0.0092
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp1	pl2	0.0239
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp1	pl3	0.0366
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp1	pl4	0.0261
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp2	pl1	0.0202
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp2	pl2	0.0307
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp2	pl3	0.0308
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp2	pl4	0.0198
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp3	pl1	0.0452
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp3	pl2	0.0472
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp3	pl3	0.0588
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp3	pl4	
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp4	pl1	0.0144
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp4	pl2	0.0335
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp4	pl3	0.0345
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp4	pl4	
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp5	pl1	0.0017
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp5	pl2	0.0411
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp5	pl3	0.0551
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp5	pl4	0.0223
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp6	pl1	0.0237
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp6	pl2	0.0249
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp6	pl3	0.0239
+FP_gluco	bio2	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio2	fp6	pl4	0.022
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp1	pl1	0.021
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp1	pl2	0.0115
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp1	pl3	0.0392
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp1	pl4	0.0286
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp2	pl1	0.1202
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp2	pl2	0.0551
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp2	pl3	0.0414
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp2	pl4	0.0292
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp3	pl1	0.0119
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp3	pl2	0.043
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp3	pl3	0.0324
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp3	pl4	0.031
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp4	pl1	0.1011
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp4	pl2	0.0438
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp4	pl3	0.0649
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp4	pl4	0.0351
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp5	pl1	0.0208
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp5	pl2	0.0172
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp5	pl3	0.007
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp5	pl4	0.0037
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp6	pl1	0.0112
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp6	pl2	0.0347
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp6	pl3	0.0214
+FP_gluco	bio2	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio2	fp6	pl4	0.0246
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp1	pl1	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp1	pl2	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp1	pl3	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp1	pl4	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp2	pl1	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp2	pl2	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp2	pl3	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp2	pl4	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp3	pl1	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp3	pl2	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp3	pl3	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp3	pl4	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp4	pl1	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp4	pl2	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp4	pl3	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp4	pl4	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp5	pl1	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp5	pl2	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp5	pl3	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp5	pl4	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp6	pl1	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp6	pl2	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp6	pl3	
+FP_gluco	bio3	WT	aWT	sterile	WT_sterile	WT_sterile_bio3	fp6	pl4	
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp1	pl1	0.0252
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp1	pl2	0.0063
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp1	pl3	0.0284
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp1	pl4	
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp2	pl1	0.0819
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp2	pl2	0.0105
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp2	pl3	0.019
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp2	pl4	0.0177
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp3	pl1	0.0713
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp3	pl2	0.0055
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp3	pl3	0.0367
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp3	pl4	
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp4	pl1	0.0089
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp4	pl2	0.0069
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp4	pl3	0.02
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp4	pl4	0.0049
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp5	pl1	0.0915
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp5	pl2	0.0176
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp5	pl3	0.0236
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp5	pl4	0.0044
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp6	pl1	0.0433
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp6	pl2	0.0091
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp6	pl3	0.0214
+FP_gluco	bio3	WT	aWT	BFO	WT_BFO	WT_BFO_bio3	fp6	pl4	0.0305
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp1	pl1	0.015
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp1	pl2	0.02
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp1	pl3	0.027
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp1	pl4	0.0203
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp2	pl1	0.0336
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp2	pl2	0.0101
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp2	pl3	0.018
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp2	pl4	0.0143
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp3	pl1	0.021
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp3	pl2	0.0113
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp3	pl3	0.0208
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp3	pl4	0.0167
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp4	pl1	0.0197
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp4	pl2	0.0092
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp4	pl3	0.0217
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp4	pl4	0.0165
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp5	pl1	0.0328
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp5	pl2	0.0261
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp5	pl3	0.0126
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp5	pl4	0.0165
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp6	pl1	0.0146
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp6	pl2	0.0193
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp6	pl3	0.0235
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	sterile	pen2_pad3_sterile	pen2_pad3_sterile_bio3	fp6	pl4	0.0167
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp1	pl1	0.0367
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp1	pl2	0.0246
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp1	pl3	0.0216
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp1	pl4	0.0181
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp2	pl1	0.062
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp2	pl2	0.0122
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp2	pl3	0.0569
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp2	pl4	0.0116
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp3	pl1	0.0551
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp3	pl2	0.0284
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp3	pl3	0.0172
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp3	pl4	0.018
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp4	pl1	0.0225
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp4	pl2	0.0291
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp4	pl3	0.0302
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp4	pl4	0.0521
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp5	pl1	0.0179
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp5	pl2	0.0291
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp5	pl3	0.0325
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp5	pl4	0.0035
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp6	pl1	0.0151
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp6	pl2	0.0246
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp6	pl3	0.0175
+FP_gluco	bio3	pen2_pad3	fpen2_pad3	BFO	pen2_pad3_BFO	pen2_pad3_BFO_bio3	fp6	pl4	0.0149
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp1	pl1	0.0128
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp1	pl2	0.0302
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp1	pl3	0.0102
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp1	pl4	
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp2	pl1	0.0476
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp2	pl2	0.0206
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp2	pl3	0.0344
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp2	pl4	0.0091
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp3	pl1	0.0149
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp3	pl2	0.0113
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp3	pl3	0.0133
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp3	pl4	0.0102
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp4	pl1	0.0233
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp4	pl2	0.0229
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp4	pl3	
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp4	pl4	
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp5	pl1	0.0644
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp5	pl2	0.0236
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp5	pl3	0.0059
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp5	pl4	0.0026
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp6	pl1	0.016
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp6	pl2	0.0269
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp6	pl3	0.0072
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	sterile	pyk_bglu_sterile	pyk_bglu_sterile_bio3	fp6	pl4	0.0203
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp1	pl1	0.0191
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp1	pl2	0.0163
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp1	pl3	0.0333
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp1	pl4	0.0195
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp2	pl1	0.0599
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp2	pl2	0.0087
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp2	pl3	0.0071
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp2	pl4	
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp3	pl1	0.0232
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp3	pl2	0.0974
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp3	pl3	0.0459
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp3	pl4	0.0236
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp4	pl1	0.0064
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp4	pl2	0.0099
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp4	pl3	0.026
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp4	pl4	0.0162
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp5	pl1	0.0502
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp5	pl2	0.0395
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp5	pl3	0.0112
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp5	pl4	0.0558
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp6	pl1	0.0043
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp6	pl2	0.1055
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp6	pl3	0.0424
+FP_gluco	bio3	pyk_bglu	jpyk_bglu	BFO	pyk_bglu_BFO	pyk_bglu_BFO_bio3	fp6	pl4	0.035
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp1	pl1	0.0262
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp1	pl2	0.0239
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp1	pl3	0.0281
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp1	pl4	0.0261
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp2	pl1	0.0195
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp2	pl2	0.0205
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp2	pl3	0.0221
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp2	pl4	0.0175
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp3	pl1	0.024
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp3	pl2	0.0319
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp3	pl3	0.0163
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp3	pl4	0.0232
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp4	pl1	0.022
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp4	pl2	0.0231
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp4	pl3	0.019
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp4	pl4	0.0261
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp5	pl1	0.0199
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp5	pl2	0.0166
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp5	pl3	0.0231
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp5	pl4	0.0131
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp6	pl1	0.0304
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp6	pl2	0.018
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp6	pl3	0.0196
+FP_gluco	bio3	pen2	gpen2	sterile	pen2_sterile	pen2_sterile_bio3	fp6	pl4	0.0137
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp1	pl1	0.031
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp1	pl2	0.0255
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp1	pl3	0.0171
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp1	pl4	0.0268
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp2	pl1	0.021
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp2	pl2	0.0267
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp2	pl3	0.0414
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp2	pl4	0.0373
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp3	pl1	0.0298
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp3	pl2	0.038
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp3	pl3	0.0414
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp3	pl4	0.0136
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp4	pl1	0.0177
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp4	pl2	0.0259
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp4	pl3	0.0649
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp4	pl4	0.0229
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp5	pl1	0.0222
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp5	pl2	0.0494
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp5	pl3	0.0213
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp5	pl4	0.0134
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp6	pl1	0.0329
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp6	pl2	0.0422
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp6	pl3	0.043
+FP_gluco	bio3	pen2	gpen2	BFO	pen2_BFO	pen2_BFO_bio3	fp6	pl4	0.0253
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp1	pl1	0.0212
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp1	pl2	0.0049
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp1	pl3	0.0383
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp1	pl4	0.0329
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp2	pl1	0.028
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp2	pl2	0.0136
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp2	pl3	0.0257
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp2	pl4	0.0204
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp3	pl1	0.0131
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp3	pl2	0.0061
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp3	pl3	0.0128
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp3	pl4	0.0096
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp4	pl1	0.0107
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp4	pl2	0.0122
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp4	pl3	0.0126
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp4	pl4	0.0294
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp5	pl1	0.0198
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp5	pl2	0.008
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp5	pl3	0.0404
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp5	pl4	0.0216
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp6	pl1	0.0208
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp6	pl2	0.0174
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp6	pl3	0.0058
+FP_gluco	bio3	pad3	hpad3	sterile	pad3_sterile	pad3_sterile_bio3	fp6	pl4	0.0346
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp1	pl1	0.0208
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp1	pl2	0.0168
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp1	pl3	0.0029
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp1	pl4	0.0084
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp2	pl1	0.0602
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp2	pl2	0.0148
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp2	pl3	0.0177
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp2	pl4	0.0097
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp3	pl1	0.0387
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp3	pl2	0.0181
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp3	pl3	0.019
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp3	pl4	0.0139
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp4	pl1	0.031
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp4	pl2	0.0145
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp4	pl3	0.0031
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp4	pl4	
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp5	pl1	0.0152
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp5	pl2	0.0328
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp5	pl3	0.0248
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp5	pl4	0.001
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp6	pl1	0.0012
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp6	pl2	0.01
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp6	pl3	0.0141
+FP_gluco	bio3	pad3	hpad3	BFO	pad3_BFO	pad3_BFO_bio3	fp6	pl4	0.0115
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp1	pl1	
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp1	pl2	
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp1	pl3	
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp1	pl4	
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp2	pl1	0.029
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp2	pl2	0.0265
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp2	pl3	0.0151
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp2	pl4	0.0189
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp3	pl1	0.021
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp3	pl2	0.034
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp3	pl3	0.032
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp3	pl4	0.0244
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp4	pl1	0.0496
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp4	pl2	0.0402
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp4	pl3	0.0299
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp4	pl4	0.03
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp5	pl1	0.0295
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp5	pl2	0.0117
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp5	pl3	0.0106
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp5	pl4	0.0049
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp6	pl1	0.0176
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp6	pl2	
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp6	pl3	0.0174
+FP_gluco	bio3	cyp71a27	kcyp71a27	sterile	cyp71a27_sterile	cyp71a27_sterile_bio3	fp6	pl4	0.0427
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp1	pl1	0.0534
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp1	pl2	0.0213
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp1	pl3	0.0352
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp1	pl4	0.0243
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp2	pl1	0.0151
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp2	pl2	0.0049
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp2	pl3	0.0066
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp2	pl4	
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp3	pl1	0.1039
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp3	pl2	0.0165
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp3	pl3	0.0495
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp3	pl4	0.032
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp4	pl1	0.086
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp4	pl2	0.0386
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp4	pl3	0.0511
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp4	pl4	
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp5	pl1	0.0593
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp5	pl2	0.0179
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp5	pl3	0.0139
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp5	pl4	0.0075
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp6	pl1	0.0183
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp6	pl2	0.022
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp6	pl3	0.021
+FP_gluco	bio3	cyp71a27	kcyp71a27	BFO	cyp71a27_BFO	cyp71a27_BFO_bio3	fp6	pl4	0.0023
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp1	pl1	0.0323
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp1	pl2	0.0182
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp1	pl3	0.0117
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp1	pl4	0.0128
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp2	pl1	0.0225
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp2	pl2	0.0538
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp2	pl3	0.0207
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp2	pl4	0.0287
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp3	pl1	0.0399
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp3	pl2	0.0228
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp3	pl3	0.0169
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp3	pl4	0.0297
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp4	pl1	0.0065
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp4	pl2	0.0063
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp4	pl3	0.0129
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp4	pl4	
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp5	pl1	0.0401
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp5	pl2	0.0128
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp5	pl3	
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp5	pl4	
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp6	pl1	0.0325
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp6	pl2	0.0339
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp6	pl3	0.0186
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	sterile	cyp71a12_a13_sterile	cyp71a12_a13_sterile_bio3	fp6	pl4	
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp1	pl1	0.0323
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp1	pl2	0.0205
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp1	pl3	0.0301
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp1	pl4	0.023
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp2	pl1	0.013
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp2	pl2	0.0173
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp2	pl3	0.0175
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp2	pl4	0.0129
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp3	pl1	0.0189
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp3	pl2	0.0305
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp3	pl3	0.0176
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp3	pl4	0.0312
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp4	pl1	0.0212
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp4	pl2	0.0126
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp4	pl3	0.056
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp4	pl4	0.0206
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp5	pl1	0.04
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp5	pl2	0.0581
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp5	pl3	0.0134
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp5	pl4	
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp6	pl1	0.0334
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp6	pl2	0.0221
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp6	pl3	0.0412
+FP_gluco	bio3	cyp71a12_a13	ecyp71a12_a13	BFO	cyp71a12_a13_BFO	cyp71a12_a13_BFO_bio3	fp6	pl4	
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp1	pl1	0.0205
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp1	pl2	0.0153
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp1	pl3	0.0262
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp1	pl4	0.0192
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp2	pl1	0.0243
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp2	pl2	0.0229
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp2	pl3	0.0282
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp2	pl4	0.0362
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp3	pl1	0.023
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp3	pl2	0.0342
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp3	pl3	0.0271
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp3	pl4	0.0205
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp4	pl1	0.0317
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp4	pl2	0.014
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp4	pl3	0.0285
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp4	pl4	0.0222
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp5	pl1	0.0222
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp5	pl2	0.0274
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp5	pl3	0.0277
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp5	pl4	0.0213
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp6	pl1	0.0202
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp6	pl2	0.0195
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp6	pl3	0.0211
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	sterile	cyp79b2_b3_sterile	cyp79b2_b3_sterile_bio3	fp6	pl4	0.0404
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp1	pl1	0.0066
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp1	pl2	0.0028
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp1	pl3	0.0194
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp1	pl4	
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp2	pl1	0.0156
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp2	pl2	0.0138
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp2	pl3	0.0074
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp2	pl4	
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp3	pl1	0.09
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp3	pl2	0.0156
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp3	pl3	0.0238
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp3	pl4	0.0179
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp4	pl1	0.0127
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp4	pl2	0.0101
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp4	pl3	
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp4	pl4	
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp5	pl1	0.0462
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp5	pl2	0.0547
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp5	pl3	0.0176
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp5	pl4	0.0082
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp6	pl1	0.0545
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp6	pl2	0.0179
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp6	pl3	0.0046
+FP_gluco	bio3	cyp79b2_b3	bcyp79b2_b3	BFO	cyp79b2_b3_BFO	cyp79b2_b3_BFO_bio3	fp6	pl4	
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp1	pl1	0.0098
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp1	pl2	0.028
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp1	pl3	0.0244
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp1	pl4	
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp2	pl1	0.0076
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp2	pl2	0.0143
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp2	pl3	0.0086
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp2	pl4	0.0176
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp3	pl1	0.0177
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp3	pl2	0.0212
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp3	pl3	0.0168
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp3	pl4	0.0108
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp4	pl1	0.0165
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp4	pl2	0.0189
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp4	pl3	0.0254
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp4	pl4	0.027
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp5	pl1	0.0316
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp5	pl2	0.0284
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp5	pl3	0.0204
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp5	pl4	0.0274
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp6	pl1	0.0214
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp6	pl2	0.0262
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp6	pl3	0.0198
+FP_gluco	bio3	myb_triple	imyb_triple	sterile	myb_triple_sterile	myb_triple_sterile_bio3	fp6	pl4	0.0125
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp1	pl1	0.0254
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp1	pl2	0.0234
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp1	pl3	0.0235
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp1	pl4	0.0476
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp2	pl1	0.0214
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp2	pl2	0.012
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp2	pl3	0.0162
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp2	pl4	0.0314
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp3	pl1	0.0227
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp3	pl2	0.041
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp3	pl3	0.02
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp3	pl4	0.0247
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp4	pl1	0.018
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp4	pl2	0.0451
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp4	pl3	0.0253
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp4	pl4	0.0409
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp5	pl1	0.0226
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp5	pl2	0.014
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp5	pl3	0.0132
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp5	pl4	0.0383
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp6	pl1	0.0121
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp6	pl2	0.0353
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp6	pl3	0.0547
+FP_gluco	bio3	myb_triple	imyb_triple	BFO	myb_triple_BFO	myb_triple_BFO_bio3	fp6	pl4	0.0028

@@ -1,0 +1,1417 @@
+figure	project	biological	genotype	treatment	technical	plant_no	genotype_treatment	genotype_treatment_biological	FW
+R5sup1	D1	bio1	WT	BFO	1	1	WT_BFO	WT_BFO_bio1	0.0515
+R5sup1	D1	bio1	WT	BFO	1	2	WT_BFO	WT_BFO_bio1	0.0172
+R5sup1	D1	bio1	WT	BFO	1	3	WT_BFO	WT_BFO_bio1	0.0069
+R5sup1	D1	bio1	WT	BFO	1	4	WT_BFO	WT_BFO_bio1	0.0195
+R5sup1	D1	bio1	WT	BFO	2	1	WT_BFO	WT_BFO_bio1	0.0263
+R5sup1	D1	bio1	WT	BFO	2	2	WT_BFO	WT_BFO_bio1	0.0664
+R5sup1	D1	bio1	WT	BFO	2	3	WT_BFO	WT_BFO_bio1	0.0826
+R5sup1	D1	bio1	WT	BFO	2	4	WT_BFO	WT_BFO_bio1	0.0496
+R5sup1	D1	bio1	WT	BFO	3	1	WT_BFO	WT_BFO_bio1	0.0117
+R5sup1	D1	bio1	WT	BFO	3	2	WT_BFO	WT_BFO_bio1	0.0275
+R5sup1	D1	bio1	WT	BFO	3	3	WT_BFO	WT_BFO_bio1	0.046
+R5sup1	D1	bio1	WT	BFO	3	4	WT_BFO	WT_BFO_bio1	0.0107
+R5sup1	D1	bio1	WT	BFO	4	1	WT_BFO	WT_BFO_bio1	0.0189
+R5sup1	D1	bio1	WT	BFO	4	2	WT_BFO	WT_BFO_bio1	0.0252
+R5sup1	D1	bio1	WT	BFO	4	3	WT_BFO	WT_BFO_bio1	0.0364
+R5sup1	D1	bio1	WT	BFO	4	4	WT_BFO	WT_BFO_bio1	0.0118
+R5sup1	D1	bio1	WT	BFO	5	1	WT_BFO	WT_BFO_bio1	0.0156
+R5sup1	D1	bio1	WT	BFO	5	2	WT_BFO	WT_BFO_bio1	0.0326
+R5sup1	D1	bio1	WT	BFO	5	3	WT_BFO	WT_BFO_bio1	0.0178
+R5sup1	D1	bio1	WT	BFO	5	4	WT_BFO	WT_BFO_bio1	
+R5sup1	D1	bio1	WT	BFO	6	1	WT_BFO	WT_BFO_bio1	0.0244
+R5sup1	D1	bio1	WT	BFO	6	2	WT_BFO	WT_BFO_bio1	0.0176
+R5sup1	D1	bio1	WT	BFO	6	3	WT_BFO	WT_BFO_bio1	0.0121
+R5sup1	D1	bio1	WT	BFO	6	4	WT_BFO	WT_BFO_bio1	0.0328
+R5sup1	D1	bio1	WT	B	1	1	WT_B	WT_B_bio1	0.018
+R5sup1	D1	bio1	WT	B	1	2	WT_B	WT_B_bio1	0.0127
+R5sup1	D1	bio1	WT	B	1	3	WT_B	WT_B_bio1	0.0051
+R5sup1	D1	bio1	WT	B	1	4	WT_B	WT_B_bio1	0.0042
+R5sup1	D1	bio1	WT	B	2	1	WT_B	WT_B_bio1	0.012
+R5sup1	D1	bio1	WT	B	2	2	WT_B	WT_B_bio1	0.0327
+R5sup1	D1	bio1	WT	B	2	3	WT_B	WT_B_bio1	0.0141
+R5sup1	D1	bio1	WT	B	2	4	WT_B	WT_B_bio1	0.0173
+R5sup1	D1	bio1	WT	B	3	1	WT_B	WT_B_bio1	0.0153
+R5sup1	D1	bio1	WT	B	3	2	WT_B	WT_B_bio1	0.0166
+R5sup1	D1	bio1	WT	B	3	3	WT_B	WT_B_bio1	0.0073
+R5sup1	D1	bio1	WT	B	3	4	WT_B	WT_B_bio1	0.0143
+R5sup1	D1	bio1	WT	B	4	1	WT_B	WT_B_bio1	0.0135
+R5sup1	D1	bio1	WT	B	4	2	WT_B	WT_B_bio1	0.0163
+R5sup1	D1	bio1	WT	B	4	3	WT_B	WT_B_bio1	0.0468
+R5sup1	D1	bio1	WT	B	4	4	WT_B	WT_B_bio1	0.0327
+R5sup1	D1	bio1	WT	B	5	1	WT_B	WT_B_bio1	0.1187
+R5sup1	D1	bio1	WT	B	5	2	WT_B	WT_B_bio1	0.0501
+R5sup1	D1	bio1	WT	B	5	3	WT_B	WT_B_bio1	0.0387
+R5sup1	D1	bio1	WT	B	5	4	WT_B	WT_B_bio1	0.0115
+R5sup1	D1	bio1	WT	B	6	1	WT_B	WT_B_bio1	0.054
+R5sup1	D1	bio1	WT	B	6	2	WT_B	WT_B_bio1	0.0682
+R5sup1	D1	bio1	WT	B	6	3	WT_B	WT_B_bio1	0.0433
+R5sup1	D1	bio1	WT	B	6	4	WT_B	WT_B_bio1	0.0246
+R5sup1	D1	bio1	WT	F	1	1	WT_F	WT_F_bio1	0.0375
+R5sup1	D1	bio1	WT	F	1	2	WT_F	WT_F_bio1	0.0117
+R5sup1	D1	bio1	WT	F	1	3	WT_F	WT_F_bio1	
+R5sup1	D1	bio1	WT	F	1	4	WT_F	WT_F_bio1	
+R5sup1	D1	bio1	WT	F	2	1	WT_F	WT_F_bio1	0.0097
+R5sup1	D1	bio1	WT	F	2	2	WT_F	WT_F_bio1	0.0039
+R5sup1	D1	bio1	WT	F	2	3	WT_F	WT_F_bio1	
+R5sup1	D1	bio1	WT	F	2	4	WT_F	WT_F_bio1	
+R5sup1	D1	bio1	WT	F	3	1	WT_F	WT_F_bio1	0.0038
+R5sup1	D1	bio1	WT	F	3	2	WT_F	WT_F_bio1	
+R5sup1	D1	bio1	WT	F	3	3	WT_F	WT_F_bio1	
+R5sup1	D1	bio1	WT	F	3	4	WT_F	WT_F_bio1	
+R5sup1	D1	bio1	WT	F	4	1	WT_F	WT_F_bio1	
+R5sup1	D1	bio1	WT	F	4	2	WT_F	WT_F_bio1	
+R5sup1	D1	bio1	WT	F	4	3	WT_F	WT_F_bio1	
+R5sup1	D1	bio1	WT	F	4	4	WT_F	WT_F_bio1	
+R5sup1	D1	bio1	WT	F	5	1	WT_F	WT_F_bio1	0.0049
+R5sup1	D1	bio1	WT	F	5	2	WT_F	WT_F_bio1	0.0028
+R5sup1	D1	bio1	WT	F	5	3	WT_F	WT_F_bio1	
+R5sup1	D1	bio1	WT	F	5	4	WT_F	WT_F_bio1	
+R5sup1	D1	bio1	WT	F	6	1	WT_F	WT_F_bio1	
+R5sup1	D1	bio1	WT	F	6	2	WT_F	WT_F_bio1	
+R5sup1	D1	bio1	WT	F	6	3	WT_F	WT_F_bio1	
+R5sup1	D1	bio1	WT	F	6	4	WT_F	WT_F_bio1	
+R5sup1	D1	bio1	WT	O	1	1	WT_O	WT_O_bio1	
+R5sup1	D1	bio1	WT	O	1	2	WT_O	WT_O_bio1	
+R5sup1	D1	bio1	WT	O	1	3	WT_O	WT_O_bio1	
+R5sup1	D1	bio1	WT	O	1	4	WT_O	WT_O_bio1	
+R5sup1	D1	bio1	WT	O	2	1	WT_O	WT_O_bio1	
+R5sup1	D1	bio1	WT	O	2	2	WT_O	WT_O_bio1	
+R5sup1	D1	bio1	WT	O	2	3	WT_O	WT_O_bio1	
+R5sup1	D1	bio1	WT	O	2	4	WT_O	WT_O_bio1	
+R5sup1	D1	bio1	WT	O	3	1	WT_O	WT_O_bio1	
+R5sup1	D1	bio1	WT	O	3	2	WT_O	WT_O_bio1	
+R5sup1	D1	bio1	WT	O	3	3	WT_O	WT_O_bio1	
+R5sup1	D1	bio1	WT	O	3	4	WT_O	WT_O_bio1	
+R5sup1	D1	bio1	WT	O	4	1	WT_O	WT_O_bio1	0.0292
+R5sup1	D1	bio1	WT	O	4	2	WT_O	WT_O_bio1	
+R5sup1	D1	bio1	WT	O	4	3	WT_O	WT_O_bio1	
+R5sup1	D1	bio1	WT	O	4	4	WT_O	WT_O_bio1	
+R5sup1	D1	bio1	WT	O	5	1	WT_O	WT_O_bio1	0.0661
+R5sup1	D1	bio1	WT	O	5	2	WT_O	WT_O_bio1	0.0059
+R5sup1	D1	bio1	WT	O	5	3	WT_O	WT_O_bio1	0.0093
+R5sup1	D1	bio1	WT	O	5	4	WT_O	WT_O_bio1	
+R5sup1	D1	bio1	WT	O	6	1	WT_O	WT_O_bio1	
+R5sup1	D1	bio1	WT	O	6	2	WT_O	WT_O_bio1	
+R5sup1	D1	bio1	WT	O	6	3	WT_O	WT_O_bio1	
+R5sup1	D1	bio1	WT	O	6	4	WT_O	WT_O_bio1	
+R5sup1	D1	bio1	WT	BF	1	1	WT_BF	WT_BF_bio1	0.0138
+R5sup1	D1	bio1	WT	BF	1	2	WT_BF	WT_BF_bio1	0.0081
+R5sup1	D1	bio1	WT	BF	1	3	WT_BF	WT_BF_bio1	0.0117
+R5sup1	D1	bio1	WT	BF	1	4	WT_BF	WT_BF_bio1	0.0127
+R5sup1	D1	bio1	WT	BF	2	1	WT_BF	WT_BF_bio1	0.0334
+R5sup1	D1	bio1	WT	BF	2	2	WT_BF	WT_BF_bio1	0.0273
+R5sup1	D1	bio1	WT	BF	2	3	WT_BF	WT_BF_bio1	0.0209
+R5sup1	D1	bio1	WT	BF	2	4	WT_BF	WT_BF_bio1	0.0436
+R5sup1	D1	bio1	WT	BF	3	1	WT_BF	WT_BF_bio1	0.0159
+R5sup1	D1	bio1	WT	BF	3	2	WT_BF	WT_BF_bio1	0.0676
+R5sup1	D1	bio1	WT	BF	3	3	WT_BF	WT_BF_bio1	0.0129
+R5sup1	D1	bio1	WT	BF	3	4	WT_BF	WT_BF_bio1	0.0092
+R5sup1	D1	bio1	WT	BF	4	1	WT_BF	WT_BF_bio1	0.0552
+R5sup1	D1	bio1	WT	BF	4	2	WT_BF	WT_BF_bio1	0.0429
+R5sup1	D1	bio1	WT	BF	4	3	WT_BF	WT_BF_bio1	0.0428
+R5sup1	D1	bio1	WT	BF	4	4	WT_BF	WT_BF_bio1	0.0243
+R5sup1	D1	bio1	WT	BF	5	1	WT_BF	WT_BF_bio1	0.0477
+R5sup1	D1	bio1	WT	BF	5	2	WT_BF	WT_BF_bio1	0.0316
+R5sup1	D1	bio1	WT	BF	5	3	WT_BF	WT_BF_bio1	0.0104
+R5sup1	D1	bio1	WT	BF	5	4	WT_BF	WT_BF_bio1	0.007
+R5sup1	D1	bio1	WT	BF	6	1	WT_BF	WT_BF_bio1	0.0569
+R5sup1	D1	bio1	WT	BF	6	2	WT_BF	WT_BF_bio1	0.0125
+R5sup1	D1	bio1	WT	BF	6	3	WT_BF	WT_BF_bio1	0.0185
+R5sup1	D1	bio1	WT	BF	6	4	WT_BF	WT_BF_bio1	0.0194
+R5sup1	D1	bio1	WT	BO	1	1	WT_BO	WT_BO_bio1	0.0148
+R5sup1	D1	bio1	WT	BO	1	2	WT_BO	WT_BO_bio1	0.0111
+R5sup1	D1	bio1	WT	BO	1	3	WT_BO	WT_BO_bio1	0.0248
+R5sup1	D1	bio1	WT	BO	1	4	WT_BO	WT_BO_bio1	0.0177
+R5sup1	D1	bio1	WT	BO	2	1	WT_BO	WT_BO_bio1	0.0212
+R5sup1	D1	bio1	WT	BO	2	2	WT_BO	WT_BO_bio1	0.0238
+R5sup1	D1	bio1	WT	BO	2	3	WT_BO	WT_BO_bio1	0.0861
+R5sup1	D1	bio1	WT	BO	2	4	WT_BO	WT_BO_bio1	0.0285
+R5sup1	D1	bio1	WT	BO	3	1	WT_BO	WT_BO_bio1	0.0361
+R5sup1	D1	bio1	WT	BO	3	2	WT_BO	WT_BO_bio1	0.0303
+R5sup1	D1	bio1	WT	BO	3	3	WT_BO	WT_BO_bio1	0.0443
+R5sup1	D1	bio1	WT	BO	3	4	WT_BO	WT_BO_bio1	0.0113
+R5sup1	D1	bio1	WT	BO	4	1	WT_BO	WT_BO_bio1	0.03
+R5sup1	D1	bio1	WT	BO	4	2	WT_BO	WT_BO_bio1	0.034
+R5sup1	D1	bio1	WT	BO	4	3	WT_BO	WT_BO_bio1	0.0187
+R5sup1	D1	bio1	WT	BO	4	4	WT_BO	WT_BO_bio1	0.023
+R5sup1	D1	bio1	WT	BO	5	1	WT_BO	WT_BO_bio1	0.0407
+R5sup1	D1	bio1	WT	BO	5	2	WT_BO	WT_BO_bio1	0.019
+R5sup1	D1	bio1	WT	BO	5	3	WT_BO	WT_BO_bio1	0.0432
+R5sup1	D1	bio1	WT	BO	5	4	WT_BO	WT_BO_bio1	
+R5sup1	D1	bio1	WT	BO	6	1	WT_BO	WT_BO_bio1	0.029
+R5sup1	D1	bio1	WT	BO	6	2	WT_BO	WT_BO_bio1	0.0579
+R5sup1	D1	bio1	WT	BO	6	3	WT_BO	WT_BO_bio1	0.0293
+R5sup1	D1	bio1	WT	BO	6	4	WT_BO	WT_BO_bio1	0.0413
+R5sup1	D1	bio1	WT	FO	1	1	WT_FO	WT_FO_bio1	0.0108
+R5sup1	D1	bio1	WT	FO	1	2	WT_FO	WT_FO_bio1	0.0085
+R5sup1	D1	bio1	WT	FO	1	3	WT_FO	WT_FO_bio1	
+R5sup1	D1	bio1	WT	FO	1	4	WT_FO	WT_FO_bio1	
+R5sup1	D1	bio1	WT	FO	2	1	WT_FO	WT_FO_bio1	
+R5sup1	D1	bio1	WT	FO	2	2	WT_FO	WT_FO_bio1	
+R5sup1	D1	bio1	WT	FO	2	3	WT_FO	WT_FO_bio1	
+R5sup1	D1	bio1	WT	FO	2	4	WT_FO	WT_FO_bio1	
+R5sup1	D1	bio1	WT	FO	3	1	WT_FO	WT_FO_bio1	0.0206
+R5sup1	D1	bio1	WT	FO	3	2	WT_FO	WT_FO_bio1	0.0334
+R5sup1	D1	bio1	WT	FO	3	3	WT_FO	WT_FO_bio1	0.0102
+R5sup1	D1	bio1	WT	FO	3	4	WT_FO	WT_FO_bio1	
+R5sup1	D1	bio1	WT	FO	4	1	WT_FO	WT_FO_bio1	
+R5sup1	D1	bio1	WT	FO	4	2	WT_FO	WT_FO_bio1	
+R5sup1	D1	bio1	WT	FO	4	3	WT_FO	WT_FO_bio1	
+R5sup1	D1	bio1	WT	FO	4	4	WT_FO	WT_FO_bio1	
+R5sup1	D1	bio1	WT	FO	5	1	WT_FO	WT_FO_bio1	0.0125
+R5sup1	D1	bio1	WT	FO	5	2	WT_FO	WT_FO_bio1	0.017
+R5sup1	D1	bio1	WT	FO	5	3	WT_FO	WT_FO_bio1	
+R5sup1	D1	bio1	WT	FO	5	4	WT_FO	WT_FO_bio1	
+R5sup1	D1	bio1	WT	FO	6	1	WT_FO	WT_FO_bio1	0.007
+R5sup1	D1	bio1	WT	FO	6	2	WT_FO	WT_FO_bio1	
+R5sup1	D1	bio1	WT	FO	6	3	WT_FO	WT_FO_bio1	
+R5sup1	D1	bio1	WT	FO	6	4	WT_FO	WT_FO_bio1	
+R5sup1	D1	bio1	cyp79	BFO	1	1	cyp79_BFO	cyp79_BFO_bio1	0.0535
+R5sup1	D1	bio1	cyp79	BFO	1	2	cyp79_BFO	cyp79_BFO_bio1	
+R5sup1	D1	bio1	cyp79	BFO	1	3	cyp79_BFO	cyp79_BFO_bio1	
+R5sup1	D1	bio1	cyp79	BFO	1	4	cyp79_BFO	cyp79_BFO_bio1	
+R5sup1	D1	bio1	cyp79	BFO	2	1	cyp79_BFO	cyp79_BFO_bio1	0.0217
+R5sup1	D1	bio1	cyp79	BFO	2	2	cyp79_BFO	cyp79_BFO_bio1	
+R5sup1	D1	bio1	cyp79	BFO	2	3	cyp79_BFO	cyp79_BFO_bio1	
+R5sup1	D1	bio1	cyp79	BFO	2	4	cyp79_BFO	cyp79_BFO_bio1	
+R5sup1	D1	bio1	cyp79	BFO	3	1	cyp79_BFO	cyp79_BFO_bio1	0.0086
+R5sup1	D1	bio1	cyp79	BFO	3	2	cyp79_BFO	cyp79_BFO_bio1	
+R5sup1	D1	bio1	cyp79	BFO	3	3	cyp79_BFO	cyp79_BFO_bio1	
+R5sup1	D1	bio1	cyp79	BFO	3	4	cyp79_BFO	cyp79_BFO_bio1	
+R5sup1	D1	bio1	cyp79	BFO	4	1	cyp79_BFO	cyp79_BFO_bio1	
+R5sup1	D1	bio1	cyp79	BFO	4	2	cyp79_BFO	cyp79_BFO_bio1	
+R5sup1	D1	bio1	cyp79	BFO	4	3	cyp79_BFO	cyp79_BFO_bio1	
+R5sup1	D1	bio1	cyp79	BFO	4	4	cyp79_BFO	cyp79_BFO_bio1	
+R5sup1	D1	bio1	cyp79	BFO	5	1	cyp79_BFO	cyp79_BFO_bio1	0.1067
+R5sup1	D1	bio1	cyp79	BFO	5	2	cyp79_BFO	cyp79_BFO_bio1	0.0046
+R5sup1	D1	bio1	cyp79	BFO	5	3	cyp79_BFO	cyp79_BFO_bio1	
+R5sup1	D1	bio1	cyp79	BFO	5	4	cyp79_BFO	cyp79_BFO_bio1	
+R5sup1	D1	bio1	cyp79	BFO	6	1	cyp79_BFO	cyp79_BFO_bio1	0.0135
+R5sup1	D1	bio1	cyp79	BFO	6	2	cyp79_BFO	cyp79_BFO_bio1	
+R5sup1	D1	bio1	cyp79	BFO	6	3	cyp79_BFO	cyp79_BFO_bio1	
+R5sup1	D1	bio1	cyp79	BFO	6	4	cyp79_BFO	cyp79_BFO_bio1	
+R5sup1	D1	bio1	cyp79	B	1	1	cyp79_B	cyp79_B_bio1	0.0342
+R5sup1	D1	bio1	cyp79	B	1	2	cyp79_B	cyp79_B_bio1	0.0345
+R5sup1	D1	bio1	cyp79	B	1	3	cyp79_B	cyp79_B_bio1	0.0247
+R5sup1	D1	bio1	cyp79	B	1	4	cyp79_B	cyp79_B_bio1	
+R5sup1	D1	bio1	cyp79	B	2	1	cyp79_B	cyp79_B_bio1	0.023
+R5sup1	D1	bio1	cyp79	B	2	2	cyp79_B	cyp79_B_bio1	0.033
+R5sup1	D1	bio1	cyp79	B	2	3	cyp79_B	cyp79_B_bio1	0.0352
+R5sup1	D1	bio1	cyp79	B	2	4	cyp79_B	cyp79_B_bio1	0.0084
+R5sup1	D1	bio1	cyp79	B	3	1	cyp79_B	cyp79_B_bio1	0.0278
+R5sup1	D1	bio1	cyp79	B	3	2	cyp79_B	cyp79_B_bio1	0.0398
+R5sup1	D1	bio1	cyp79	B	3	3	cyp79_B	cyp79_B_bio1	0.0118
+R5sup1	D1	bio1	cyp79	B	3	4	cyp79_B	cyp79_B_bio1	0.0098
+R5sup1	D1	bio1	cyp79	B	4	1	cyp79_B	cyp79_B_bio1	0.0526
+R5sup1	D1	bio1	cyp79	B	4	2	cyp79_B	cyp79_B_bio1	0.021
+R5sup1	D1	bio1	cyp79	B	4	3	cyp79_B	cyp79_B_bio1	0.0423
+R5sup1	D1	bio1	cyp79	B	4	4	cyp79_B	cyp79_B_bio1	0.0441
+R5sup1	D1	bio1	cyp79	B	5	1	cyp79_B	cyp79_B_bio1	0.0198
+R5sup1	D1	bio1	cyp79	B	5	2	cyp79_B	cyp79_B_bio1	0.0247
+R5sup1	D1	bio1	cyp79	B	5	3	cyp79_B	cyp79_B_bio1	0.046
+R5sup1	D1	bio1	cyp79	B	5	4	cyp79_B	cyp79_B_bio1	0.036
+R5sup1	D1	bio1	cyp79	B	6	1	cyp79_B	cyp79_B_bio1	0.0197
+R5sup1	D1	bio1	cyp79	B	6	2	cyp79_B	cyp79_B_bio1	0.0218
+R5sup1	D1	bio1	cyp79	B	6	3	cyp79_B	cyp79_B_bio1	0.0501
+R5sup1	D1	bio1	cyp79	B	6	4	cyp79_B	cyp79_B_bio1	0.0109
+R5sup1	D1	bio1	cyp79	F	1	1	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	F	1	2	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	F	1	3	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	F	1	4	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	F	2	1	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	F	2	2	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	F	2	3	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	F	2	4	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	F	3	1	cyp79_F	cyp79_F_bio1	0
+R5sup1	D1	bio1	cyp79	F	3	2	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	F	3	3	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	F	3	4	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	F	4	1	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	F	4	2	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	F	4	3	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	F	4	4	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	F	5	1	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	F	5	2	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	F	5	3	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	F	5	4	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	F	6	1	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	F	6	2	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	F	6	3	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	F	6	4	cyp79_F	cyp79_F_bio1	
+R5sup1	D1	bio1	cyp79	O	1	1	cyp79_O	cyp79_O_bio1	0.067
+R5sup1	D1	bio1	cyp79	O	1	2	cyp79_O	cyp79_O_bio1	0.032
+R5sup1	D1	bio1	cyp79	O	1	3	cyp79_O	cyp79_O_bio1	0.0117
+R5sup1	D1	bio1	cyp79	O	1	4	cyp79_O	cyp79_O_bio1	0.0083
+R5sup1	D1	bio1	cyp79	O	2	1	cyp79_O	cyp79_O_bio1	
+R5sup1	D1	bio1	cyp79	O	2	2	cyp79_O	cyp79_O_bio1	
+R5sup1	D1	bio1	cyp79	O	2	3	cyp79_O	cyp79_O_bio1	
+R5sup1	D1	bio1	cyp79	O	2	4	cyp79_O	cyp79_O_bio1	
+R5sup1	D1	bio1	cyp79	O	3	1	cyp79_O	cyp79_O_bio1	
+R5sup1	D1	bio1	cyp79	O	3	2	cyp79_O	cyp79_O_bio1	
+R5sup1	D1	bio1	cyp79	O	3	3	cyp79_O	cyp79_O_bio1	
+R5sup1	D1	bio1	cyp79	O	3	4	cyp79_O	cyp79_O_bio1	
+R5sup1	D1	bio1	cyp79	O	4	1	cyp79_O	cyp79_O_bio1	
+R5sup1	D1	bio1	cyp79	O	4	2	cyp79_O	cyp79_O_bio1	
+R5sup1	D1	bio1	cyp79	O	4	3	cyp79_O	cyp79_O_bio1	
+R5sup1	D1	bio1	cyp79	O	4	4	cyp79_O	cyp79_O_bio1	
+R5sup1	D1	bio1	cyp79	O	5	1	cyp79_O	cyp79_O_bio1	
+R5sup1	D1	bio1	cyp79	O	5	2	cyp79_O	cyp79_O_bio1	
+R5sup1	D1	bio1	cyp79	O	5	3	cyp79_O	cyp79_O_bio1	
+R5sup1	D1	bio1	cyp79	O	5	4	cyp79_O	cyp79_O_bio1	
+R5sup1	D1	bio1	cyp79	O	6	1	cyp79_O	cyp79_O_bio1	
+R5sup1	D1	bio1	cyp79	O	6	2	cyp79_O	cyp79_O_bio1	
+R5sup1	D1	bio1	cyp79	O	6	3	cyp79_O	cyp79_O_bio1	
+R5sup1	D1	bio1	cyp79	O	6	4	cyp79_O	cyp79_O_bio1	
+R5sup1	D1	bio1	cyp79	BF	1	1	cyp79_BF	cyp79_BF_bio1	0.0271
+R5sup1	D1	bio1	cyp79	BF	1	2	cyp79_BF	cyp79_BF_bio1	0.013
+R5sup1	D1	bio1	cyp79	BF	1	3	cyp79_BF	cyp79_BF_bio1	0.0121
+R5sup1	D1	bio1	cyp79	BF	1	4	cyp79_BF	cyp79_BF_bio1	0.003
+R5sup1	D1	bio1	cyp79	BF	2	1	cyp79_BF	cyp79_BF_bio1	0.0149
+R5sup1	D1	bio1	cyp79	BF	2	2	cyp79_BF	cyp79_BF_bio1	0.0101
+R5sup1	D1	bio1	cyp79	BF	2	3	cyp79_BF	cyp79_BF_bio1	0.0069
+R5sup1	D1	bio1	cyp79	BF	2	4	cyp79_BF	cyp79_BF_bio1	0.0075
+R5sup1	D1	bio1	cyp79	BF	3	1	cyp79_BF	cyp79_BF_bio1	0.024
+R5sup1	D1	bio1	cyp79	BF	3	2	cyp79_BF	cyp79_BF_bio1	0.0178
+R5sup1	D1	bio1	cyp79	BF	3	3	cyp79_BF	cyp79_BF_bio1	0.0273
+R5sup1	D1	bio1	cyp79	BF	3	4	cyp79_BF	cyp79_BF_bio1	0.0097
+R5sup1	D1	bio1	cyp79	BF	4	1	cyp79_BF	cyp79_BF_bio1	0.0248
+R5sup1	D1	bio1	cyp79	BF	4	2	cyp79_BF	cyp79_BF_bio1	0.0312
+R5sup1	D1	bio1	cyp79	BF	4	3	cyp79_BF	cyp79_BF_bio1	0.014
+R5sup1	D1	bio1	cyp79	BF	4	4	cyp79_BF	cyp79_BF_bio1	0.0203
+R5sup1	D1	bio1	cyp79	BF	5	1	cyp79_BF	cyp79_BF_bio1	0.0254
+R5sup1	D1	bio1	cyp79	BF	5	2	cyp79_BF	cyp79_BF_bio1	0.016
+R5sup1	D1	bio1	cyp79	BF	5	3	cyp79_BF	cyp79_BF_bio1	0.0264
+R5sup1	D1	bio1	cyp79	BF	5	4	cyp79_BF	cyp79_BF_bio1	0.0177
+R5sup1	D1	bio1	cyp79	BF	6	1	cyp79_BF	cyp79_BF_bio1	0.0065
+R5sup1	D1	bio1	cyp79	BF	6	2	cyp79_BF	cyp79_BF_bio1	0.019
+R5sup1	D1	bio1	cyp79	BF	6	3	cyp79_BF	cyp79_BF_bio1	0.009
+R5sup1	D1	bio1	cyp79	BF	6	4	cyp79_BF	cyp79_BF_bio1	0.0299
+R5sup1	D1	bio1	cyp79	BO	1	1	cyp79_BO	cyp79_BO_bio1	0.0269
+R5sup1	D1	bio1	cyp79	BO	1	2	cyp79_BO	cyp79_BO_bio1	0.0302
+R5sup1	D1	bio1	cyp79	BO	1	3	cyp79_BO	cyp79_BO_bio1	0.0273
+R5sup1	D1	bio1	cyp79	BO	1	4	cyp79_BO	cyp79_BO_bio1	0.0399
+R5sup1	D1	bio1	cyp79	BO	2	1	cyp79_BO	cyp79_BO_bio1	0.0212
+R5sup1	D1	bio1	cyp79	BO	2	2	cyp79_BO	cyp79_BO_bio1	0.0319
+R5sup1	D1	bio1	cyp79	BO	2	3	cyp79_BO	cyp79_BO_bio1	0.0214
+R5sup1	D1	bio1	cyp79	BO	2	4	cyp79_BO	cyp79_BO_bio1	
+R5sup1	D1	bio1	cyp79	BO	3	1	cyp79_BO	cyp79_BO_bio1	0.0524
+R5sup1	D1	bio1	cyp79	BO	3	2	cyp79_BO	cyp79_BO_bio1	0.0491
+R5sup1	D1	bio1	cyp79	BO	3	3	cyp79_BO	cyp79_BO_bio1	0.0291
+R5sup1	D1	bio1	cyp79	BO	3	4	cyp79_BO	cyp79_BO_bio1	0.0299
+R5sup1	D1	bio1	cyp79	BO	4	1	cyp79_BO	cyp79_BO_bio1	0.0536
+R5sup1	D1	bio1	cyp79	BO	4	2	cyp79_BO	cyp79_BO_bio1	0.0303
+R5sup1	D1	bio1	cyp79	BO	4	3	cyp79_BO	cyp79_BO_bio1	0.0254
+R5sup1	D1	bio1	cyp79	BO	4	4	cyp79_BO	cyp79_BO_bio1	0.0491
+R5sup1	D1	bio1	cyp79	BO	5	1	cyp79_BO	cyp79_BO_bio1	0.0359
+R5sup1	D1	bio1	cyp79	BO	5	2	cyp79_BO	cyp79_BO_bio1	0.0168
+R5sup1	D1	bio1	cyp79	BO	5	3	cyp79_BO	cyp79_BO_bio1	0.0597
+R5sup1	D1	bio1	cyp79	BO	5	4	cyp79_BO	cyp79_BO_bio1	0.057
+R5sup1	D1	bio1	cyp79	BO	6	1	cyp79_BO	cyp79_BO_bio1	0.0197
+R5sup1	D1	bio1	cyp79	BO	6	2	cyp79_BO	cyp79_BO_bio1	0.0288
+R5sup1	D1	bio1	cyp79	BO	6	3	cyp79_BO	cyp79_BO_bio1	0.0572
+R5sup1	D1	bio1	cyp79	BO	6	4	cyp79_BO	cyp79_BO_bio1	0.0472
+R5sup1	D1	bio1	cyp79	FO	1	1	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio1	cyp79	FO	1	2	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio1	cyp79	FO	1	3	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio1	cyp79	FO	1	4	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio1	cyp79	FO	2	1	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio1	cyp79	FO	2	2	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio1	cyp79	FO	2	3	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio1	cyp79	FO	2	4	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio1	cyp79	FO	3	1	cyp79_FO	cyp79_FO_bio1	0
+R5sup1	D1	bio1	cyp79	FO	3	2	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio1	cyp79	FO	3	3	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio1	cyp79	FO	3	4	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio1	cyp79	FO	4	1	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio1	cyp79	FO	4	2	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio1	cyp79	FO	4	3	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio1	cyp79	FO	4	4	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio1	cyp79	FO	5	1	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio1	cyp79	FO	5	2	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio1	cyp79	FO	5	3	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio1	cyp79	FO	5	4	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio1	cyp79	FO	6	1	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio1	cyp79	FO	6	2	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio1	cyp79	FO	6	3	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio1	cyp79	FO	6	4	cyp79_FO	cyp79_FO_bio1	
+R5sup1	D1	bio2	WT	BFO	1	1	WT_BFO	WT_BFO_bio2	0.025
+R5sup1	D1	bio2	WT	BFO	1	2	WT_BFO	WT_BFO_bio2	0.0279
+R5sup1	D1	bio2	WT	BFO	1	3	WT_BFO	WT_BFO_bio2	0.023
+R5sup1	D1	bio2	WT	BFO	1	4	WT_BFO	WT_BFO_bio2	0.0103
+R5sup1	D1	bio2	WT	BFO	2	1	WT_BFO	WT_BFO_bio2	0.016
+R5sup1	D1	bio2	WT	BFO	2	2	WT_BFO	WT_BFO_bio2	0.0446
+R5sup1	D1	bio2	WT	BFO	2	3	WT_BFO	WT_BFO_bio2	0.0123
+R5sup1	D1	bio2	WT	BFO	2	4	WT_BFO	WT_BFO_bio2	0.0347
+R5sup1	D1	bio2	WT	BFO	3	1	WT_BFO	WT_BFO_bio2	0.0207
+R5sup1	D1	bio2	WT	BFO	3	2	WT_BFO	WT_BFO_bio2	0.0267
+R5sup1	D1	bio2	WT	BFO	3	3	WT_BFO	WT_BFO_bio2	0.0043
+R5sup1	D1	bio2	WT	BFO	3	4	WT_BFO	WT_BFO_bio2	0.0307
+R5sup1	D1	bio2	WT	BFO	4	1	WT_BFO	WT_BFO_bio2	0.0607
+R5sup1	D1	bio2	WT	BFO	4	2	WT_BFO	WT_BFO_bio2	0.0781
+R5sup1	D1	bio2	WT	BFO	4	3	WT_BFO	WT_BFO_bio2	0.0378
+R5sup1	D1	bio2	WT	BFO	4	4	WT_BFO	WT_BFO_bio2	0.0085
+R5sup1	D1	bio2	WT	BFO	5	1	WT_BFO	WT_BFO_bio2	0.0421
+R5sup1	D1	bio2	WT	BFO	5	2	WT_BFO	WT_BFO_bio2	0.0976
+R5sup1	D1	bio2	WT	BFO	5	3	WT_BFO	WT_BFO_bio2	0.0351
+R5sup1	D1	bio2	WT	BFO	5	4	WT_BFO	WT_BFO_bio2	0.0286
+R5sup1	D1	bio2	WT	BFO	6	1	WT_BFO	WT_BFO_bio2	0.0325
+R5sup1	D1	bio2	WT	BFO	6	2	WT_BFO	WT_BFO_bio2	0.0446
+R5sup1	D1	bio2	WT	BFO	6	3	WT_BFO	WT_BFO_bio2	0.0659
+R5sup1	D1	bio2	WT	BFO	6	4	WT_BFO	WT_BFO_bio2	0.0119
+R5sup1	D1	bio2	WT	B	1	1	WT_B	WT_B_bio2	0.0214
+R5sup1	D1	bio2	WT	B	1	2	WT_B	WT_B_bio2	0.0394
+R5sup1	D1	bio2	WT	B	1	3	WT_B	WT_B_bio2	0.0338
+R5sup1	D1	bio2	WT	B	1	4	WT_B	WT_B_bio2	0.036
+R5sup1	D1	bio2	WT	B	2	1	WT_B	WT_B_bio2	0.0164
+R5sup1	D1	bio2	WT	B	2	2	WT_B	WT_B_bio2	0.0121
+R5sup1	D1	bio2	WT	B	2	3	WT_B	WT_B_bio2	0.0257
+R5sup1	D1	bio2	WT	B	2	4	WT_B	WT_B_bio2	0.0096
+R5sup1	D1	bio2	WT	B	3	1	WT_B	WT_B_bio2	0.0244
+R5sup1	D1	bio2	WT	B	3	2	WT_B	WT_B_bio2	0.0304
+R5sup1	D1	bio2	WT	B	3	3	WT_B	WT_B_bio2	0.0132
+R5sup1	D1	bio2	WT	B	3	4	WT_B	WT_B_bio2	0.0195
+R5sup1	D1	bio2	WT	B	4	1	WT_B	WT_B_bio2	0.0109
+R5sup1	D1	bio2	WT	B	4	2	WT_B	WT_B_bio2	0.0246
+R5sup1	D1	bio2	WT	B	4	3	WT_B	WT_B_bio2	0.0213
+R5sup1	D1	bio2	WT	B	4	4	WT_B	WT_B_bio2	0.0392
+R5sup1	D1	bio2	WT	B	5	1	WT_B	WT_B_bio2	0.0248
+R5sup1	D1	bio2	WT	B	5	2	WT_B	WT_B_bio2	0.0519
+R5sup1	D1	bio2	WT	B	5	3	WT_B	WT_B_bio2	0.0303
+R5sup1	D1	bio2	WT	B	5	4	WT_B	WT_B_bio2	0.022
+R5sup1	D1	bio2	WT	B	6	1	WT_B	WT_B_bio2	0.0155
+R5sup1	D1	bio2	WT	B	6	2	WT_B	WT_B_bio2	0.0104
+R5sup1	D1	bio2	WT	B	6	3	WT_B	WT_B_bio2	0.0047
+R5sup1	D1	bio2	WT	B	6	4	WT_B	WT_B_bio2	
+R5sup1	D1	bio2	WT	F	1	1	WT_F	WT_F_bio2	0.0631
+R5sup1	D1	bio2	WT	F	1	2	WT_F	WT_F_bio2	0.0408
+R5sup1	D1	bio2	WT	F	1	3	WT_F	WT_F_bio2	0.0247
+R5sup1	D1	bio2	WT	F	1	4	WT_F	WT_F_bio2	0.0041
+R5sup1	D1	bio2	WT	F	2	1	WT_F	WT_F_bio2	0.0431
+R5sup1	D1	bio2	WT	F	2	2	WT_F	WT_F_bio2	0.0317
+R5sup1	D1	bio2	WT	F	2	3	WT_F	WT_F_bio2	0.0081
+R5sup1	D1	bio2	WT	F	2	4	WT_F	WT_F_bio2	0.0284
+R5sup1	D1	bio2	WT	F	3	1	WT_F	WT_F_bio2	0.0446
+R5sup1	D1	bio2	WT	F	3	2	WT_F	WT_F_bio2	0.0601
+R5sup1	D1	bio2	WT	F	3	3	WT_F	WT_F_bio2	0.0113
+R5sup1	D1	bio2	WT	F	3	4	WT_F	WT_F_bio2	0.0144
+R5sup1	D1	bio2	WT	F	4	1	WT_F	WT_F_bio2	
+R5sup1	D1	bio2	WT	F	4	2	WT_F	WT_F_bio2	
+R5sup1	D1	bio2	WT	F	4	3	WT_F	WT_F_bio2	
+R5sup1	D1	bio2	WT	F	4	4	WT_F	WT_F_bio2	
+R5sup1	D1	bio2	WT	F	5	1	WT_F	WT_F_bio2	0.0322
+R5sup1	D1	bio2	WT	F	5	2	WT_F	WT_F_bio2	0.0341
+R5sup1	D1	bio2	WT	F	5	3	WT_F	WT_F_bio2	0.0071
+R5sup1	D1	bio2	WT	F	5	4	WT_F	WT_F_bio2	0.0041
+R5sup1	D1	bio2	WT	F	6	1	WT_F	WT_F_bio2	0.0343
+R5sup1	D1	bio2	WT	F	6	2	WT_F	WT_F_bio2	
+R5sup1	D1	bio2	WT	F	6	3	WT_F	WT_F_bio2	
+R5sup1	D1	bio2	WT	F	6	4	WT_F	WT_F_bio2	
+R5sup1	D1	bio2	WT	O	1	1	WT_O	WT_O_bio2	0.0271
+R5sup1	D1	bio2	WT	O	1	2	WT_O	WT_O_bio2	0.01
+R5sup1	D1	bio2	WT	O	1	3	WT_O	WT_O_bio2	0.0021
+R5sup1	D1	bio2	WT	O	1	4	WT_O	WT_O_bio2	
+R5sup1	D1	bio2	WT	O	2	1	WT_O	WT_O_bio2	0.0098
+R5sup1	D1	bio2	WT	O	2	2	WT_O	WT_O_bio2	0.056
+R5sup1	D1	bio2	WT	O	2	3	WT_O	WT_O_bio2	0.0183
+R5sup1	D1	bio2	WT	O	2	4	WT_O	WT_O_bio2	
+R5sup1	D1	bio2	WT	O	3	1	WT_O	WT_O_bio2	0.039
+R5sup1	D1	bio2	WT	O	3	2	WT_O	WT_O_bio2	0.0658
+R5sup1	D1	bio2	WT	O	3	3	WT_O	WT_O_bio2	0.0279
+R5sup1	D1	bio2	WT	O	3	4	WT_O	WT_O_bio2	0.0107
+R5sup1	D1	bio2	WT	O	4	1	WT_O	WT_O_bio2	0.0038
+R5sup1	D1	bio2	WT	O	4	2	WT_O	WT_O_bio2	0.0009
+R5sup1	D1	bio2	WT	O	4	3	WT_O	WT_O_bio2	0.0021
+R5sup1	D1	bio2	WT	O	4	4	WT_O	WT_O_bio2	
+R5sup1	D1	bio2	WT	O	5	1	WT_O	WT_O_bio2	0.0111
+R5sup1	D1	bio2	WT	O	5	2	WT_O	WT_O_bio2	0.0238
+R5sup1	D1	bio2	WT	O	5	3	WT_O	WT_O_bio2	0.0255
+R5sup1	D1	bio2	WT	O	5	4	WT_O	WT_O_bio2	0.0323
+R5sup1	D1	bio2	WT	O	6	1	WT_O	WT_O_bio2	0.0396
+R5sup1	D1	bio2	WT	O	6	2	WT_O	WT_O_bio2	0.0155
+R5sup1	D1	bio2	WT	O	6	3	WT_O	WT_O_bio2	0.0083
+R5sup1	D1	bio2	WT	O	6	4	WT_O	WT_O_bio2	0.0705
+R5sup1	D1	bio2	WT	BF	1	1	WT_BF	WT_BF_bio2	0.0575
+R5sup1	D1	bio2	WT	BF	1	2	WT_BF	WT_BF_bio2	0.046
+R5sup1	D1	bio2	WT	BF	1	3	WT_BF	WT_BF_bio2	0.0286
+R5sup1	D1	bio2	WT	BF	1	4	WT_BF	WT_BF_bio2	0.009
+R5sup1	D1	bio2	WT	BF	2	1	WT_BF	WT_BF_bio2	0.035
+R5sup1	D1	bio2	WT	BF	2	2	WT_BF	WT_BF_bio2	0.0262
+R5sup1	D1	bio2	WT	BF	2	3	WT_BF	WT_BF_bio2	0.0409
+R5sup1	D1	bio2	WT	BF	2	4	WT_BF	WT_BF_bio2	0.0253
+R5sup1	D1	bio2	WT	BF	3	1	WT_BF	WT_BF_bio2	0.049
+R5sup1	D1	bio2	WT	BF	3	2	WT_BF	WT_BF_bio2	0.0452
+R5sup1	D1	bio2	WT	BF	3	3	WT_BF	WT_BF_bio2	0.0167
+R5sup1	D1	bio2	WT	BF	3	4	WT_BF	WT_BF_bio2	0.0449
+R5sup1	D1	bio2	WT	BF	4	1	WT_BF	WT_BF_bio2	0.0404
+R5sup1	D1	bio2	WT	BF	4	2	WT_BF	WT_BF_bio2	0.0202
+R5sup1	D1	bio2	WT	BF	4	3	WT_BF	WT_BF_bio2	0.0138
+R5sup1	D1	bio2	WT	BF	4	4	WT_BF	WT_BF_bio2	0.0333
+R5sup1	D1	bio2	WT	BF	5	1	WT_BF	WT_BF_bio2	0.0231
+R5sup1	D1	bio2	WT	BF	5	2	WT_BF	WT_BF_bio2	0.1138
+R5sup1	D1	bio2	WT	BF	5	3	WT_BF	WT_BF_bio2	0.0339
+R5sup1	D1	bio2	WT	BF	5	4	WT_BF	WT_BF_bio2	0.0107
+R5sup1	D1	bio2	WT	BF	6	1	WT_BF	WT_BF_bio2	0.0129
+R5sup1	D1	bio2	WT	BF	6	2	WT_BF	WT_BF_bio2	0.0277
+R5sup1	D1	bio2	WT	BF	6	3	WT_BF	WT_BF_bio2	0.0153
+R5sup1	D1	bio2	WT	BF	6	4	WT_BF	WT_BF_bio2	
+R5sup1	D1	bio2	WT	BO	1	1	WT_BO	WT_BO_bio2	0.0288
+R5sup1	D1	bio2	WT	BO	1	2	WT_BO	WT_BO_bio2	0.0372
+R5sup1	D1	bio2	WT	BO	1	3	WT_BO	WT_BO_bio2	0.042
+R5sup1	D1	bio2	WT	BO	1	4	WT_BO	WT_BO_bio2	0.0339
+R5sup1	D1	bio2	WT	BO	2	1	WT_BO	WT_BO_bio2	0.0509
+R5sup1	D1	bio2	WT	BO	2	2	WT_BO	WT_BO_bio2	0.0168
+R5sup1	D1	bio2	WT	BO	2	3	WT_BO	WT_BO_bio2	0.0138
+R5sup1	D1	bio2	WT	BO	2	4	WT_BO	WT_BO_bio2	0.0255
+R5sup1	D1	bio2	WT	BO	3	1	WT_BO	WT_BO_bio2	0.0582
+R5sup1	D1	bio2	WT	BO	3	2	WT_BO	WT_BO_bio2	0.0394
+R5sup1	D1	bio2	WT	BO	3	3	WT_BO	WT_BO_bio2	0.0297
+R5sup1	D1	bio2	WT	BO	3	4	WT_BO	WT_BO_bio2	0.0226
+R5sup1	D1	bio2	WT	BO	4	1	WT_BO	WT_BO_bio2	0.0571
+R5sup1	D1	bio2	WT	BO	4	2	WT_BO	WT_BO_bio2	0.0324
+R5sup1	D1	bio2	WT	BO	4	3	WT_BO	WT_BO_bio2	0.0043
+R5sup1	D1	bio2	WT	BO	4	4	WT_BO	WT_BO_bio2	0.0064
+R5sup1	D1	bio2	WT	BO	5	1	WT_BO	WT_BO_bio2	0.0407
+R5sup1	D1	bio2	WT	BO	5	2	WT_BO	WT_BO_bio2	0.0187
+R5sup1	D1	bio2	WT	BO	5	3	WT_BO	WT_BO_bio2	0.061
+R5sup1	D1	bio2	WT	BO	5	4	WT_BO	WT_BO_bio2	0.0098
+R5sup1	D1	bio2	WT	BO	6	1	WT_BO	WT_BO_bio2	0.0156
+R5sup1	D1	bio2	WT	BO	6	2	WT_BO	WT_BO_bio2	0.0353
+R5sup1	D1	bio2	WT	BO	6	3	WT_BO	WT_BO_bio2	0.0043
+R5sup1	D1	bio2	WT	BO	6	4	WT_BO	WT_BO_bio2	0.009
+R5sup1	D1	bio2	WT	FO	1	1	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	1	2	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	1	3	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	1	4	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	2	1	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	2	2	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	2	3	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	2	4	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	3	1	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	3	2	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	3	3	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	3	4	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	4	1	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	4	2	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	4	3	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	4	4	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	5	1	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	5	2	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	5	3	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	5	4	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	6	1	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	6	2	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	6	3	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	WT	FO	6	4	WT_FO	WT_FO_bio2	
+R5sup1	D1	bio2	cyp79	BFO	1	1	cyp79_BFO	cyp79_BFO_bio2	0.0361
+R5sup1	D1	bio2	cyp79	BFO	1	2	cyp79_BFO	cyp79_BFO_bio2	0.0146
+R5sup1	D1	bio2	cyp79	BFO	1	3	cyp79_BFO	cyp79_BFO_bio2	0.0127
+R5sup1	D1	bio2	cyp79	BFO	1	4	cyp79_BFO	cyp79_BFO_bio2	0.0085
+R5sup1	D1	bio2	cyp79	BFO	2	1	cyp79_BFO	cyp79_BFO_bio2	0.0209
+R5sup1	D1	bio2	cyp79	BFO	2	2	cyp79_BFO	cyp79_BFO_bio2	0.0118
+R5sup1	D1	bio2	cyp79	BFO	2	3	cyp79_BFO	cyp79_BFO_bio2	0.0059
+R5sup1	D1	bio2	cyp79	BFO	2	4	cyp79_BFO	cyp79_BFO_bio2	0.0055
+R5sup1	D1	bio2	cyp79	BFO	3	1	cyp79_BFO	cyp79_BFO_bio2	0.0144
+R5sup1	D1	bio2	cyp79	BFO	3	2	cyp79_BFO	cyp79_BFO_bio2	0.0106
+R5sup1	D1	bio2	cyp79	BFO	3	3	cyp79_BFO	cyp79_BFO_bio2	0.0083
+R5sup1	D1	bio2	cyp79	BFO	3	4	cyp79_BFO	cyp79_BFO_bio2	0.0023
+R5sup1	D1	bio2	cyp79	BFO	4	1	cyp79_BFO	cyp79_BFO_bio2	0.0142
+R5sup1	D1	bio2	cyp79	BFO	4	2	cyp79_BFO	cyp79_BFO_bio2	0.0319
+R5sup1	D1	bio2	cyp79	BFO	4	3	cyp79_BFO	cyp79_BFO_bio2	0.0762
+R5sup1	D1	bio2	cyp79	BFO	4	4	cyp79_BFO	cyp79_BFO_bio2	
+R5sup1	D1	bio2	cyp79	BFO	5	1	cyp79_BFO	cyp79_BFO_bio2	0.002
+R5sup1	D1	bio2	cyp79	BFO	5	2	cyp79_BFO	cyp79_BFO_bio2	0.0023
+R5sup1	D1	bio2	cyp79	BFO	5	3	cyp79_BFO	cyp79_BFO_bio2	0.0019
+R5sup1	D1	bio2	cyp79	BFO	5	4	cyp79_BFO	cyp79_BFO_bio2	
+R5sup1	D1	bio2	cyp79	BFO	6	1	cyp79_BFO	cyp79_BFO_bio2	0.0593
+R5sup1	D1	bio2	cyp79	BFO	6	2	cyp79_BFO	cyp79_BFO_bio2	0.0202
+R5sup1	D1	bio2	cyp79	BFO	6	3	cyp79_BFO	cyp79_BFO_bio2	0.0124
+R5sup1	D1	bio2	cyp79	BFO	6	4	cyp79_BFO	cyp79_BFO_bio2	
+R5sup1	D1	bio2	cyp79	B	1	1	cyp79_B	cyp79_B_bio2	0.012
+R5sup1	D1	bio2	cyp79	B	1	2	cyp79_B	cyp79_B_bio2	0.0195
+R5sup1	D1	bio2	cyp79	B	1	3	cyp79_B	cyp79_B_bio2	0.0197
+R5sup1	D1	bio2	cyp79	B	1	4	cyp79_B	cyp79_B_bio2	0.0211
+R5sup1	D1	bio2	cyp79	B	2	1	cyp79_B	cyp79_B_bio2	0.0377
+R5sup1	D1	bio2	cyp79	B	2	2	cyp79_B	cyp79_B_bio2	0.0208
+R5sup1	D1	bio2	cyp79	B	2	3	cyp79_B	cyp79_B_bio2	0.0388
+R5sup1	D1	bio2	cyp79	B	2	4	cyp79_B	cyp79_B_bio2	0.0115
+R5sup1	D1	bio2	cyp79	B	3	1	cyp79_B	cyp79_B_bio2	0.0338
+R5sup1	D1	bio2	cyp79	B	3	2	cyp79_B	cyp79_B_bio2	0.0131
+R5sup1	D1	bio2	cyp79	B	3	3	cyp79_B	cyp79_B_bio2	0.0179
+R5sup1	D1	bio2	cyp79	B	3	4	cyp79_B	cyp79_B_bio2	0.0353
+R5sup1	D1	bio2	cyp79	B	4	1	cyp79_B	cyp79_B_bio2	0.029
+R5sup1	D1	bio2	cyp79	B	4	2	cyp79_B	cyp79_B_bio2	0.0215
+R5sup1	D1	bio2	cyp79	B	4	3	cyp79_B	cyp79_B_bio2	0.0334
+R5sup1	D1	bio2	cyp79	B	4	4	cyp79_B	cyp79_B_bio2	0.0521
+R5sup1	D1	bio2	cyp79	B	5	1	cyp79_B	cyp79_B_bio2	0.061
+R5sup1	D1	bio2	cyp79	B	5	2	cyp79_B	cyp79_B_bio2	0.049
+R5sup1	D1	bio2	cyp79	B	5	3	cyp79_B	cyp79_B_bio2	0.0357
+R5sup1	D1	bio2	cyp79	B	5	4	cyp79_B	cyp79_B_bio2	0.045
+R5sup1	D1	bio2	cyp79	B	6	1	cyp79_B	cyp79_B_bio2	0.0226
+R5sup1	D1	bio2	cyp79	B	6	2	cyp79_B	cyp79_B_bio2	
+R5sup1	D1	bio2	cyp79	B	6	3	cyp79_B	cyp79_B_bio2	
+R5sup1	D1	bio2	cyp79	B	6	4	cyp79_B	cyp79_B_bio2	
+R5sup1	D1	bio2	cyp79	F	1	1	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	1	2	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	1	3	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	1	4	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	2	1	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	2	2	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	2	3	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	2	4	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	3	1	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	3	2	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	3	3	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	3	4	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	4	1	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	4	2	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	4	3	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	4	4	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	5	1	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	5	2	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	5	3	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	5	4	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	6	1	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	6	2	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	6	3	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	F	6	4	cyp79_F	cyp79_F_bio2	
+R5sup1	D1	bio2	cyp79	O	1	1	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	1	2	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	1	3	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	1	4	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	2	1	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	2	2	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	2	3	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	2	4	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	3	1	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	3	2	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	3	3	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	3	4	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	4	1	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	4	2	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	4	3	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	4	4	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	5	1	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	5	2	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	5	3	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	5	4	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	6	1	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	6	2	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	6	3	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	O	6	4	cyp79_O	cyp79_O_bio2	
+R5sup1	D1	bio2	cyp79	BF	1	1	cyp79_BF	cyp79_BF_bio2	0.0056
+R5sup1	D1	bio2	cyp79	BF	1	2	cyp79_BF	cyp79_BF_bio2	0.0036
+R5sup1	D1	bio2	cyp79	BF	1	3	cyp79_BF	cyp79_BF_bio2	0.003
+R5sup1	D1	bio2	cyp79	BF	1	4	cyp79_BF	cyp79_BF_bio2	0.0032
+R5sup1	D1	bio2	cyp79	BF	2	1	cyp79_BF	cyp79_BF_bio2	0.0183
+R5sup1	D1	bio2	cyp79	BF	2	2	cyp79_BF	cyp79_BF_bio2	0.0074
+R5sup1	D1	bio2	cyp79	BF	2	3	cyp79_BF	cyp79_BF_bio2	
+R5sup1	D1	bio2	cyp79	BF	2	4	cyp79_BF	cyp79_BF_bio2	
+R5sup1	D1	bio2	cyp79	BF	3	1	cyp79_BF	cyp79_BF_bio2	0.016
+R5sup1	D1	bio2	cyp79	BF	3	2	cyp79_BF	cyp79_BF_bio2	0.0108
+R5sup1	D1	bio2	cyp79	BF	3	3	cyp79_BF	cyp79_BF_bio2	0.0066
+R5sup1	D1	bio2	cyp79	BF	3	4	cyp79_BF	cyp79_BF_bio2	
+R5sup1	D1	bio2	cyp79	BF	4	1	cyp79_BF	cyp79_BF_bio2	0.0175
+R5sup1	D1	bio2	cyp79	BF	4	2	cyp79_BF	cyp79_BF_bio2	0.009
+R5sup1	D1	bio2	cyp79	BF	4	3	cyp79_BF	cyp79_BF_bio2	0.0112
+R5sup1	D1	bio2	cyp79	BF	4	4	cyp79_BF	cyp79_BF_bio2	0.007
+R5sup1	D1	bio2	cyp79	BF	5	1	cyp79_BF	cyp79_BF_bio2	0.1078
+R5sup1	D1	bio2	cyp79	BF	5	2	cyp79_BF	cyp79_BF_bio2	0.0808
+R5sup1	D1	bio2	cyp79	BF	5	3	cyp79_BF	cyp79_BF_bio2	0.0122
+R5sup1	D1	bio2	cyp79	BF	5	4	cyp79_BF	cyp79_BF_bio2	
+R5sup1	D1	bio2	cyp79	BF	6	1	cyp79_BF	cyp79_BF_bio2	0.0137
+R5sup1	D1	bio2	cyp79	BF	6	2	cyp79_BF	cyp79_BF_bio2	0.0213
+R5sup1	D1	bio2	cyp79	BF	6	3	cyp79_BF	cyp79_BF_bio2	0.0128
+R5sup1	D1	bio2	cyp79	BF	6	4	cyp79_BF	cyp79_BF_bio2	
+R5sup1	D1	bio2	cyp79	BO	1	1	cyp79_BO	cyp79_BO_bio2	0.0173
+R5sup1	D1	bio2	cyp79	BO	1	2	cyp79_BO	cyp79_BO_bio2	0.0131
+R5sup1	D1	bio2	cyp79	BO	1	3	cyp79_BO	cyp79_BO_bio2	0.0398
+R5sup1	D1	bio2	cyp79	BO	1	4	cyp79_BO	cyp79_BO_bio2	0.0144
+R5sup1	D1	bio2	cyp79	BO	2	1	cyp79_BO	cyp79_BO_bio2	0.0119
+R5sup1	D1	bio2	cyp79	BO	2	2	cyp79_BO	cyp79_BO_bio2	0.0121
+R5sup1	D1	bio2	cyp79	BO	2	3	cyp79_BO	cyp79_BO_bio2	0.038
+R5sup1	D1	bio2	cyp79	BO	2	4	cyp79_BO	cyp79_BO_bio2	0.0136
+R5sup1	D1	bio2	cyp79	BO	3	1	cyp79_BO	cyp79_BO_bio2	0.022
+R5sup1	D1	bio2	cyp79	BO	3	2	cyp79_BO	cyp79_BO_bio2	0.0232
+R5sup1	D1	bio2	cyp79	BO	3	3	cyp79_BO	cyp79_BO_bio2	0.0259
+R5sup1	D1	bio2	cyp79	BO	3	4	cyp79_BO	cyp79_BO_bio2	0.0137
+R5sup1	D1	bio2	cyp79	BO	4	1	cyp79_BO	cyp79_BO_bio2	0.0222
+R5sup1	D1	bio2	cyp79	BO	4	2	cyp79_BO	cyp79_BO_bio2	0.024
+R5sup1	D1	bio2	cyp79	BO	4	3	cyp79_BO	cyp79_BO_bio2	0.0102
+R5sup1	D1	bio2	cyp79	BO	4	4	cyp79_BO	cyp79_BO_bio2	0.0223
+R5sup1	D1	bio2	cyp79	BO	5	1	cyp79_BO	cyp79_BO_bio2	0.0302
+R5sup1	D1	bio2	cyp79	BO	5	2	cyp79_BO	cyp79_BO_bio2	0.0311
+R5sup1	D1	bio2	cyp79	BO	5	3	cyp79_BO	cyp79_BO_bio2	0.0482
+R5sup1	D1	bio2	cyp79	BO	5	4	cyp79_BO	cyp79_BO_bio2	0.0447
+R5sup1	D1	bio2	cyp79	BO	6	1	cyp79_BO	cyp79_BO_bio2	0.057
+R5sup1	D1	bio2	cyp79	BO	6	2	cyp79_BO	cyp79_BO_bio2	0.0383
+R5sup1	D1	bio2	cyp79	BO	6	3	cyp79_BO	cyp79_BO_bio2	0.0406
+R5sup1	D1	bio2	cyp79	BO	6	4	cyp79_BO	cyp79_BO_bio2	0.0176
+R5sup1	D1	bio2	cyp79	FO	1	1	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	1	2	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	1	3	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	1	4	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	2	1	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	2	2	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	2	3	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	2	4	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	3	1	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	3	2	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	3	3	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	3	4	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	4	1	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	4	2	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	4	3	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	4	4	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	5	1	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	5	2	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	5	3	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	5	4	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	6	1	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	6	2	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	6	3	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio2	cyp79	FO	6	4	cyp79_FO	cyp79_FO_bio2	
+R5sup1	D1	bio3	WT	BFO	1	1	WT_BFO	WT_BFO_bio3	0.0477
+R5sup1	D1	bio3	WT	BFO	1	2	WT_BFO	WT_BFO_bio3	0.0276
+R5sup1	D1	bio3	WT	BFO	1	3	WT_BFO	WT_BFO_bio3	
+R5sup1	D1	bio3	WT	BFO	1	4	WT_BFO	WT_BFO_bio3	
+R5sup1	D1	bio3	WT	BFO	2	1	WT_BFO	WT_BFO_bio3	0.0145
+R5sup1	D1	bio3	WT	BFO	2	2	WT_BFO	WT_BFO_bio3	0.0042
+R5sup1	D1	bio3	WT	BFO	2	3	WT_BFO	WT_BFO_bio3	0.0071
+R5sup1	D1	bio3	WT	BFO	2	4	WT_BFO	WT_BFO_bio3	0.0211
+R5sup1	D1	bio3	WT	BFO	3	1	WT_BFO	WT_BFO_bio3	0.0425
+R5sup1	D1	bio3	WT	BFO	3	2	WT_BFO	WT_BFO_bio3	0.0487
+R5sup1	D1	bio3	WT	BFO	3	3	WT_BFO	WT_BFO_bio3	0.0279
+R5sup1	D1	bio3	WT	BFO	3	4	WT_BFO	WT_BFO_bio3	0.0538
+R5sup1	D1	bio3	WT	BFO	4	1	WT_BFO	WT_BFO_bio3	0.0395
+R5sup1	D1	bio3	WT	BFO	4	2	WT_BFO	WT_BFO_bio3	0.0216
+R5sup1	D1	bio3	WT	BFO	4	3	WT_BFO	WT_BFO_bio3	0.0138
+R5sup1	D1	bio3	WT	BFO	4	4	WT_BFO	WT_BFO_bio3	
+R5sup1	D1	bio3	WT	BFO	5	1	WT_BFO	WT_BFO_bio3	0.042
+R5sup1	D1	bio3	WT	BFO	5	2	WT_BFO	WT_BFO_bio3	0.074
+R5sup1	D1	bio3	WT	BFO	5	3	WT_BFO	WT_BFO_bio3	0.0318
+R5sup1	D1	bio3	WT	BFO	5	4	WT_BFO	WT_BFO_bio3	0.054
+R5sup1	D1	bio3	WT	BFO	6	1	WT_BFO	WT_BFO_bio3	0.0178
+R5sup1	D1	bio3	WT	BFO	6	2	WT_BFO	WT_BFO_bio3	0.0321
+R5sup1	D1	bio3	WT	BFO	6	3	WT_BFO	WT_BFO_bio3	0.0241
+R5sup1	D1	bio3	WT	BFO	6	4	WT_BFO	WT_BFO_bio3	0.179
+R5sup1	D1	bio3	WT	B	1	1	WT_B	WT_B_bio3	0.0161
+R5sup1	D1	bio3	WT	B	1	2	WT_B	WT_B_bio3	0.0235
+R5sup1	D1	bio3	WT	B	1	3	WT_B	WT_B_bio3	0.0192
+R5sup1	D1	bio3	WT	B	1	4	WT_B	WT_B_bio3	0.0074
+R5sup1	D1	bio3	WT	B	2	1	WT_B	WT_B_bio3	0.0165
+R5sup1	D1	bio3	WT	B	2	2	WT_B	WT_B_bio3	0.0464
+R5sup1	D1	bio3	WT	B	2	3	WT_B	WT_B_bio3	0.0315
+R5sup1	D1	bio3	WT	B	2	4	WT_B	WT_B_bio3	0.0129
+R5sup1	D1	bio3	WT	B	3	1	WT_B	WT_B_bio3	0.0209
+R5sup1	D1	bio3	WT	B	3	2	WT_B	WT_B_bio3	0.0253
+R5sup1	D1	bio3	WT	B	3	3	WT_B	WT_B_bio3	0.0242
+R5sup1	D1	bio3	WT	B	3	4	WT_B	WT_B_bio3	
+R5sup1	D1	bio3	WT	B	4	1	WT_B	WT_B_bio3	0.0326
+R5sup1	D1	bio3	WT	B	4	2	WT_B	WT_B_bio3	0.0111
+R5sup1	D1	bio3	WT	B	4	3	WT_B	WT_B_bio3	0.0187
+R5sup1	D1	bio3	WT	B	4	4	WT_B	WT_B_bio3	0.0345
+R5sup1	D1	bio3	WT	B	5	1	WT_B	WT_B_bio3	0.0508
+R5sup1	D1	bio3	WT	B	5	2	WT_B	WT_B_bio3	0.0336
+R5sup1	D1	bio3	WT	B	5	3	WT_B	WT_B_bio3	0.0031
+R5sup1	D1	bio3	WT	B	5	4	WT_B	WT_B_bio3	
+R5sup1	D1	bio3	WT	B	6	1	WT_B	WT_B_bio3	0.0334
+R5sup1	D1	bio3	WT	B	6	2	WT_B	WT_B_bio3	0.0348
+R5sup1	D1	bio3	WT	B	6	3	WT_B	WT_B_bio3	0.1607
+R5sup1	D1	bio3	WT	B	6	4	WT_B	WT_B_bio3	0.0426
+R5sup1	D1	bio3	WT	F	1	1	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	1	2	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	1	3	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	1	4	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	2	1	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	2	2	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	2	3	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	2	4	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	3	1	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	3	2	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	3	3	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	3	4	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	4	1	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	4	2	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	4	3	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	4	4	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	5	1	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	5	2	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	5	3	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	5	4	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	6	1	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	6	2	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	6	3	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	F	6	4	WT_F	WT_F_bio3	
+R5sup1	D1	bio3	WT	O	1	1	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	1	2	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	1	3	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	1	4	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	2	1	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	2	2	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	2	3	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	2	4	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	3	1	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	3	2	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	3	3	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	3	4	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	4	1	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	4	2	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	4	3	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	4	4	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	5	1	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	5	2	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	5	3	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	5	4	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	6	1	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	6	2	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	6	3	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	O	6	4	WT_O	WT_O_bio3	
+R5sup1	D1	bio3	WT	BF	1	1	WT_BF	WT_BF_bio3	0.0322
+R5sup1	D1	bio3	WT	BF	1	2	WT_BF	WT_BF_bio3	0.0114
+R5sup1	D1	bio3	WT	BF	1	3	WT_BF	WT_BF_bio3	0.0184
+R5sup1	D1	bio3	WT	BF	1	4	WT_BF	WT_BF_bio3	0.0205
+R5sup1	D1	bio3	WT	BF	2	1	WT_BF	WT_BF_bio3	0.0217
+R5sup1	D1	bio3	WT	BF	2	2	WT_BF	WT_BF_bio3	0.047
+R5sup1	D1	bio3	WT	BF	2	3	WT_BF	WT_BF_bio3	0.0389
+R5sup1	D1	bio3	WT	BF	2	4	WT_BF	WT_BF_bio3	0.0166
+R5sup1	D1	bio3	WT	BF	3	1	WT_BF	WT_BF_bio3	0.0145
+R5sup1	D1	bio3	WT	BF	3	2	WT_BF	WT_BF_bio3	0.0297
+R5sup1	D1	bio3	WT	BF	3	3	WT_BF	WT_BF_bio3	
+R5sup1	D1	bio3	WT	BF	3	4	WT_BF	WT_BF_bio3	
+R5sup1	D1	bio3	WT	BF	4	1	WT_BF	WT_BF_bio3	0.0414
+R5sup1	D1	bio3	WT	BF	4	2	WT_BF	WT_BF_bio3	0.0404
+R5sup1	D1	bio3	WT	BF	4	3	WT_BF	WT_BF_bio3	0.007
+R5sup1	D1	bio3	WT	BF	4	4	WT_BF	WT_BF_bio3	0.0035
+R5sup1	D1	bio3	WT	BF	5	1	WT_BF	WT_BF_bio3	0.078
+R5sup1	D1	bio3	WT	BF	5	2	WT_BF	WT_BF_bio3	0.0399
+R5sup1	D1	bio3	WT	BF	5	3	WT_BF	WT_BF_bio3	0.0391
+R5sup1	D1	bio3	WT	BF	5	4	WT_BF	WT_BF_bio3	0.0238
+R5sup1	D1	bio3	WT	BF	6	1	WT_BF	WT_BF_bio3	0.0514
+R5sup1	D1	bio3	WT	BF	6	2	WT_BF	WT_BF_bio3	0.026
+R5sup1	D1	bio3	WT	BF	6	3	WT_BF	WT_BF_bio3	
+R5sup1	D1	bio3	WT	BF	6	4	WT_BF	WT_BF_bio3	
+R5sup1	D1	bio3	WT	BO	1	1	WT_BO	WT_BO_bio3	0.0742
+R5sup1	D1	bio3	WT	BO	1	2	WT_BO	WT_BO_bio3	0.0619
+R5sup1	D1	bio3	WT	BO	1	3	WT_BO	WT_BO_bio3	0.0384
+R5sup1	D1	bio3	WT	BO	1	4	WT_BO	WT_BO_bio3	
+R5sup1	D1	bio3	WT	BO	2	1	WT_BO	WT_BO_bio3	0.0658
+R5sup1	D1	bio3	WT	BO	2	2	WT_BO	WT_BO_bio3	0.0405
+R5sup1	D1	bio3	WT	BO	2	3	WT_BO	WT_BO_bio3	0.0296
+R5sup1	D1	bio3	WT	BO	2	4	WT_BO	WT_BO_bio3	0.0262
+R5sup1	D1	bio3	WT	BO	3	1	WT_BO	WT_BO_bio3	0.0259
+R5sup1	D1	bio3	WT	BO	3	2	WT_BO	WT_BO_bio3	0.034
+R5sup1	D1	bio3	WT	BO	3	3	WT_BO	WT_BO_bio3	0.017
+R5sup1	D1	bio3	WT	BO	3	4	WT_BO	WT_BO_bio3	
+R5sup1	D1	bio3	WT	BO	4	1	WT_BO	WT_BO_bio3	0.0164
+R5sup1	D1	bio3	WT	BO	4	2	WT_BO	WT_BO_bio3	0.0244
+R5sup1	D1	bio3	WT	BO	4	3	WT_BO	WT_BO_bio3	0.0306
+R5sup1	D1	bio3	WT	BO	4	4	WT_BO	WT_BO_bio3	0.0115
+R5sup1	D1	bio3	WT	BO	5	1	WT_BO	WT_BO_bio3	0.0857
+R5sup1	D1	bio3	WT	BO	5	2	WT_BO	WT_BO_bio3	0.0495
+R5sup1	D1	bio3	WT	BO	5	3	WT_BO	WT_BO_bio3	0.0346
+R5sup1	D1	bio3	WT	BO	5	4	WT_BO	WT_BO_bio3	0.0157
+R5sup1	D1	bio3	WT	BO	6	1	WT_BO	WT_BO_bio3	0.0624
+R5sup1	D1	bio3	WT	BO	6	2	WT_BO	WT_BO_bio3	0.0226
+R5sup1	D1	bio3	WT	BO	6	3	WT_BO	WT_BO_bio3	0.012
+R5sup1	D1	bio3	WT	BO	6	4	WT_BO	WT_BO_bio3	0.0087
+R5sup1	D1	bio3	WT	FO	1	1	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	1	2	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	1	3	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	1	4	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	2	1	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	2	2	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	2	3	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	2	4	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	3	1	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	3	2	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	3	3	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	3	4	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	4	1	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	4	2	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	4	3	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	4	4	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	5	1	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	5	2	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	5	3	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	5	4	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	6	1	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	6	2	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	6	3	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	WT	FO	6	4	WT_FO	WT_FO_bio3	
+R5sup1	D1	bio3	cyp79	BFO	1	1	cyp79_BFO	cyp79_BFO_bio3	0.0148
+R5sup1	D1	bio3	cyp79	BFO	1	2	cyp79_BFO	cyp79_BFO_bio3	0.0102
+R5sup1	D1	bio3	cyp79	BFO	1	3	cyp79_BFO	cyp79_BFO_bio3	0.0032
+R5sup1	D1	bio3	cyp79	BFO	1	4	cyp79_BFO	cyp79_BFO_bio3	
+R5sup1	D1	bio3	cyp79	BFO	2	1	cyp79_BFO	cyp79_BFO_bio3	0.0482
+R5sup1	D1	bio3	cyp79	BFO	2	2	cyp79_BFO	cyp79_BFO_bio3	0.0129
+R5sup1	D1	bio3	cyp79	BFO	2	3	cyp79_BFO	cyp79_BFO_bio3	0.0241
+R5sup1	D1	bio3	cyp79	BFO	2	4	cyp79_BFO	cyp79_BFO_bio3	0.0305
+R5sup1	D1	bio3	cyp79	BFO	3	1	cyp79_BFO	cyp79_BFO_bio3	0.0206
+R5sup1	D1	bio3	cyp79	BFO	3	2	cyp79_BFO	cyp79_BFO_bio3	0.0238
+R5sup1	D1	bio3	cyp79	BFO	3	3	cyp79_BFO	cyp79_BFO_bio3	0.0233
+R5sup1	D1	bio3	cyp79	BFO	3	4	cyp79_BFO	cyp79_BFO_bio3	0.0305
+R5sup1	D1	bio3	cyp79	BFO	4	1	cyp79_BFO	cyp79_BFO_bio3	0.0383
+R5sup1	D1	bio3	cyp79	BFO	4	2	cyp79_BFO	cyp79_BFO_bio3	0.0378
+R5sup1	D1	bio3	cyp79	BFO	4	3	cyp79_BFO	cyp79_BFO_bio3	0.0445
+R5sup1	D1	bio3	cyp79	BFO	4	4	cyp79_BFO	cyp79_BFO_bio3	0.0312
+R5sup1	D1	bio3	cyp79	BFO	5	1	cyp79_BFO	cyp79_BFO_bio3	0.0359
+R5sup1	D1	bio3	cyp79	BFO	5	2	cyp79_BFO	cyp79_BFO_bio3	0.0094
+R5sup1	D1	bio3	cyp79	BFO	5	3	cyp79_BFO	cyp79_BFO_bio3	
+R5sup1	D1	bio3	cyp79	BFO	5	4	cyp79_BFO	cyp79_BFO_bio3	
+R5sup1	D1	bio3	cyp79	BFO	6	1	cyp79_BFO	cyp79_BFO_bio3	0.0459
+R5sup1	D1	bio3	cyp79	BFO	6	2	cyp79_BFO	cyp79_BFO_bio3	0.0072
+R5sup1	D1	bio3	cyp79	BFO	6	3	cyp79_BFO	cyp79_BFO_bio3	0.0279
+R5sup1	D1	bio3	cyp79	BFO	6	4	cyp79_BFO	cyp79_BFO_bio3	0.0147
+R5sup1	D1	bio3	cyp79	B	1	1	cyp79_B	cyp79_B_bio3	0.04
+R5sup1	D1	bio3	cyp79	B	1	2	cyp79_B	cyp79_B_bio3	0.0444
+R5sup1	D1	bio3	cyp79	B	1	3	cyp79_B	cyp79_B_bio3	
+R5sup1	D1	bio3	cyp79	B	1	4	cyp79_B	cyp79_B_bio3	
+R5sup1	D1	bio3	cyp79	B	2	1	cyp79_B	cyp79_B_bio3	0.0472
+R5sup1	D1	bio3	cyp79	B	2	2	cyp79_B	cyp79_B_bio3	0.039
+R5sup1	D1	bio3	cyp79	B	2	3	cyp79_B	cyp79_B_bio3	0.0463
+R5sup1	D1	bio3	cyp79	B	2	4	cyp79_B	cyp79_B_bio3	0.0445
+R5sup1	D1	bio3	cyp79	B	3	1	cyp79_B	cyp79_B_bio3	0.0426
+R5sup1	D1	bio3	cyp79	B	3	2	cyp79_B	cyp79_B_bio3	0.034
+R5sup1	D1	bio3	cyp79	B	3	3	cyp79_B	cyp79_B_bio3	0.0405
+R5sup1	D1	bio3	cyp79	B	3	4	cyp79_B	cyp79_B_bio3	0.037
+R5sup1	D1	bio3	cyp79	B	4	1	cyp79_B	cyp79_B_bio3	0.0375
+R5sup1	D1	bio3	cyp79	B	4	2	cyp79_B	cyp79_B_bio3	0.0324
+R5sup1	D1	bio3	cyp79	B	4	3	cyp79_B	cyp79_B_bio3	0.0462
+R5sup1	D1	bio3	cyp79	B	4	4	cyp79_B	cyp79_B_bio3	0.0177
+R5sup1	D1	bio3	cyp79	B	5	1	cyp79_B	cyp79_B_bio3	0.0594
+R5sup1	D1	bio3	cyp79	B	5	2	cyp79_B	cyp79_B_bio3	0.0616
+R5sup1	D1	bio3	cyp79	B	5	3	cyp79_B	cyp79_B_bio3	0.0469
+R5sup1	D1	bio3	cyp79	B	5	4	cyp79_B	cyp79_B_bio3	0.0369
+R5sup1	D1	bio3	cyp79	B	6	1	cyp79_B	cyp79_B_bio3	0.1071
+R5sup1	D1	bio3	cyp79	B	6	2	cyp79_B	cyp79_B_bio3	0.0262
+R5sup1	D1	bio3	cyp79	B	6	3	cyp79_B	cyp79_B_bio3	0.0243
+R5sup1	D1	bio3	cyp79	B	6	4	cyp79_B	cyp79_B_bio3	0.0154
+R5sup1	D1	bio3	cyp79	F	1	1	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	1	2	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	1	3	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	1	4	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	2	1	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	2	2	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	2	3	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	2	4	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	3	1	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	3	2	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	3	3	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	3	4	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	4	1	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	4	2	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	4	3	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	4	4	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	5	1	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	5	2	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	5	3	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	5	4	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	6	1	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	6	2	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	6	3	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	F	6	4	cyp79_F	cyp79_F_bio3	
+R5sup1	D1	bio3	cyp79	O	1	1	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	1	2	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	1	3	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	1	4	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	2	1	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	2	2	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	2	3	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	2	4	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	3	1	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	3	2	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	3	3	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	3	4	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	4	1	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	4	2	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	4	3	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	4	4	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	5	1	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	5	2	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	5	3	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	5	4	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	6	1	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	6	2	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	6	3	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	O	6	4	cyp79_O	cyp79_O_bio3	
+R5sup1	D1	bio3	cyp79	BF	1	1	cyp79_BF	cyp79_BF_bio3	
+R5sup1	D1	bio3	cyp79	BF	1	2	cyp79_BF	cyp79_BF_bio3	
+R5sup1	D1	bio3	cyp79	BF	1	3	cyp79_BF	cyp79_BF_bio3	
+R5sup1	D1	bio3	cyp79	BF	1	4	cyp79_BF	cyp79_BF_bio3	
+R5sup1	D1	bio3	cyp79	BF	2	1	cyp79_BF	cyp79_BF_bio3	0.0663
+R5sup1	D1	bio3	cyp79	BF	2	2	cyp79_BF	cyp79_BF_bio3	0.0336
+R5sup1	D1	bio3	cyp79	BF	2	3	cyp79_BF	cyp79_BF_bio3	0.0131
+R5sup1	D1	bio3	cyp79	BF	2	4	cyp79_BF	cyp79_BF_bio3	
+R5sup1	D1	bio3	cyp79	BF	3	1	cyp79_BF	cyp79_BF_bio3	0.0971
+R5sup1	D1	bio3	cyp79	BF	3	2	cyp79_BF	cyp79_BF_bio3	0.0035
+R5sup1	D1	bio3	cyp79	BF	3	3	cyp79_BF	cyp79_BF_bio3	
+R5sup1	D1	bio3	cyp79	BF	3	4	cyp79_BF	cyp79_BF_bio3	
+R5sup1	D1	bio3	cyp79	BF	4	1	cyp79_BF	cyp79_BF_bio3	0.01
+R5sup1	D1	bio3	cyp79	BF	4	2	cyp79_BF	cyp79_BF_bio3	0.0118
+R5sup1	D1	bio3	cyp79	BF	4	3	cyp79_BF	cyp79_BF_bio3	
+R5sup1	D1	bio3	cyp79	BF	4	4	cyp79_BF	cyp79_BF_bio3	
+R5sup1	D1	bio3	cyp79	BF	5	1	cyp79_BF	cyp79_BF_bio3	0.0161
+R5sup1	D1	bio3	cyp79	BF	5	2	cyp79_BF	cyp79_BF_bio3	0.0471
+R5sup1	D1	bio3	cyp79	BF	5	3	cyp79_BF	cyp79_BF_bio3	0.0287
+R5sup1	D1	bio3	cyp79	BF	5	4	cyp79_BF	cyp79_BF_bio3	0
+R5sup1	D1	bio3	cyp79	BF	6	1	cyp79_BF	cyp79_BF_bio3	0.0203
+R5sup1	D1	bio3	cyp79	BF	6	2	cyp79_BF	cyp79_BF_bio3	0.0087
+R5sup1	D1	bio3	cyp79	BF	6	3	cyp79_BF	cyp79_BF_bio3	
+R5sup1	D1	bio3	cyp79	BF	6	4	cyp79_BF	cyp79_BF_bio3	
+R5sup1	D1	bio3	cyp79	BO	1	1	cyp79_BO	cyp79_BO_bio3	0.0204
+R5sup1	D1	bio3	cyp79	BO	1	2	cyp79_BO	cyp79_BO_bio3	0.0153
+R5sup1	D1	bio3	cyp79	BO	1	3	cyp79_BO	cyp79_BO_bio3	0.0239
+R5sup1	D1	bio3	cyp79	BO	1	4	cyp79_BO	cyp79_BO_bio3	0.0465
+R5sup1	D1	bio3	cyp79	BO	2	1	cyp79_BO	cyp79_BO_bio3	0.0319
+R5sup1	D1	bio3	cyp79	BO	2	2	cyp79_BO	cyp79_BO_bio3	0.0146
+R5sup1	D1	bio3	cyp79	BO	2	3	cyp79_BO	cyp79_BO_bio3	0.0238
+R5sup1	D1	bio3	cyp79	BO	2	4	cyp79_BO	cyp79_BO_bio3	0.0126
+R5sup1	D1	bio3	cyp79	BO	3	1	cyp79_BO	cyp79_BO_bio3	0.0807
+R5sup1	D1	bio3	cyp79	BO	3	2	cyp79_BO	cyp79_BO_bio3	0.0421
+R5sup1	D1	bio3	cyp79	BO	3	3	cyp79_BO	cyp79_BO_bio3	0.0368
+R5sup1	D1	bio3	cyp79	BO	3	4	cyp79_BO	cyp79_BO_bio3	0.0518
+R5sup1	D1	bio3	cyp79	BO	4	1	cyp79_BO	cyp79_BO_bio3	0.025
+R5sup1	D1	bio3	cyp79	BO	4	2	cyp79_BO	cyp79_BO_bio3	0.0403
+R5sup1	D1	bio3	cyp79	BO	4	3	cyp79_BO	cyp79_BO_bio3	0.0262
+R5sup1	D1	bio3	cyp79	BO	4	4	cyp79_BO	cyp79_BO_bio3	0.0158
+R5sup1	D1	bio3	cyp79	BO	5	1	cyp79_BO	cyp79_BO_bio3	0.129
+R5sup1	D1	bio3	cyp79	BO	5	2	cyp79_BO	cyp79_BO_bio3	0.0264
+R5sup1	D1	bio3	cyp79	BO	5	3	cyp79_BO	cyp79_BO_bio3	0.0536
+R5sup1	D1	bio3	cyp79	BO	5	4	cyp79_BO	cyp79_BO_bio3	0.0439
+R5sup1	D1	bio3	cyp79	BO	6	1	cyp79_BO	cyp79_BO_bio3	0.0144
+R5sup1	D1	bio3	cyp79	BO	6	2	cyp79_BO	cyp79_BO_bio3	0.0669
+R5sup1	D1	bio3	cyp79	BO	6	3	cyp79_BO	cyp79_BO_bio3	0.032
+R5sup1	D1	bio3	cyp79	BO	6	4	cyp79_BO	cyp79_BO_bio3	0.0147
+R5sup1	D1	bio3	cyp79	FO	1	1	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	1	2	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	1	3	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	1	4	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	2	1	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	2	2	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	2	3	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	2	4	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	3	1	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	3	2	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	3	3	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	3	4	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	4	1	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	4	2	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	4	3	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	4	4	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	5	1	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	5	2	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	5	3	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	5	4	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	6	1	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	6	2	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	6	3	cyp79_FO	cyp79_FO_bio3	
+R5sup1	D1	bio3	cyp79	FO	6	4	cyp79_FO	cyp79_FO_bio3	
+R5sup1	A6	bio1	WT	B	1	1	WT_B	WT_bio1	0.0179
+R5sup1	A6	bio1	WT	B	1	2	WT_B	WT_bio1	0.0382
+R5sup1	A6	bio1	WT	B	1	3	WT_B	WT_bio1	0.0112
+R5sup1	A6	bio1	WT	B	1	4	WT_B	WT_bio1	
+R5sup1	A6	bio1	WT	B	2	1	WT_B	WT_bio1	0.0138
+R5sup1	A6	bio1	WT	B	2	2	WT_B	WT_bio1	0.0086
+R5sup1	A6	bio1	WT	B	2	3	WT_B	WT_bio1	0.0164
+R5sup1	A6	bio1	WT	B	2	4	WT_B	WT_bio1	0.0283
+R5sup1	A6	bio1	WT	B	3	1	WT_B	WT_bio1	0.0294
+R5sup1	A6	bio1	WT	B	3	2	WT_B	WT_bio1	0.0816
+R5sup1	A6	bio1	WT	B	3	3	WT_B	WT_bio1	0.0242
+R5sup1	A6	bio1	WT	B	3	4	WT_B	WT_bio1	0.0439
+R5sup1	A6	bio1	WT	B	4	1	WT_B	WT_bio1	0.065
+R5sup1	A6	bio1	WT	B	4	2	WT_B	WT_bio1	0.0183
+R5sup1	A6	bio1	WT	B	4	3	WT_B	WT_bio1	0.0239
+R5sup1	A6	bio1	WT	B	4	4	WT_B	WT_bio1	0.0091
+R5sup1	A6	bio1	WT	B	5	1	WT_B	WT_bio1	0.0065
+R5sup1	A6	bio1	WT	B	5	2	WT_B	WT_bio1	
+R5sup1	A6	bio1	WT	B	5	3	WT_B	WT_bio1	
+R5sup1	A6	bio1	WT	B	5	4	WT_B	WT_bio1	
+R5sup1	A6	bio1	WT	B	6	1	WT_B	WT_bio1	0.017
+R5sup1	A6	bio1	WT	B	6	2	WT_B	WT_bio1	0.0609
+R5sup1	A6	bio1	WT	B	6	3	WT_B	WT_bio1	0.0384
+R5sup1	A6	bio1	WT	B	6	4	WT_B	WT_bio1	
+R5sup1	A6	bio1	WT	BF	1	1	WT_BF	WT_bio1	0.0016
+R5sup1	A6	bio1	WT	BF	1	2	WT_BF	WT_bio1	0.04
+R5sup1	A6	bio1	WT	BF	1	3	WT_BF	WT_bio1	0.0078
+R5sup1	A6	bio1	WT	BF	1	4	WT_BF	WT_bio1	
+R5sup1	A6	bio1	WT	BF	2	1	WT_BF	WT_bio1	0.0275
+R5sup1	A6	bio1	WT	BF	2	2	WT_BF	WT_bio1	0.0769
+R5sup1	A6	bio1	WT	BF	2	3	WT_BF	WT_bio1	0.012
+R5sup1	A6	bio1	WT	BF	2	4	WT_BF	WT_bio1	0.0053
+R5sup1	A6	bio1	WT	BF	3	1	WT_BF	WT_bio1	0.0171
+R5sup1	A6	bio1	WT	BF	3	2	WT_BF	WT_bio1	0.0225
+R5sup1	A6	bio1	WT	BF	3	3	WT_BF	WT_bio1	0.0038
+R5sup1	A6	bio1	WT	BF	3	4	WT_BF	WT_bio1	0.0095
+R5sup1	A6	bio1	WT	BF	4	1	WT_BF	WT_bio1	0.0075
+R5sup1	A6	bio1	WT	BF	4	2	WT_BF	WT_bio1	0.0613
+R5sup1	A6	bio1	WT	BF	4	3	WT_BF	WT_bio1	0.0113
+R5sup1	A6	bio1	WT	BF	4	4	WT_BF	WT_bio1	0.0343
+R5sup1	A6	bio1	WT	BF	5	1	WT_BF	WT_bio1	0.0184
+R5sup1	A6	bio1	WT	BF	5	2	WT_BF	WT_bio1	0.0437
+R5sup1	A6	bio1	WT	BF	5	3	WT_BF	WT_bio1	0.0173
+R5sup1	A6	bio1	WT	BF	5	4	WT_BF	WT_bio1	0.0151
+R5sup1	A6	bio1	WT	BF	6	1	WT_BF	WT_bio1	0.0621
+R5sup1	A6	bio1	WT	BF	6	2	WT_BF	WT_bio1	
+R5sup1	A6	bio1	WT	BF	6	3	WT_BF	WT_bio1	
+R5sup1	A6	bio1	WT	BF	6	4	WT_BF	WT_bio1	
+R5sup1	A6	bio1	WT	BFO	1	1	WT_BFO	WT_bio1	0.0157
+R5sup1	A6	bio1	WT	BFO	1	2	WT_BFO	WT_bio1	0.0454
+R5sup1	A6	bio1	WT	BFO	1	3	WT_BFO	WT_bio1	0.0184
+R5sup1	A6	bio1	WT	BFO	1	4	WT_BFO	WT_bio1	0.0248
+R5sup1	A6	bio1	WT	BFO	2	1	WT_BFO	WT_bio1	0.0063
+R5sup1	A6	bio1	WT	BFO	2	2	WT_BFO	WT_bio1	0.0309
+R5sup1	A6	bio1	WT	BFO	2	3	WT_BFO	WT_bio1	0.0067
+R5sup1	A6	bio1	WT	BFO	2	4	WT_BFO	WT_bio1	0.0042
+R5sup1	A6	bio1	WT	BFO	3	1	WT_BFO	WT_bio1	0.0047
+R5sup1	A6	bio1	WT	BFO	3	2	WT_BFO	WT_bio1	
+R5sup1	A6	bio1	WT	BFO	3	3	WT_BFO	WT_bio1	
+R5sup1	A6	bio1	WT	BFO	3	4	WT_BFO	WT_bio1	
+R5sup1	A6	bio1	WT	BFO	4	1	WT_BFO	WT_bio1	0.006
+R5sup1	A6	bio1	WT	BFO	4	2	WT_BFO	WT_bio1	0.0158
+R5sup1	A6	bio1	WT	BFO	4	3	WT_BFO	WT_bio1	0.0585
+R5sup1	A6	bio1	WT	BFO	4	4	WT_BFO	WT_bio1	0.0086
+R5sup1	A6	bio1	WT	BFO	5	1	WT_BFO	WT_bio1	0.0066
+R5sup1	A6	bio1	WT	BFO	5	2	WT_BFO	WT_bio1	0.0755
+R5sup1	A6	bio1	WT	BFO	5	3	WT_BFO	WT_bio1	0.0259
+R5sup1	A6	bio1	WT	BFO	5	4	WT_BFO	WT_bio1	0.0367
+R5sup1	A6	bio1	WT	BFO	6	1	WT_BFO	WT_bio1	0.0285
+R5sup1	A6	bio1	WT	BFO	6	2	WT_BFO	WT_bio1	0.0222
+R5sup1	A6	bio1	WT	BFO	6	3	WT_BFO	WT_bio1	0.0236
+R5sup1	A6	bio1	WT	BFO	6	4	WT_BFO	WT_bio1	0.0316
+R5sup1	A6	bio1	WT	BO	1	1	WT_BO	WT_bio1	0.0038
+R5sup1	A6	bio1	WT	BO	1	2	WT_BO	WT_bio1	
+R5sup1	A6	bio1	WT	BO	1	3	WT_BO	WT_bio1	
+R5sup1	A6	bio1	WT	BO	1	4	WT_BO	WT_bio1	
+R5sup1	A6	bio1	WT	BO	2	1	WT_BO	WT_bio1	0.0052
+R5sup1	A6	bio1	WT	BO	2	2	WT_BO	WT_bio1	0.0414
+R5sup1	A6	bio1	WT	BO	2	3	WT_BO	WT_bio1	0.0211
+R5sup1	A6	bio1	WT	BO	2	4	WT_BO	WT_bio1	
+R5sup1	A6	bio1	WT	BO	3	1	WT_BO	WT_bio1	0.0326
+R5sup1	A6	bio1	WT	BO	3	2	WT_BO	WT_bio1	0.0566
+R5sup1	A6	bio1	WT	BO	3	3	WT_BO	WT_bio1	0.0555
+R5sup1	A6	bio1	WT	BO	3	4	WT_BO	WT_bio1	0.031
+R5sup1	A6	bio1	WT	BO	4	1	WT_BO	WT_bio1	0.0565
+R5sup1	A6	bio1	WT	BO	4	2	WT_BO	WT_bio1	0.0093
+R5sup1	A6	bio1	WT	BO	4	3	WT_BO	WT_bio1	
+R5sup1	A6	bio1	WT	BO	4	4	WT_BO	WT_bio1	
+R5sup1	A6	bio1	WT	BO	5	1	WT_BO	WT_bio1	0.0011
+R5sup1	A6	bio1	WT	BO	5	2	WT_BO	WT_bio1	
+R5sup1	A6	bio1	WT	BO	5	3	WT_BO	WT_bio1	
+R5sup1	A6	bio1	WT	BO	5	4	WT_BO	WT_bio1	
+R5sup1	A6	bio1	WT	BO	6	1	WT_BO	WT_bio1	0.0034
+R5sup1	A6	bio1	WT	BO	6	2	WT_BO	WT_bio1	0.0961
+R5sup1	A6	bio1	WT	BO	6	3	WT_BO	WT_bio1	0.0296
+R5sup1	A6	bio1	WT	BO	6	4	WT_BO	WT_bio1	0.0319
+R5sup1	A6	bio2	WT	B	1	1	WT_B	WT_bio2	0.0494
+R5sup1	A6	bio2	WT	B	1	2	WT_B	WT_bio2	0.0263
+R5sup1	A6	bio2	WT	B	1	3	WT_B	WT_bio2	0.0426
+R5sup1	A6	bio2	WT	B	1	4	WT_B	WT_bio2	0.0383
+R5sup1	A6	bio2	WT	B	2	1	WT_B	WT_bio2	0.0343
+R5sup1	A6	bio2	WT	B	2	2	WT_B	WT_bio2	0.0258
+R5sup1	A6	bio2	WT	B	2	3	WT_B	WT_bio2	0.0105
+R5sup1	A6	bio2	WT	B	2	4	WT_B	WT_bio2	
+R5sup1	A6	bio2	WT	B	3	1	WT_B	WT_bio2	0.0269
+R5sup1	A6	bio2	WT	B	3	2	WT_B	WT_bio2	0.0268
+R5sup1	A6	bio2	WT	B	3	3	WT_B	WT_bio2	0.0105
+R5sup1	A6	bio2	WT	B	3	4	WT_B	WT_bio2	
+R5sup1	A6	bio2	WT	B	4	1	WT_B	WT_bio2	0.0066
+R5sup1	A6	bio2	WT	B	4	2	WT_B	WT_bio2	0.0252
+R5sup1	A6	bio2	WT	B	4	3	WT_B	WT_bio2	0.0047
+R5sup1	A6	bio2	WT	B	4	4	WT_B	WT_bio2	0.0155
+R5sup1	A6	bio2	WT	B	5	1	WT_B	WT_bio2	0.0125
+R5sup1	A6	bio2	WT	B	5	2	WT_B	WT_bio2	0.0048
+R5sup1	A6	bio2	WT	B	5	3	WT_B	WT_bio2	0.1374
+R5sup1	A6	bio2	WT	B	5	4	WT_B	WT_bio2	0.0382
+R5sup1	A6	bio2	WT	B	6	1	WT_B	WT_bio2	0.0028
+R5sup1	A6	bio2	WT	B	6	2	WT_B	WT_bio2	0.0117
+R5sup1	A6	bio2	WT	B	6	3	WT_B	WT_bio2	0.0854
+R5sup1	A6	bio2	WT	B	6	4	WT_B	WT_bio2	0.0128
+R5sup1	A6	bio2	WT	BF	1	1	WT_BF	WT_bio2	0.0231
+R5sup1	A6	bio2	WT	BF	1	2	WT_BF	WT_bio2	0.108
+R5sup1	A6	bio2	WT	BF	1	3	WT_BF	WT_bio2	0.0366
+R5sup1	A6	bio2	WT	BF	1	4	WT_BF	WT_bio2	
+R5sup1	A6	bio2	WT	BF	2	1	WT_BF	WT_bio2	0.0098
+R5sup1	A6	bio2	WT	BF	2	2	WT_BF	WT_bio2	0.0103
+R5sup1	A6	bio2	WT	BF	2	3	WT_BF	WT_bio2	0.0097
+R5sup1	A6	bio2	WT	BF	2	4	WT_BF	WT_bio2	0.0262
+R5sup1	A6	bio2	WT	BF	3	1	WT_BF	WT_bio2	0.0395
+R5sup1	A6	bio2	WT	BF	3	2	WT_BF	WT_bio2	0.0103
+R5sup1	A6	bio2	WT	BF	3	3	WT_BF	WT_bio2	0.0218
+R5sup1	A6	bio2	WT	BF	3	4	WT_BF	WT_bio2	0.0062
+R5sup1	A6	bio2	WT	BF	4	1	WT_BF	WT_bio2	0.0138
+R5sup1	A6	bio2	WT	BF	4	2	WT_BF	WT_bio2	0.0212
+R5sup1	A6	bio2	WT	BF	4	3	WT_BF	WT_bio2	0.0458
+R5sup1	A6	bio2	WT	BF	4	4	WT_BF	WT_bio2	0.0221
+R5sup1	A6	bio2	WT	BF	5	1	WT_BF	WT_bio2	0.1035
+R5sup1	A6	bio2	WT	BF	5	2	WT_BF	WT_bio2	0.0653
+R5sup1	A6	bio2	WT	BF	5	3	WT_BF	WT_bio2	0.0054
+R5sup1	A6	bio2	WT	BF	5	4	WT_BF	WT_bio2	0.0223
+R5sup1	A6	bio2	WT	BF	6	1	WT_BF	WT_bio2	0.0226
+R5sup1	A6	bio2	WT	BF	6	2	WT_BF	WT_bio2	0.0181
+R5sup1	A6	bio2	WT	BF	6	3	WT_BF	WT_bio2	0.0366
+R5sup1	A6	bio2	WT	BF	6	4	WT_BF	WT_bio2	0.01
+R5sup1	A6	bio2	WT	BFO	1	1	WT_BFO	WT_bio2	0.0061
+R5sup1	A6	bio2	WT	BFO	1	2	WT_BFO	WT_bio2	0.0075
+R5sup1	A6	bio2	WT	BFO	1	3	WT_BFO	WT_bio2	0.0203
+R5sup1	A6	bio2	WT	BFO	1	4	WT_BFO	WT_bio2	0.0231
+R5sup1	A6	bio2	WT	BFO	2	1	WT_BFO	WT_bio2	0.0081
+R5sup1	A6	bio2	WT	BFO	2	2	WT_BFO	WT_bio2	0.0027
+R5sup1	A6	bio2	WT	BFO	2	3	WT_BFO	WT_bio2	0.0209
+R5sup1	A6	bio2	WT	BFO	2	4	WT_BFO	WT_bio2	0.0442
+R5sup1	A6	bio2	WT	BFO	3	1	WT_BFO	WT_bio2	0.0253
+R5sup1	A6	bio2	WT	BFO	3	2	WT_BFO	WT_bio2	0.0803
+R5sup1	A6	bio2	WT	BFO	3	3	WT_BFO	WT_bio2	
+R5sup1	A6	bio2	WT	BFO	3	4	WT_BFO	WT_bio2	
+R5sup1	A6	bio2	WT	BFO	4	1	WT_BFO	WT_bio2	0.0264
+R5sup1	A6	bio2	WT	BFO	4	2	WT_BFO	WT_bio2	0.0261
+R5sup1	A6	bio2	WT	BFO	4	3	WT_BFO	WT_bio2	0.084
+R5sup1	A6	bio2	WT	BFO	4	4	WT_BFO	WT_bio2	0.0139
+R5sup1	A6	bio2	WT	BFO	5	1	WT_BFO	WT_bio2	0.0325
+R5sup1	A6	bio2	WT	BFO	5	2	WT_BFO	WT_bio2	0.0174
+R5sup1	A6	bio2	WT	BFO	5	3	WT_BFO	WT_bio2	0.0424
+R5sup1	A6	bio2	WT	BFO	5	4	WT_BFO	WT_bio2	0.0512
+R5sup1	A6	bio2	WT	BFO	6	1	WT_BFO	WT_bio2	0.0304
+R5sup1	A6	bio2	WT	BFO	6	2	WT_BFO	WT_bio2	0.0326
+R5sup1	A6	bio2	WT	BFO	6	3	WT_BFO	WT_bio2	0.0351
+R5sup1	A6	bio2	WT	BFO	6	4	WT_BFO	WT_bio2	0.0089
+R5sup1	A6	bio2	WT	BO	1	1	WT_BO	WT_bio2	0.0289
+R5sup1	A6	bio2	WT	BO	1	2	WT_BO	WT_bio2	0.007
+R5sup1	A6	bio2	WT	BO	1	3	WT_BO	WT_bio2	0.0333
+R5sup1	A6	bio2	WT	BO	1	4	WT_BO	WT_bio2	0.0201
+R5sup1	A6	bio2	WT	BO	2	1	WT_BO	WT_bio2	0.0146
+R5sup1	A6	bio2	WT	BO	2	2	WT_BO	WT_bio2	0.0396
+R5sup1	A6	bio2	WT	BO	2	3	WT_BO	WT_bio2	0.015
+R5sup1	A6	bio2	WT	BO	2	4	WT_BO	WT_bio2	0.0204
+R5sup1	A6	bio2	WT	BO	3	1	WT_BO	WT_bio2	0.0116
+R5sup1	A6	bio2	WT	BO	3	2	WT_BO	WT_bio2	0.0337
+R5sup1	A6	bio2	WT	BO	3	3	WT_BO	WT_bio2	
+R5sup1	A6	bio2	WT	BO	3	4	WT_BO	WT_bio2	
+R5sup1	A6	bio2	WT	BO	4	1	WT_BO	WT_bio2	0.0121
+R5sup1	A6	bio2	WT	BO	4	2	WT_BO	WT_bio2	0.0328
+R5sup1	A6	bio2	WT	BO	4	3	WT_BO	WT_bio2	0.0397
+R5sup1	A6	bio2	WT	BO	4	4	WT_BO	WT_bio2	
+R5sup1	A6	bio2	WT	BO	5	1	WT_BO	WT_bio2	0.0774
+R5sup1	A6	bio2	WT	BO	5	2	WT_BO	WT_bio2	0.071
+R5sup1	A6	bio2	WT	BO	5	3	WT_BO	WT_bio2	0.0261
+R5sup1	A6	bio2	WT	BO	5	4	WT_BO	WT_bio2	0.0263
+R5sup1	A6	bio2	WT	BO	6	1	WT_BO	WT_bio2	0.0048
+R5sup1	A6	bio2	WT	BO	6	2	WT_BO	WT_bio2	0.0406
+R5sup1	A6	bio2	WT	BO	6	3	WT_BO	WT_bio2	0.0233
+R5sup1	A6	bio2	WT	BO	6	4	WT_BO	WT_bio2	0.0666
+R5sup1	A6	bio2	WT	F	1	1	WT_F	WT_bio2	0.02
+R5sup1	A6	bio2	WT	F	1	2	WT_F	WT_bio2	
+R5sup1	A6	bio2	WT	F	1	3	WT_F	WT_bio2	
+R5sup1	A6	bio2	WT	F	1	4	WT_F	WT_bio2	
+R5sup1	A6	bio2	WT	F	2	1	WT_F	WT_bio2	0.0067
+R5sup1	A6	bio2	WT	F	2	2	WT_F	WT_bio2	
+R5sup1	A6	bio2	WT	F	2	3	WT_F	WT_bio2	
+R5sup1	A6	bio2	WT	F	2	4	WT_F	WT_bio2	
+R5sup1	A6	bio2	WT	F	3	1	WT_F	WT_bio2	
+R5sup1	A6	bio2	WT	F	3	2	WT_F	WT_bio2	
+R5sup1	A6	bio2	WT	F	3	3	WT_F	WT_bio2	
+R5sup1	A6	bio2	WT	F	3	4	WT_F	WT_bio2	
+R5sup1	A6	bio2	WT	F	4	1	WT_F	WT_bio2	
+R5sup1	A6	bio2	WT	F	4	2	WT_F	WT_bio2	
+R5sup1	A6	bio2	WT	F	4	3	WT_F	WT_bio2	
+R5sup1	A6	bio2	WT	F	4	4	WT_F	WT_bio2	
+R5sup1	A6	bio2	WT	F	5	1	WT_F	WT_bio2	
+R5sup1	A6	bio2	WT	F	5	2	WT_F	WT_bio2	
+R5sup1	A6	bio2	WT	F	5	3	WT_F	WT_bio2	
+R5sup1	A6	bio2	WT	F	5	4	WT_F	WT_bio2	
+R5sup1	A6	bio2	WT	F	6	1	WT_F	WT_bio2	0.0934
+R5sup1	A6	bio2	WT	F	6	2	WT_F	WT_bio2	0.0329
+R5sup1	A6	bio2	WT	F	6	3	WT_F	WT_bio2	
+R5sup1	A6	bio2	WT	F	6	4	WT_F	WT_bio2	
+R5sup1	A6	bio2	WT	FO	1	1	WT_FO	WT_bio2	0.02
+R5sup1	A6	bio2	WT	FO	1	2	WT_FO	WT_bio2	0.0014
+R5sup1	A6	bio2	WT	FO	1	3	WT_FO	WT_bio2	
+R5sup1	A6	bio2	WT	FO	1	4	WT_FO	WT_bio2	
+R5sup1	A6	bio2	WT	FO	2	1	WT_FO	WT_bio2	0.0058
+R5sup1	A6	bio2	WT	FO	2	2	WT_FO	WT_bio2	
+R5sup1	A6	bio2	WT	FO	2	3	WT_FO	WT_bio2	
+R5sup1	A6	bio2	WT	FO	2	4	WT_FO	WT_bio2	
+R5sup1	A6	bio2	WT	FO	3	1	WT_FO	WT_bio2	0.0053
+R5sup1	A6	bio2	WT	FO	3	2	WT_FO	WT_bio2	
+R5sup1	A6	bio2	WT	FO	3	3	WT_FO	WT_bio2	
+R5sup1	A6	bio2	WT	FO	3	4	WT_FO	WT_bio2	
+R5sup1	A6	bio2	WT	FO	4	1	WT_FO	WT_bio2	0.0391
+R5sup1	A6	bio2	WT	FO	4	2	WT_FO	WT_bio2	
+R5sup1	A6	bio2	WT	FO	4	3	WT_FO	WT_bio2	
+R5sup1	A6	bio2	WT	FO	4	4	WT_FO	WT_bio2	
+R5sup1	A6	bio2	WT	FO	5	1	WT_FO	WT_bio2	0.0062
+R5sup1	A6	bio2	WT	FO	5	2	WT_FO	WT_bio2	
+R5sup1	A6	bio2	WT	FO	5	3	WT_FO	WT_bio2	
+R5sup1	A6	bio2	WT	FO	5	4	WT_FO	WT_bio2	
+R5sup1	A6	bio2	WT	FO	6	1	WT_FO	WT_bio2	0.0078
+R5sup1	A6	bio2	WT	FO	6	2	WT_FO	WT_bio2	0.0021
+R5sup1	A6	bio2	WT	FO	6	3	WT_FO	WT_bio2	
+R5sup1	A6	bio2	WT	FO	6	4	WT_FO	WT_bio2	
+R5sup1	A6	bio2	WT	O	1	1	WT_O	WT_bio2	0.025
+R5sup1	A6	bio2	WT	O	1	2	WT_O	WT_bio2	0.026
+R5sup1	A6	bio2	WT	O	1	3	WT_O	WT_bio2	
+R5sup1	A6	bio2	WT	O	1	4	WT_O	WT_bio2	
+R5sup1	A6	bio2	WT	O	2	1	WT_O	WT_bio2	0.0119
+R5sup1	A6	bio2	WT	O	2	2	WT_O	WT_bio2	
+R5sup1	A6	bio2	WT	O	2	3	WT_O	WT_bio2	
+R5sup1	A6	bio2	WT	O	2	4	WT_O	WT_bio2	
+R5sup1	A6	bio2	WT	O	3	1	WT_O	WT_bio2	0.0022
+R5sup1	A6	bio2	WT	O	3	2	WT_O	WT_bio2	
+R5sup1	A6	bio2	WT	O	3	3	WT_O	WT_bio2	
+R5sup1	A6	bio2	WT	O	3	4	WT_O	WT_bio2	
+R5sup1	A6	bio2	WT	O	4	1	WT_O	WT_bio2	0.0091
+R5sup1	A6	bio2	WT	O	4	2	WT_O	WT_bio2	0.028
+R5sup1	A6	bio2	WT	O	4	3	WT_O	WT_bio2	0.007
+R5sup1	A6	bio2	WT	O	4	4	WT_O	WT_bio2	0.0214
+R5sup1	A6	bio2	WT	O	5	1	WT_O	WT_bio2	0.0059
+R5sup1	A6	bio2	WT	O	5	2	WT_O	WT_bio2	
+R5sup1	A6	bio2	WT	O	5	3	WT_O	WT_bio2	
+R5sup1	A6	bio2	WT	O	5	4	WT_O	WT_bio2	
+R5sup1	A6	bio2	WT	O	6	1	WT_O	WT_bio2	0.0193
+R5sup1	A6	bio2	WT	O	6	2	WT_O	WT_bio2	0.0051
+R5sup1	A6	bio2	WT	O	6	3	WT_O	WT_bio2	0.0498
+R5sup1	A6	bio2	WT	O	6	4	WT_O	WT_bio2	0.0209
+R5sup1	A6	bio3	WT	B	1	1	WT_B	WT_bio3	
+R5sup1	A6	bio3	WT	B	1	2	WT_B	WT_bio3	
+R5sup1	A6	bio3	WT	B	1	3	WT_B	WT_bio3	
+R5sup1	A6	bio3	WT	B	1	4	WT_B	WT_bio3	
+R5sup1	A6	bio3	WT	B	2	1	WT_B	WT_bio3	
+R5sup1	A6	bio3	WT	B	2	2	WT_B	WT_bio3	
+R5sup1	A6	bio3	WT	B	2	3	WT_B	WT_bio3	
+R5sup1	A6	bio3	WT	B	2	4	WT_B	WT_bio3	
+R5sup1	A6	bio3	WT	B	3	1	WT_B	WT_bio3	0.0178
+R5sup1	A6	bio3	WT	B	3	2	WT_B	WT_bio3	0.2018
+R5sup1	A6	bio3	WT	B	3	3	WT_B	WT_bio3	
+R5sup1	A6	bio3	WT	B	3	4	WT_B	WT_bio3	
+R5sup1	A6	bio3	WT	B	4	1	WT_B	WT_bio3	0.0038
+R5sup1	A6	bio3	WT	B	4	2	WT_B	WT_bio3	0.0898
+R5sup1	A6	bio3	WT	B	4	3	WT_B	WT_bio3	0.0283
+R5sup1	A6	bio3	WT	B	4	4	WT_B	WT_bio3	0.0068
+R5sup1	A6	bio3	WT	B	5	1	WT_B	WT_bio3	0.0122
+R5sup1	A6	bio3	WT	B	5	2	WT_B	WT_bio3	
+R5sup1	A6	bio3	WT	B	5	3	WT_B	WT_bio3	
+R5sup1	A6	bio3	WT	B	5	4	WT_B	WT_bio3	
+R5sup1	A6	bio3	WT	B	6	1	WT_B	WT_bio3	0.0284
+R5sup1	A6	bio3	WT	B	6	2	WT_B	WT_bio3	0.0358
+R5sup1	A6	bio3	WT	B	6	3	WT_B	WT_bio3	0.062
+R5sup1	A6	bio3	WT	B	6	4	WT_B	WT_bio3	0.0788
+R5sup1	A6	bio3	WT	BF	1	1	WT_BF	WT_bio3	0.0041
+R5sup1	A6	bio3	WT	BF	1	2	WT_BF	WT_bio3	0.0155
+R5sup1	A6	bio3	WT	BF	1	3	WT_BF	WT_bio3	
+R5sup1	A6	bio3	WT	BF	1	4	WT_BF	WT_bio3	
+R5sup1	A6	bio3	WT	BF	2	1	WT_BF	WT_bio3	0.0265
+R5sup1	A6	bio3	WT	BF	2	2	WT_BF	WT_bio3	0.0027
+R5sup1	A6	bio3	WT	BF	2	3	WT_BF	WT_bio3	
+R5sup1	A6	bio3	WT	BF	2	4	WT_BF	WT_bio3	
+R5sup1	A6	bio3	WT	BF	3	1	WT_BF	WT_bio3	0.0224
+R5sup1	A6	bio3	WT	BF	3	2	WT_BF	WT_bio3	
+R5sup1	A6	bio3	WT	BF	3	3	WT_BF	WT_bio3	
+R5sup1	A6	bio3	WT	BF	3	4	WT_BF	WT_bio3	
+R5sup1	A6	bio3	WT	BF	4	1	WT_BF	WT_bio3	
+R5sup1	A6	bio3	WT	BF	4	2	WT_BF	WT_bio3	
+R5sup1	A6	bio3	WT	BF	4	3	WT_BF	WT_bio3	
+R5sup1	A6	bio3	WT	BF	4	4	WT_BF	WT_bio3	
+R5sup1	A6	bio3	WT	BF	5	1	WT_BF	WT_bio3	0.1032
+R5sup1	A6	bio3	WT	BF	5	2	WT_BF	WT_bio3	
+R5sup1	A6	bio3	WT	BF	5	3	WT_BF	WT_bio3	
+R5sup1	A6	bio3	WT	BF	5	4	WT_BF	WT_bio3	
+R5sup1	A6	bio3	WT	BF	6	1	WT_BF	WT_bio3	0.0334
+R5sup1	A6	bio3	WT	BF	6	2	WT_BF	WT_bio3	
+R5sup1	A6	bio3	WT	BF	6	3	WT_BF	WT_bio3	
+R5sup1	A6	bio3	WT	BF	6	4	WT_BF	WT_bio3	
+R5sup1	A6	bio3	WT	BFO	1	1	WT_BFO	WT_bio3	0.0439
+R5sup1	A6	bio3	WT	BFO	1	2	WT_BFO	WT_bio3	
+R5sup1	A6	bio3	WT	BFO	1	3	WT_BFO	WT_bio3	
+R5sup1	A6	bio3	WT	BFO	1	4	WT_BFO	WT_bio3	
+R5sup1	A6	bio3	WT	BFO	2	1	WT_BFO	WT_bio3	0.0064
+R5sup1	A6	bio3	WT	BFO	2	2	WT_BFO	WT_bio3	
+R5sup1	A6	bio3	WT	BFO	2	3	WT_BFO	WT_bio3	
+R5sup1	A6	bio3	WT	BFO	2	4	WT_BFO	WT_bio3	
+R5sup1	A6	bio3	WT	BFO	3	1	WT_BFO	WT_bio3	0.0083
+R5sup1	A6	bio3	WT	BFO	3	2	WT_BFO	WT_bio3	0.0212
+R5sup1	A6	bio3	WT	BFO	3	3	WT_BFO	WT_bio3	0.1218
+R5sup1	A6	bio3	WT	BFO	3	4	WT_BFO	WT_bio3	
+R5sup1	A6	bio3	WT	BFO	4	1	WT_BFO	WT_bio3	0.0307
+R5sup1	A6	bio3	WT	BFO	4	2	WT_BFO	WT_bio3	0.0161
+R5sup1	A6	bio3	WT	BFO	4	3	WT_BFO	WT_bio3	
+R5sup1	A6	bio3	WT	BFO	4	4	WT_BFO	WT_bio3	
+R5sup1	A6	bio3	WT	BFO	5	1	WT_BFO	WT_bio3	0.0061
+R5sup1	A6	bio3	WT	BFO	5	2	WT_BFO	WT_bio3	0.0352
+R5sup1	A6	bio3	WT	BFO	5	3	WT_BFO	WT_bio3	0.0355
+R5sup1	A6	bio3	WT	BFO	5	4	WT_BFO	WT_bio3	
+R5sup1	A6	bio3	WT	BFO	6	1	WT_BFO	WT_bio3	0.1127
+R5sup1	A6	bio3	WT	BFO	6	2	WT_BFO	WT_bio3	
+R5sup1	A6	bio3	WT	BFO	6	3	WT_BFO	WT_bio3	
+R5sup1	A6	bio3	WT	BFO	6	4	WT_BFO	WT_bio3	
+R5sup1	A6	bio3	WT	BO	1	1	WT_BO	WT_bio3	0.0197
+R5sup1	A6	bio3	WT	BO	1	2	WT_BO	WT_bio3	0.0321
+R5sup1	A6	bio3	WT	BO	1	3	WT_BO	WT_bio3	
+R5sup1	A6	bio3	WT	BO	1	4	WT_BO	WT_bio3	
+R5sup1	A6	bio3	WT	BO	2	1	WT_BO	WT_bio3	
+R5sup1	A6	bio3	WT	BO	2	2	WT_BO	WT_bio3	
+R5sup1	A6	bio3	WT	BO	2	3	WT_BO	WT_bio3	
+R5sup1	A6	bio3	WT	BO	2	4	WT_BO	WT_bio3	
+R5sup1	A6	bio3	WT	BO	3	1	WT_BO	WT_bio3	0.0122
+R5sup1	A6	bio3	WT	BO	3	2	WT_BO	WT_bio3	0.0376
+R5sup1	A6	bio3	WT	BO	3	3	WT_BO	WT_bio3	
+R5sup1	A6	bio3	WT	BO	3	4	WT_BO	WT_bio3	
+R5sup1	A6	bio3	WT	BO	4	1	WT_BO	WT_bio3	0.0652
+R5sup1	A6	bio3	WT	BO	4	2	WT_BO	WT_bio3	
+R5sup1	A6	bio3	WT	BO	4	3	WT_BO	WT_bio3	
+R5sup1	A6	bio3	WT	BO	4	4	WT_BO	WT_bio3	
+R5sup1	A6	bio3	WT	BO	5	1	WT_BO	WT_bio3	0.0196
+R5sup1	A6	bio3	WT	BO	5	2	WT_BO	WT_bio3	
+R5sup1	A6	bio3	WT	BO	5	3	WT_BO	WT_bio3	
+R5sup1	A6	bio3	WT	BO	5	4	WT_BO	WT_bio3	
+R5sup1	A6	bio3	WT	BO	6	1	WT_BO	WT_bio3	0.0793
+R5sup1	A6	bio3	WT	BO	6	2	WT_BO	WT_bio3	
+R5sup1	A6	bio3	WT	BO	6	3	WT_BO	WT_bio3	
+R5sup1	A6	bio3	WT	BO	6	4	WT_BO	WT_bio3	
+R5sup1	A6	bio3	WT	F	1	1	WT_F	WT_bio3	
+R5sup1	A6	bio3	WT	F	1	2	WT_F	WT_bio3	
+R5sup1	A6	bio3	WT	F	1	3	WT_F	WT_bio3	
+R5sup1	A6	bio3	WT	F	1	4	WT_F	WT_bio3	
+R5sup1	A6	bio3	WT	F	2	1	WT_F	WT_bio3	
+R5sup1	A6	bio3	WT	F	2	2	WT_F	WT_bio3	
+R5sup1	A6	bio3	WT	F	2	3	WT_F	WT_bio3	
+R5sup1	A6	bio3	WT	F	2	4	WT_F	WT_bio3	
+R5sup1	A6	bio3	WT	F	3	1	WT_F	WT_bio3	
+R5sup1	A6	bio3	WT	F	3	2	WT_F	WT_bio3	
+R5sup1	A6	bio3	WT	F	3	3	WT_F	WT_bio3	
+R5sup1	A6	bio3	WT	F	3	4	WT_F	WT_bio3	
+R5sup1	A6	bio3	WT	F	4	1	WT_F	WT_bio3	0.0045
+R5sup1	A6	bio3	WT	F	4	2	WT_F	WT_bio3	
+R5sup1	A6	bio3	WT	F	4	3	WT_F	WT_bio3	
+R5sup1	A6	bio3	WT	F	4	4	WT_F	WT_bio3	
+R5sup1	A6	bio3	WT	F	5	1	WT_F	WT_bio3	0.2022
+R5sup1	A6	bio3	WT	F	5	2	WT_F	WT_bio3	0.056
+R5sup1	A6	bio3	WT	F	5	3	WT_F	WT_bio3	
+R5sup1	A6	bio3	WT	F	5	4	WT_F	WT_bio3	
+R5sup1	A6	bio3	WT	F	6	1	WT_F	WT_bio3	
+R5sup1	A6	bio3	WT	F	6	2	WT_F	WT_bio3	
+R5sup1	A6	bio3	WT	F	6	3	WT_F	WT_bio3	
+R5sup1	A6	bio3	WT	F	6	4	WT_F	WT_bio3	
+R5sup1	A6	bio3	WT	FO	1	1	WT_FO	WT_bio3	
+R5sup1	A6	bio3	WT	FO	1	2	WT_FO	WT_bio3	
+R5sup1	A6	bio3	WT	FO	1	3	WT_FO	WT_bio3	
+R5sup1	A6	bio3	WT	FO	1	4	WT_FO	WT_bio3	
+R5sup1	A6	bio3	WT	FO	2	1	WT_FO	WT_bio3	
+R5sup1	A6	bio3	WT	FO	2	2	WT_FO	WT_bio3	
+R5sup1	A6	bio3	WT	FO	2	3	WT_FO	WT_bio3	
+R5sup1	A6	bio3	WT	FO	2	4	WT_FO	WT_bio3	
+R5sup1	A6	bio3	WT	FO	3	1	WT_FO	WT_bio3	0.0088
+R5sup1	A6	bio3	WT	FO	3	2	WT_FO	WT_bio3	0.0104
+R5sup1	A6	bio3	WT	FO	3	3	WT_FO	WT_bio3	
+R5sup1	A6	bio3	WT	FO	3	4	WT_FO	WT_bio3	
+R5sup1	A6	bio3	WT	FO	4	1	WT_FO	WT_bio3	
+R5sup1	A6	bio3	WT	FO	4	2	WT_FO	WT_bio3	
+R5sup1	A6	bio3	WT	FO	4	3	WT_FO	WT_bio3	
+R5sup1	A6	bio3	WT	FO	4	4	WT_FO	WT_bio3	
+R5sup1	A6	bio3	WT	FO	5	1	WT_FO	WT_bio3	
+R5sup1	A6	bio3	WT	FO	5	2	WT_FO	WT_bio3	
+R5sup1	A6	bio3	WT	FO	5	3	WT_FO	WT_bio3	
+R5sup1	A6	bio3	WT	FO	5	4	WT_FO	WT_bio3	
+R5sup1	A6	bio3	WT	FO	6	1	WT_FO	WT_bio3	0
+R5sup1	A6	bio3	WT	FO	6	2	WT_FO	WT_bio3	0
+R5sup1	A6	bio3	WT	FO	6	3	WT_FO	WT_bio3	0.0347
+R5sup1	A6	bio3	WT	FO	6	4	WT_FO	WT_bio3	

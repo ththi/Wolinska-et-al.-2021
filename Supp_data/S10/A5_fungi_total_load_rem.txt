@@ -1,0 +1,127 @@
+qPCR_name	experiment	biological	microbes	genotype	technical	compartment	qPCR_plate	ITS_UBQ	X16S_UBQ_ref
+A5-1-3	A5	bio1	BFO	WT	tech3	root	plate1	1.986184991	0.711497099
+A5-1-4	A5	bio1	BFO	WT	tech4	root	plate1	4.335420097	1.55304709
+A5-1-5	A5	bio1	BFO	WT	tech5	root	plate1	1.807801736	0.647596118
+A5-1-6	A5	bio1	BFO	WT	tech6	root	plate1	1.030566928	0.369172752
+A5-1-21	A5	bio1	BFO	pen2_pad3	tech3	root	plate1	0.002053947	0.000735771
+A5-1-22	A5	bio1	BFO	pen2_pad3	tech4	root	plate1	49375185.75	
+A5-1-23	A5	bio1	BFO	pen2_pad3	tech5	root	plate1		
+A5-1-42	A5	bio1	BFO	pad3	tech6	root	plate1		
+A5-1-25	A5	bio1	BFO	pyk_bglu	tech3	root	plate1	5.604757494	2.007752911
+A5-1-28	A5	bio1	BFO	pyk_bglu	tech4	root	plate1	3.282278855	1.1757877
+A5-1-29	A5	bio1	BFO	pyk_bglu	tech5	root	plate1	1.270006329	0.454945447
+A5-1-30	A5	bio1	BFO	pyk_bglu	tech6	root	plate1	2.929118539	1.049277561
+A5-1-33	A5	bio1	BFO	pen2	tech3	root	plate1	5.771007022	2.067307312
+A5-1-34	A5	bio1	BFO	pen2	tech4	root	plate2	4.066452597	0.95853471
+A5-1-35	A5	bio1	BFO	pen2	tech5	root	plate2	3.691687471	0.87019595
+A5-1-36	A5	bio1	BFO	pen2	tech6	root	plate2	12.81946567	3.021774513
+A5-1-39	A5	bio1	BFO	pad3	tech3	root	plate2	5.250155077	1.237554295
+A5-1-40	A5	bio1	BFO	pad3	tech4	root	plate2	2.266460375	0.534244747
+A5-1-41	A5	bio1	BFO	pad3	tech5	root	plate2	3.200999434	0.754532112
+A5-1-24	A5	bio1	BFO	pen2_pad3	tech6	root	plate2	4.44716E+11	
+A5-1-45	A5	bio1	BFO	cyp71a27	tech3	root	plate2	1.16884678	0.275517834
+A5-1-46	A5	bio1	BFO	cyp71a27	tech4	root	plate2	0.000903618	0.000212999
+A5-1-47	A5	bio1	BFO	cyp71a27	tech5	root	plate2	0.11379991	0.026824649
+A5-1-48	A5	bio1	BFO	cyp71a27	tech6	root	plate2	0.003330666	0.000785097
+A5-1-51	A5	bio1	BFO	cyp71a12_a13	tech3	root	plate2	1	
+A5-1-52	A5	bio1	BFO	cyp71a12_a13	tech4	root	plate2	1	
+A5-1-54	A5	bio1	BFO	cyp71a12_a13	tech6	root	plate2	2.832791	0.66773888
+A5-1-53	A5	bio1	BFO	cyp71a12_a13	tech5	root	plate2	3.353341395	0.790441803
+A5-1-57	A5	bio1	BFO	cyp79b2_b3	tech3	root	plate2	3.168954357	0.746978521
+A5-1-58	A5	bio1	BFO	cyp79b2_b3	tech4	root	plate2	4.034641242	0.951036212
+A5-1-59	A5	bio1	BFO	cyp79b2_b3	tech5	root	plate2	6.711675733	1.582060531
+A5-1-60	A5	bio1	BFO	cyp79b2_b3	tech6	root	plate2	4.48120024	1.056298056
+A5-1-63	A5	bio1	BFO	myb_triple	tech3	root	plate2	1.498299457	0.353175649
+A5-1-64	A5	bio1	BFO	myb_triple	tech4	root	plate2	348.2307423	
+A5-1-65	A5	bio1	BFO	myb_triple	tech5	root	plate3	1.198124689	0.410633789
+A5-1-66	A5	bio1	BFO	myb_triple	tech6	root	plate3	1.964083656	0.673151235
+A5-1-67	A5	bio1	BFO	soil	tech1	soil	plate3	8.96489E-07	
+A5-1-68	A5	bio1	BFO	soil	tech2	soil	plate3	1.58725E-06	
+A5-1-69	A5	bio1	BFO	soil	tech3	soil	plate3	978608.7482	
+A5-1-70	A5	bio1	BFO	soil	tech4	soil	plate3	23686.71564	
+A5-1-71	A5	bio1	BFO	soil	tech5	soil	plate3	61578.30571	
+A5-1-72	A5	bio1	BFO	soil	tech6	soil	plate3	305251.9182	
+A5-2-3	A5	bio2	BFO	WT	tech3	root	plate3	2.96719714	1.01694875
+A5-2-4	A5	bio2	BFO	WT	tech4	root	plate3	1.20302919	0.412314711
+A5-2-36	A5	bio2	BFO	pen2	tech6	root	plate3	4.058364855	1.39092513
+A5-2-6	A5	bio2	BFO	WT	tech6	root	plate3	1.71617487	0.58818535
+A5-2-21	A5	bio2	BFO	pen2_pad3	tech3	root	plate3	6.629762335	2.272221292
+A5-2-22	A5	bio2	BFO	pen2_pad3	tech4	root	plate4	4.113761817	1.057333514
+A5-2-23	A5	bio2	BFO	pen2_pad3	tech5	root	plate4	4.236586217	1.088902273
+A5-2-24	A5	bio2	BFO	pen2_pad3	tech6	root	plate4	0.009337676	0.002400002
+A5-2-27	A5	bio2	BFO	pyk_bglu	tech3	root	plate4	1.222801573	0.314288756
+A5-2-28	A5	bio2	BFO	pyk_bglu	tech4	root	plate4	2.740095776	0.704269042
+A5-2-29	A5	bio2	BFO	pyk_bglu	tech5	root	plate4	3.843805127	0.987948297
+A5-2-30	A5	bio2	BFO	pyk_bglu	tech6	root	plate4	2.394957409	0.615560367
+A5-2-33	A5	bio2	BFO	pen2	tech3	root	plate4	1.571607503	0.403940081
+A5-2-34	A5	bio2	BFO	pen2	tech4	root	plate4	2.974270184	0.764457371
+A5-2-35	A5	bio2	BFO	pen2	tech5	root	plate4	7.428555426	1.909313412
+A5-2-5	A5	bio2	BFO	WT	tech5	root	plate4	1.728472503	0.444258075
+A5-2-39	A5	bio2	BFO	pad3	tech3	root	plate4	1.927456705	0.495401693
+A5-2-40	A5	bio2	BFO	pad3	tech4	root	plate4	5.089192187	1.308042054
+A5-2-41	A5	bio2	BFO	pad3	tech5	root	plate4	4.903327738	1.260270521
+A5-2-42	A5	bio2	BFO	pad3	tech6	root	plate4	7.984211894	2.052130189
+A5-2-45	A5	bio2	BFO	cyp71a27	tech3	root	plate4	2.117630781	0.544280902
+A5-2-46	A5	bio2	BFO	cyp71a27	tech4	root	plate4	4.662822947	1.198455134
+A5-2-47	A5	bio2	BFO	cyp71a27	tech5	root	plate4	1.836659316	0.472064629
+A5-2-48	A5	bio2	BFO	cyp71a27	tech6	root	plate4	1.989537751	0.511357982
+A5-2-51	A5	bio2	BFO	cyp71a12_a13	tech3	root	plate4	4.832075311	1.241956971
+A5-2-52	A5	bio2	BFO	cyp71a12_a13	tech4	root	plate4	3.537688248	0.909269061
+A5-2-53	A5	bio2	BFO	cyp71a12_a13	tech5	root	plate5	12.06585761	2.942505551
+A5-2-54	A5	bio2	BFO	cyp71a12_a13	tech6	root	plate5	1.712804995	0.417702443
+A5-2-57	A5	bio2	BFO	cyp79b2_b3	tech3	root	plate5	5.530289495	1.348673924
+A5-2-58	A5	bio2	BFO	cyp79b2_b3	tech4	root	plate5	10.94095849	2.66817595
+A5-2-59	A5	bio2	BFO	cyp79b2_b3	tech5	root	plate5	6.235245297	1.52059178
+A5-2-60	A5	bio2	BFO	cyp79b2_b3	tech6	root	plate5	8.954828026	2.183817514
+A5-2-61	A5	bio2	BFO	myb_triple	tech1	root	plate5	790693.3887	
+A5-2-63	A5	bio2	BFO	myb_triple	tech3	root	plate5	2.45830225	0.599507159
+A5-2-64	A5	bio2	BFO	myb_triple	tech4	root	plate5	1.947312729	0.474891939
+A5-2-65	A5	bio2	BFO	myb_triple	tech5	root	plate5	2.428214764	0.592169712
+A5-2-66	A5	bio2	BFO	myb_triple	tech6	root	plate5	4.348311097	1.060424377
+A5-2-68	A5	bio2	BFO	soil	tech2	soil	plate5	2.18291E-06	
+A5-2-69	A5	bio2	BFO	soil	tech3	soil	plate5	148018.5565	
+A5-2-70	A5	bio2	BFO	soil	tech4	soil	plate5	1158301.174	
+A5-2-71	A5	bio2	BFO	soil	tech5	soil	plate5	222943.4124	
+A5-2-72	A5	bio2	BFO	soil	tech6	soil	plate5	443415.3692	
+A5-3-3	A5	bio3	BFO	WT	tech3	root	plate5	13135.7675	
+A5-3-4	A5	bio3	BFO	WT	tech4	root	plate5	2.018354411	0.492216902
+A5-3-5	A5	bio3	BFO	WT	tech5	root	plate5	1.457462771	0.355432032
+A5-3-6	A5	bio3	BFO	WT	tech6	root	plate5	4.173208953	1.017722147
+A5-3-21	A5	bio3	BFO	pen2_pad3	tech3	root	plate6	1.091734038	0.339455867
+A5-3-22	A5	bio3	BFO	pen2_pad3	tech4	root	plate6	1.884796183	0.586044861
+A5-3-23	A5	bio3	BFO	pen2_pad3	tech5	root	plate6	0.002754813	0.000856562
+A5-3-24	A5	bio3	BFO	pen2_pad3	tech6	root	plate6	3.710014664	1.153565063
+A5-3-27	A5	bio3	BFO	pyk_bglu	tech3	root	plate6	2.071877191	0.644214473
+A5-3-28	A5	bio3	BFO	pyk_bglu	tech4	root	plate6	3.923558564	1.219962855
+A5-3-29	A5	bio3	BFO	pyk_bglu	tech5	root	plate6	1.917803785	0.596308005
+A5-3-30	A5	bio3	BFO	pyk_bglu	tech6	root	plate6	1	0.31093275
+A5-3-33	A5	bio3	BFO	pen2	tech3	root	plate6	3.639346397	1.131591984
+A5-3-34	A5	bio3	BFO	pen2	tech4	root	plate6	1.940394018	0.603332049
+A5-3-35	A5	bio3	BFO	pen2	tech5	root	plate6	3.170827998	0.98591427
+A5-3-36	A5	bio3	BFO	pen2	tech6	root	plate6	5.229171391	1.625920642
+A5-3-39	A5	bio3	BFO	pad3	tech3	root	plate6	2.409231667	0.749109028
+A5-3-40	A5	bio3	BFO	pad3	tech4	root	plate6	10.81689535	3.363327022
+A5-3-41	A5	bio3	BFO	pad3	tech5	root	plate7	6.039626435	2.462406255
+A5-3-42	A5	bio3	BFO	pad3	tech6	root	plate7	2.608303286	1.063427084
+A5-3-45	A5	bio3	BFO	cyp71a27	tech3	root	plate7	2.817329678	1.148648893
+A5-3-46	A5	bio3	BFO	cyp71a27	tech4	root	plate7	2.626721914	1.070936512
+A5-3-47	A5	bio3	BFO	cyp71a27	tech5	root	plate7	2.122404504	0.865322083
+A5-3-48	A5	bio3	BFO	cyp71a27	tech6	root	plate7	2.805987989	1.144024792
+A5-3-51	A5	bio3	BFO	cyp71a12_a13	tech3	root	plate7	2.308276666	0.941103719
+A5-3-52	A5	bio3	BFO	cyp71a12_a13	tech4	root	plate7	1.546357317	0.630462822
+A5-3-53	A5	bio3	BFO	cyp71a12_a13	tech5	root	plate7	1.004574901	0.409573596
+A5-3-54	A5	bio3	BFO	cyp71a12_a13	tech6	root	plate7	2.847966464	1.161139767
+A5-3-57	A5	bio3	BFO	cyp79b2_b3	tech3	root	plate7	5.56909027	2.270564721
+A5-3-58	A5	bio3	BFO	cyp79b2_b3	tech4	root	plate7	11.2146309	4.572298894
+A5-3-63	A5	bio3	BFO	myb_triple	tech3	root	plate7	2.514836256	1.025319793
+A5-3-60	A5	bio3	BFO	cyp79b2_b3	tech6	root	plate7	3.295746279	1.343703346
+A5-3-59	A5	bio3	BFO	cyp79b2_b3	tech5	root	plate7	5.977308877	2.436998865
+A5-3-64	A5	bio3	BFO	myb_triple	tech4	root	plate7	3.811213733	1.553863742
+A5-3-65	A5	bio3	BFO	myb_triple	tech5	root	plate7	1	0.407708371
+A5-3-66	A5	bio3	BFO	myb_triple	tech6	root	plate7	1.631667567	0.665244526
+A5-3-67	A5	bio3	BFO	soil	tech1	soil	plate7	1	0.407708371
+A5-3-68	A5	bio3	BFO	soil	tech2	soil	plate7	322751.7985	
+A5-3-69	A5	bio3	BFO	soil	tech3	soil	plate7	17591.20942	
+A5-3-70	A5	bio3	BFO	soil	tech4	soil	plate8	139440.4555	
+A5-3-71	A5	bio3	BFO	soil	tech5	soil	plate8	1765399.675	
+A5-3-72	A5	bio3	BFO	soil	tech6	soil	plate8	564836.174	
